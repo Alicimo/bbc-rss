@@ -1,0 +1,22 @@
+[Unit]
+Description=BBC Most Read RSS server and updater
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=bbc-rss
+Group=bbc-rss
+WorkingDirectory=/opt/bbc-rss
+StateDirectory=bbc-rss
+ExecStart=/opt/bbc-rss/.venv/bin/bbc-most-read-rss --serve --host 127.0.0.1 --port 8000 --interval 900 --output /var/lib/bbc-rss/feed.xml
+Restart=on-failure
+RestartSec=10
+TimeoutStopSec=10
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
