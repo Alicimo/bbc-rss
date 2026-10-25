@@ -58,6 +58,59 @@ journalctl -u bbc-rss -f
 
 The service creates `/var/lib/bbc-rss` for persistent history and restarts on failure.
 
+### Nix / NixOS deployment
+
+Build the packaged application or run the server directly:
+
+```sh
+nix build
+nix run . -- --serve --output "$PWD/feed.xml"
+```
+
+The flake supports x86_64 and aarch64 Linux, plus Apple Silicon macOS. Python, runtime
+dependencies, and HTTPS certificates are included; `uv` is not required.
+`flake.lock` pins Nixpkgs and its Python packages independently of `uv.lock`.
+
+For a NixOS host, add this repository to the host's flake inputs and import its
+module in the host configuration:
+
+```nix
+{
+  inputs.bbc-rss.url = "github:Alicimo/bbc-rss";
+
+  # Merge into the host flake's existing outputs:
+  outputs = { nixpkgs, bbc-rss, ... }: {
+    nixosConfigurations.hostname = nixpkgs.lib.nixosSystem {
+      system = "x86_64-linux"; # Or aarch64-linux.
+      modules = [ bbc-rss.nixosModules.default ./configuration.nix ];
+    };
+  };
+}
+```
+
+Then enable the service in `configuration.nix`:
+
+```nix
+{
+  services.bbc-rss = {
+    enable = true;
+    host = "127.0.0.1"; # Default; place an HTTPS reverse proxy in front.
+    port = 8000;
+    interval = 900;
+    feedUrl = "https://rss.example.org/feed.xml";
+  };
+}
+```
+
+Apply with `sudo nixos-rebuild switch --flake /path/to/host-config#hostname`.
+The `bbc-rss` systemd service uses a dynamic user, keeps history in
+`/var/lib/bbc-rss/feed.xml` across rebuilds and restarts, and restarts on failure.
+Back up that file. The module does not open firewall ports; when binding to a
+public or LAN address, configure the host firewall as needed. Inspect status with
+`systemctl status bbc-rss` and `journalctl -u bbc-rss -f`.
+
+Run `nix flake check` to build the package and run the Python test suite.
+
 ## GitHub Actions + Pages
 
 The [workflow](.github/workflows/feed.yml) scrapes approximately every 15 minutes,
