@@ -20,7 +20,7 @@ python3Packages.buildPythonApplication {
   };
 
   build-system = [ python3Packages.hatchling ];
-  dependencies = [ python3Packages.beautifulsoup4 ];
+  dependencies = [ python3Packages.beautifulsoup4 python3Packages.trafilatura ];
   nativeCheckInputs = [ git bash ];
 
   # urllib needs a CA bundle both in systemd and when run outside NixOS.

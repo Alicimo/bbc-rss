@@ -132,13 +132,25 @@ GitHub schedules can be delayed, and public-repository schedules disable after
 
 ## Feed behavior
 
-Entries contain headlines, links, and available summaries. Their RSS dates record
-first discovery by this app. Previously saved entries remain unchanged, even if a
-story’s title or position changes. Stories appearing only between scrapes may be
-missed, and BBC’s list may vary by the deployment machine’s region.
+Entries contain headlines, links, and available summaries in `<description>`.
+Trafilatura extracts article HTML into `<content:encoded>`, retaining paragraphs,
+subheadings, emphasis, and links. Duplicate headlines and known BBC promotional
+footers are removed; images and embedded media are omitted. Extraction is best
+effort and may be incomplete for live blogs, video pages, or unusual layouts.
 
-Each normal scrape fetches one page. Invalid or incomplete results preserve the
-previous feed. BBC layout changes may require parser updates. `--ttl` only sets a
+Article bodies are fetched for current Most read stories that do not already have
+saved content, including entries in an older summary-only feed. Successful bodies
+are retained in the XML history and never fetched again. Failed article requests
+or empty extractions keep the summary and retry while the story remains in the
+current ten. Historical stories outside the current ten are not backfilled.
+
+RSS dates record first discovery by this app. Saved headlines, summaries, dates,
+and article bodies remain unchanged, even if a story’s title or position changes.
+Stories appearing only between scrapes may be missed, and BBC’s list may vary by
+the deployment machine’s region.
+
+Each scrape fetches the Most read page and up to ten article pages needing
+content. Invalid or incomplete Most read results preserve the previous feed. BBC layout changes may require parser updates. `--ttl` only sets a
 reader polling hint; server scheduling uses `--interval`.
 
 ## Tests

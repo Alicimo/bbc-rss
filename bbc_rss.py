@@ -19,9 +19,12 @@ from urllib.parse import urljoin, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
+import trafilatura
 from bs4 import BeautifulSoup
 
 SOURCE_URL = "https://www.bbc.com/news"
+CONTENT = "http://purl.org/rss/1.0/modules/content/"
+ET.register_namespace("content", CONTENT)
 ATOM = "http://www.w3.org/2005/Atom"
 ET.register_namespace("atom", ATOM)
 LOG = logging.getLogger(__name__)
@@ -38,6 +41,7 @@ class Story:
     summary: str = ""
     published: datetime | None = None
     first_seen: datetime | None = None
+    content: str = ""
 
 
 def canonical_url(href: str) -> str:
@@ -147,9 +151,9 @@ def parse_most_read(page: str) -> list[Story]:
     return stories
 
 
-def fetch_page(timeout: float = 30, attempts: int = 3) -> str:
+def fetch_html(url: str, timeout: float = 30, attempts: int = 3) -> str:
     """Retry transient failures only; bound both request time and response size."""
-    request = Request(SOURCE_URL, headers={
+    request = Request(url, headers={
         "User-Agent": "bbc-most-read-rss/0.1 (+personal RSS feed generator)",
         "Accept": "text/html", "Accept-Language": "en-GB,en;q=0.9",
     })
@@ -170,6 +174,57 @@ def fetch_page(timeout: float = 30, attempts: int = 3) -> str:
                 raise FeedError(f"Could not fetch BBC News: {error}") from error
         time.sleep(2 ** attempt)
     raise FeedError("Could not fetch BBC News")
+
+
+def fetch_page(timeout: float = 30, attempts: int = 3) -> str:
+    return fetch_html(SOURCE_URL, timeout, attempts)
+
+
+def clean_article(content: str, url: str) -> str:
+    """Keep feed-safe article markup and remove BBC promotional footers."""
+    soup = BeautifulSoup(content, "html.parser")
+    for node in soup.find_all(["script", "style", "iframe", "object", "form", "img", "h1"]):
+        node.decompose()
+    for node in list(soup.find_all(["p", "h2", "h3"])):
+        text = node.get_text(" ", strip=True).casefold()
+        if text.startswith(("listen to bbc radio", "follow essex news on", "follow us on twitter",
+                            "go to bbcafrica.com", "you may also be interested in:",
+                            "do you have a story suggestion for essex?")):
+            node.decompose()
+    allowed = {"p", "h2", "h3", "h4", "strong", "b", "em", "i", "a", "ul", "ol", "li", "blockquote", "br"}
+    for node in list(soup.find_all()):
+        if node.name not in allowed:
+            node.unwrap()
+            continue
+        href = urljoin(url, node.get("href", "")) if node.name == "a" else ""
+        node.attrs.clear()
+        if href and urlsplit(href).scheme in {"http", "https"}:
+            node["href"] = href
+    return str(soup).strip() if soup.get_text(strip=True) else ""
+
+
+def fetch_article(story: Story, timeout: float = 30) -> str:
+    """Article failures leave the summary usable and can be retried later."""
+    try:
+        page = fetch_html(story.url, timeout, attempts=1)
+        extracted = trafilatura.extract(
+            page, url=story.url, output_format="html", include_comments=False,
+            include_links=True, include_formatting=True, include_tables=False,
+        )
+        content = clean_article(extracted or "", story.url)
+        if not content:
+            raise FeedError("No readable article text found")
+        return content
+    except Exception as error:
+        LOG.warning("Article extraction failed for %s; keeping summary: %s", story.url, error)
+        return ""
+
+
+def enrich_stories(stories: list[Story], current: list[Story], timeout: float) -> list[Story]:
+    current_urls = {story.url for story in current}
+    return [replace(story, content=fetch_article(story, timeout))
+            if story.url in current_urls and not story.content else story
+            for story in stories]
 
 
 def load_history(content: bytes) -> list[Story]:
@@ -198,7 +253,8 @@ def load_history(content: bytes) -> list[Story]:
             for paragraph in description.find_all("p"):
                 if paragraph.get_text().startswith("BBC News Most read: #"):
                     paragraph.decompose()
-            stories.append(Story(title, url, description.get_text().strip(), first_seen=first_seen))
+            stories.append(Story(title, url, description.get_text().strip(), first_seen=first_seen,
+                                 content=item.findtext(f"{{{CONTENT}}}encoded") or ""))
         return stories
     except (ET.ParseError, ValueError, TypeError, OverflowError) as error:
         raise FeedError(f"Existing feed history is invalid; refusing to discard it: {error}") from error
@@ -240,6 +296,8 @@ def build_rss(stories: list[Story], *, feed_url: str | None = None, ttl: int = 1
         ET.SubElement(item, "link").text = story.url
         ET.SubElement(item, "guid", isPermaLink="true").text = story.url
         ET.SubElement(item, "description").text = f"<p>{html.escape(story.summary)}</p>"
+        if story.content:
+            ET.SubElement(item, f"{{{CONTENT}}}encoded").text = story.content
         date = story.first_seen or story.published
         if date:
             ET.SubElement(item, "pubDate").text = format_datetime(date, usegmt=True)
@@ -280,6 +338,7 @@ def refresh(output: Path, *, timeout: float = 30, feed_url: str | None = None, t
     history = load_history(previous) if previous is not None else []
     current = parse_most_read(fetch_page(timeout))
     stories = merge_stories(history, current)
+    stories = enrich_stories(stories, current, timeout)
     content = build_rss(stories, feed_url=feed_url, ttl=ttl)
     if content != previous:
         atomic_write(output, content)

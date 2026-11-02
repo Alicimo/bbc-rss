@@ -36,6 +36,9 @@ def request(port, path='/feed.xml', *, method='GET', headers=None):
 
 class ServerTests(unittest.TestCase):
     def setUp(self):
+        mock = patch("bbc_rss.fetch_article", return_value="")
+        mock.start()
+        self.addCleanup(mock.stop)
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.path = Path(self.temp.name) / 'feed.xml'

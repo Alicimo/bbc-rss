@@ -78,6 +78,11 @@ class ParsingTests(unittest.TestCase):
 
 
 class FeedTests(unittest.TestCase):
+    def setUp(self):
+        mock = patch('bbc_rss.fetch_article', return_value='')
+        mock.start()
+        self.addCleanup(mock.stop)
+
     def test_valid_xml_escaping_dates_order_and_self_link(self):
         stories = bbc_rss.parse_most_read(page())
         xml = bbc_rss.build_rss(stories, feed_url='https://example.org/feed.xml')
@@ -115,6 +120,11 @@ class FeedTests(unittest.TestCase):
 
 
 class HistoryTests(unittest.TestCase):
+    def setUp(self):
+        mock = patch('bbc_rss.fetch_article', return_value='')
+        mock.start()
+        self.addCleanup(mock.stop)
+
     def test_new_story_added_old_story_retained_across_restart(self):
         first_seen = datetime(2026, 10, 25, 12, tzinfo=timezone.utc)
         next_seen = datetime(2026, 10, 25, 12, 15, tzinfo=timezone.utc)
@@ -177,6 +187,72 @@ class HistoryTests(unittest.TestCase):
         restored = bbc_rss.load_history(ET.tostring(document))
         self.assertNotIn('Most read: #', restored[0].summary)
         self.assertEqual(restored[0].summary, stories[0].summary)
+
+
+class ArticleTests(unittest.TestCase):
+    def test_cleanup_preserves_body_and_safe_links(self):
+        raw = ('<html><body><h1>Duplicate title</h1><h2>Background</h2>'
+               '<p onclick="bad()">A report with <a href="/news/articles/other">context</a>'
+               ' and <strong>emphasis</strong>.</p>'
+               '<p><a href="javascript:alert(1)">Unsafe link</a></p>'
+               '<script>bad()</script><img src="tracking">'
+               '<p>Listen to BBC Radio Nottingham on Sounds and follow us.</p>'
+               '<h2>You may also be interested in:</h2>'
+               '<p>Follow Essex news on BBC Sounds, Facebook, Instagram and X.</p></body></html>')
+        cleaned = bbc_rss.clean_article(raw, 'https://www.bbc.com/news/articles/test')
+        self.assertIn('<h2>Background</h2>', cleaned)
+        self.assertIn('<strong>emphasis</strong>', cleaned)
+        self.assertIn('href="https://www.bbc.com/news/articles/other"', cleaned)
+        for clutter in ('h1', 'Duplicate', 'onclick', 'javascript:', '<script', '<img', 'Listen to BBC', 'interested in', 'Follow Essex'):
+            self.assertNotIn(clutter, cleaned)
+
+    def test_extraction_and_failure_fallback(self):
+        story = bbc_rss.Story('Title', 'https://www.bbc.com/news/articles/test', 'Summary')
+        # Exercise the real extractor, including its paragraph/heading preservation.
+        body = '<html><body><article><h1>Title</h1>' + ''.join(
+            f'<p>Paragraph {i}: This report describes events in a town where residents '
+            'are meeting to discuss their plans. The council has published detailed '
+            'proposals and asked everyone to provide feedback before next month.</p>' for i in range(6)
+        ) + '</article></body></html>'
+        with patch('bbc_rss.fetch_html', return_value=body):
+            result = bbc_rss.fetch_article(story)
+        self.assertIn('Paragraph 0', result)
+        self.assertIn('Paragraph 5', result)
+        self.assertNotIn('<h1', result)
+        for error in (bbc_rss.FeedError('HTTP 403'), ValueError('extractor failed')):
+            with patch('bbc_rss.fetch_html', side_effect=error), self.assertLogs(level='WARNING'):
+                self.assertEqual(bbc_rss.fetch_article(story), '')
+        with patch('bbc_rss.fetch_html', return_value=''), patch('bbc_rss.trafilatura.extract', return_value=None), self.assertLogs(level='WARNING'):
+            self.assertEqual(bbc_rss.fetch_article(story), '')
+
+    def test_refresh_backfills_preserves_content_and_retries_failed_current_articles(self):
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder) / 'feed.xml'
+            history = bbc_rss.merge_stories([], bbc_rss.parse_most_read(page()),
+                                            now=datetime(2026, 10, 25, 12, tzinfo=timezone.utc))
+            older = bbc_rss.Story('Older', 'https://www.bbc.com/news/articles/older', 'Old summary', first_seen=history[0].first_seen)
+            bbc_rss.atomic_write(output, bbc_rss.build_rss(history + [older]))
+            body = '<p>Full article with <a href="https://www.bbc.com/news/context">context &amp; details</a>.</p>'
+            def extract(story, timeout):
+                return '' if story.url.endswith('story0') else body
+            with patch('bbc_rss.fetch_page', return_value=page()), patch('bbc_rss.fetch_article', side_effect=extract) as fetch:
+                bbc_rss.refresh(output)
+                self.assertEqual(fetch.call_count, 10)
+            restored = bbc_rss.load_history(output.read_bytes())
+            self.assertEqual([s.first_seen for s in restored], [s.first_seen for s in history + [older]])
+            self.assertEqual(restored[0].summary, history[0].summary)
+            self.assertEqual(restored[1].content, body)
+            self.assertEqual(restored[-1].content, '')  # Off-list history is not fetched.
+            self.assertEqual(ET.parse(output).findtext(f'channel/item[2]/{{{bbc_rss.CONTENT}}}encoded'), body)
+            with patch('bbc_rss.fetch_page', return_value=page()), patch('bbc_rss.fetch_article', return_value=body) as fetch:
+                bbc_rss.refresh(output)
+                self.assertEqual(fetch.call_count, 1)
+            previous = output.read_bytes()
+            with patch('bbc_rss.fetch_page', return_value=page()), patch('bbc_rss.fetch_article') as fetch, patch('bbc_rss.atomic_write') as write:
+                bbc_rss.refresh(output)
+                fetch.assert_not_called()
+                write.assert_not_called()
+            self.assertEqual(output.read_bytes(), previous)
 
 
 class FetchTests(unittest.TestCase):

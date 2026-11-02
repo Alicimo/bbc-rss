@@ -3,7 +3,7 @@ name = "bbc-most-read-rss"
 version = "0.1.0"
 description = "Generate RSS from BBC News' Most read top ten"
 requires-python = ">=3.11"
-dependencies = ["beautifulsoup4>=4.12,<5"]
+dependencies = ["beautifulsoup4>=4.12,<5", "trafilatura>=2.3,<3"]
 
 [project.scripts]
 bbc-most-read-rss = "bbc_rss:main"
