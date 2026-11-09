@@ -5,9 +5,72 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:40:49 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nvidia launches investigation into CEO's affair with suspected Chinese spy</title>
+      <link>https://www.bbc.com/news/articles/c3dxw10rjn9no</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3dxw10rjn9no</guid>
+      <description>&lt;p&gt;Jensen Huang also admitted to having been &amp;quot;unfaithful&amp;quot; to his wife and says he will cooperate with a security investigation.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.&lt;/p&gt;
+&lt;p&gt;The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.&lt;/p&gt;
+&lt;p&gt;Separately, Jensen Huang admitted to having been "unfaithful" to his wife and apologised for hurting her and their children.&lt;/p&gt;
+&lt;p&gt;US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for Beijing, &lt;a href="https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"&gt;according to a New York Times report.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jensen Huang said he took "full responsibility" for what he did, adding that he had fallen short of his responsibilities to Nvidia's employees, board and shareholders.&lt;/p&gt;
+&lt;p&gt;Nvidia is one of the world's largest companies and seen as central to making the hardware for emerging AI technologies, and Jensen Huang has been in charge of it for more than 30 years.&lt;/p&gt;
+&lt;p&gt;He said: "I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry."&lt;/p&gt;
+&lt;p&gt;His statement continued: "Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully.&lt;/p&gt;
+&lt;p&gt;"I love our country and our company. I am committed to protecting Nvidia and supporting America's national security. I am proud and grateful to be an American."&lt;/p&gt;
+&lt;p&gt;A separate statement issued by Nvidia's board of directors said it would begin an investigation in "light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort".&lt;/p&gt;
+&lt;p&gt;It continued: "The Board prioritises US national and economic security, which is paramount to the interests of Nvidia and its shareholders.&lt;/p&gt;
+&lt;p&gt;"While the Board has no reason to believe that either national security or Nvidia secrets were compromised, the Board's inquiry will examine all available information."&lt;/p&gt;
+&lt;p&gt;US President Donald Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.&lt;/p&gt;
+&lt;p&gt;"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".&lt;/p&gt;
+&lt;p&gt;Jensen Huang rescued Nvidia from almost going broke on more than one occasion, and he took a punt on AI a long time before the rest of the world did.&lt;/p&gt;
+&lt;p&gt;His decision to make Nvidia chips, originally designed for gaming, become the best in the business for AI development, has now paid off in spades and the company is worth trillions.&lt;/p&gt;
+&lt;p&gt;This is a big blow for a man who is renowned for being a workaholic, a perfectionist and someone who expects incredibly high standards from his staff.&lt;/p&gt;
+&lt;p&gt;Alice Huang, who is of no relation to Jensen Huang, is linked to Singapore-based data centre firm Megaspeed.&lt;/p&gt;
+&lt;p&gt;The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.&lt;/p&gt;
+&lt;p&gt;Nvidia is a central player in AI infrastructure, providing chips to leading AI model developers including OpenAI and Meta.&lt;/p&gt;
+&lt;p&gt;The microchip manufacturer is worth some $4.5 trillion, making it one of the most valuable companies ever.&lt;/p&gt;
+&lt;p&gt;China has previously rejected allegations of an espionage operation targeting Nvidia's chief, describing &lt;a href="https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo"&gt;the claims as "groundless speculation"&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;US intelligence agencies had been monitoring Alice Huang and concluded that she was acting on behalf of the Chinese government, according to unnamed sources cited by The New York Times.&lt;/p&gt;
+&lt;p&gt;Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".&lt;/p&gt;
+&lt;p&gt;It remains unclear what information Alice Huang – who is also known as Huang Le – allegedly passed to Beijing, how valuable it was, or when she is believed to have begun gathering intelligence.&lt;/p&gt;
+&lt;p&gt;Alice Huang did not respond to the paper's request for comment.&lt;/p&gt;
+&lt;p&gt;Last week, members of Congress wrote to Jensen Huang, asking him to appear before them in the light of the reported relationship.&lt;/p&gt;
+&lt;p&gt;Three House Republican committee leaders asked the CEO to appear later in the month, to talk about Nvidia's "security protocols against foreign adversary espionage" given his reported relationship with Alice Huang.&lt;/p&gt;
+&lt;p&gt;"Recent reports raise significant national security concerns regarding the PRC's [China's] access to sensitive US technology and information.&lt;/p&gt;
+&lt;p&gt;"The issue of PRC infiltration and access to cutting-edge US technology is core to the investigative work of our three committees this Congress," the letter said.&lt;/p&gt;
+&lt;p&gt;Nvidia's AI chips have been a major focus of the rivalry between the US and China, and Washington has previously imposed controls on where its advanced products can be sold.&lt;/p&gt;
+&lt;p&gt;The H200, Nvidia's second most advanced semiconductor, had previously been restricted by Washington over concerns that it would give China's technology industry an edge over the US.&lt;/p&gt;
+&lt;p&gt;In January, the Trump administration said it would allow the company to sell its H200 chips to Chinese customers under certain conditions.&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 09 Nov 2026 00:40:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes</title>
+      <link>https://www.bbc.com/news/articles/c6ly3mjx958eo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6ly3mjx958eo</guid>
+      <description>&lt;p&gt;Footage authenticated by BBC Verify shows damage to the building in the capital&amp;#x27;s central financial district.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The Aramco Tower, a skyscraper in the Saudi Arabian capital's central financial district, had been hit by an air attack.&lt;/p&gt;
+&lt;p&gt;A statement issued via the Houthi-controlled Saba news agency confirmed the group had targeted Riyadh's business zone on Saturday, without mentioning the Aramco Tower by name.&lt;/p&gt;
+&lt;p&gt;The Saudi energy ministry said the tower had suffered only "minor damage" and no one had been killed or injured.&lt;/p&gt;
+&lt;p&gt;Footage authenticated by BBC Verify shows more extensive damage to the building, with at least one floor appearing to have been badly hit by a missile or drone strike.&lt;/p&gt;
+&lt;p&gt;Windows on more than one level appear to have been shattered by the strike.&lt;/p&gt;
+&lt;p&gt;The Houthis also said Riyadh's airport and Aramco oil storage facilities were targeted in separate strikes. Saudi Arabia said its air defences had intercepted and destroyed several missiles.&lt;/p&gt;
+&lt;p&gt;The strikes were the latest claimed by the Yemen-based armed group against targets deep inside Saudi Arabia, which the Gulf power has struggled to contain in recent months.&lt;/p&gt;
+&lt;p&gt;It came a day after the Houthis &lt;a href="https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"&gt;accused a Saudi-led coalition of killing at least 33 people&lt;/a&gt;, including women and children, in an air strike on Yemen.&lt;/p&gt;
+&lt;p&gt;Footage broadcast by Houthi-run television channel Al Masirah showed rescuers pulling bodies from the rubble of several buildings in al-Shariyah, a town to the east of the capital, Sanaa.&lt;/p&gt;
+&lt;p&gt;Saba said 39 people had been injured in the strike. Saudi Arabia has not commented.&lt;/p&gt;
+&lt;p&gt;A Saudi-led coalition has been fighting the Houthis for more than a decade in support of Yemen's internationally recognised government, which has lost control of a large swathe of the country to the rebel group.&lt;/p&gt;
+&lt;p&gt;Although the conflict had largely been dormant in recent years, fighting has intensified following the outbreak of the Iran war.&lt;/p&gt;
+&lt;p&gt;An informal ceasefire unravelled in July after the Tehran-backed Houthis announced a "maritime embargo" against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea.&lt;/p&gt;
+&lt;p&gt;The Houthis said they were retaliating for what they have called a Saudi blockade of their territory, as well as an air strike on Sanaa airport Saudi Arabia said had been to prevent an Iranian aircraft from landing there.&lt;/p&gt;
+&lt;p&gt;Major fighting has since resumed between Houthi forces and troops aligned with Yemen's Saudi-backed government.&lt;/p&gt;
+&lt;p&gt;The United Nations says more than 1,600 people have been killed and more than 300,000 displaced since fighting resumed.&lt;/p&gt;</content:encoded>
+      <pubDate>Mon, 09 Nov 2026 00:40:49 GMT</pubDate>
+    </item>
     <item>
       <title>Top House Democrat 'a hard yes' on impeaching Hegseth</title>
       <link>https://www.bbc.com/news/articles/cj4g1nwx39wno</link>
