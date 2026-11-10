@@ -5,9 +5,150 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:56:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:31:51 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>US military aircraft leave second UK base, report says</title>
+      <link>https://www.bbc.com/news/articles/c32l4lw12z7po</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c32l4lw12z7po</guid>
+      <description>&lt;p&gt;This comes weeks after the US withdrew its bombers from RAF Fairford airbase in September.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Several US military aircraft have left a second airbase in Britain on Monday, according to a report in the Wall Street Journal (WSJ).&lt;/p&gt;
+&lt;p&gt;Two US refuelling tankers that were using the RAF Mildenhall airbase in Suffolk diverted to Germany earlier on Monday, while several other tankers at the base were moved ⁠to Germany and other locations later in the day, the WSJ report said.&lt;/p&gt;
+&lt;p&gt;This action was taken in response to a threat from Iran, the newspaper reported, citing US officials.&lt;/p&gt;
+&lt;p&gt;This comes weeks after the US withdrew its bombers from RAF Fairford airbase over a suspected Iran-linked security incident.&lt;/p&gt;
+&lt;p&gt;An MoD spokesperson told the BBC: "We do not routinely comment on the activity of other nations. Aircraft and other assets move regularly ​according to operational ​requirements."&lt;/p&gt;
+&lt;p&gt;Asked about the US evacuating aircraft from RAF Mildenhall, Education Secretary Lucy Powell told BBC Breakfast: "Obviously I can't comment on ongoing operational matters but rest assured that we take the security and safety of our bases incredibly seriously and we will always act on security intelligence when we need to."&lt;/p&gt;
+&lt;p&gt;Former UK National Security Adviser Lord Ricketts told BBC Radio 4's Today programme: "We are talking about an airbase which houses these large tanker aircraft. Of course, they are large targets, an airbase has a long perimeter, so they are inevitably vulnerable."&lt;/p&gt;
+&lt;p&gt;He added: "Nobody knows at this stage what this information was. I suspect part of it is an abundance of caution."&lt;/p&gt;
+&lt;p&gt;The movements reported at RAF Mildenhall follow a security incident at RAF Fairford, a US-operated airbase in Gloucestershire.&lt;/p&gt;
+&lt;p&gt;A major incident was declared after three suspicious vans were seen near that base in September. It later emerged that the US had pulled its bombers out of the base and returned them to America.&lt;/p&gt;
+&lt;p&gt;Two British nationals appeared in court in October in connection with an alleged Iran-linked plot. Eight men have been arrested as part of the counter-terror police investigation.&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 10 Nov 2026 09:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security</title>
+      <link>https://www.bbc.com/news/articles/c64g1gzy2vdzo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c64g1gzy2vdzo</guid>
+      <description>&lt;p&gt;Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Jensen Huang has the air of the late Steve Jobs about him. I have interviewed both, and the up-close charisma - and occasionally scratchy genius - is shared.&lt;/p&gt;
+&lt;p&gt;Both sported a signature item of black clothing, although Huang opts for a leather jacket rather than the Apple founder's turtle neck.&lt;/p&gt;
+&lt;p&gt;Both are innovators revered in the tech world.  However, Huang is now being &lt;a href="https://www.bbc.co.uk/news/articles/ckgel338xql3o"&gt;investigated over an affair with an alleged Chinese spy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Everything you have heard about Artificial Intelligence (AI) over the past few months - good, bad, revolutionary and catastrophic - is dependent on having the most powerful frontier AI models.&lt;/p&gt;
+&lt;p&gt;In turn they depend on the most powerful microchips, and for years that has been this very company, Nvidia, led by Huang, and his technology rooted in repurposed games graphics and the manufacturing prowess of Taiwan.&lt;/p&gt;
+&lt;p&gt;Names such as Gracehopper, Vera and Rubin mean almost nothing to the public, but are the names of chips powering the creation of AI models transforming the world.&lt;/p&gt;
+&lt;p&gt;I met Huang as he held court with reporters and offered words of encouragement for the UK's tech future during US President Donald Trump's state visit to the UK in September last year.&lt;/p&gt;
+&lt;p&gt;It was also right in the middle of his attempts to get Trump to lift export bans to China of some of the highest performing AI chips, specifically the H200.&lt;/p&gt;
+&lt;p&gt;An export ban on a less powerful chip had already been lifted. He was, I suggested to him, one of the few people who could walk into the White House to meet Trump, and a few days later meet President Xi Jinping in Beijing.&lt;/p&gt;
+&lt;p&gt;He made no secret of his views, nor his assessment that he had persuaded Trump of his case.&lt;/p&gt;
+&lt;p&gt;"President Trump is very clear. He wants America to win and and President Xi wants China to win, and it's possible for both of them too. And the reason for that is because it's not a zero-sum game. The advance of human society is not a zero-sum game."&lt;/p&gt;
+&lt;p&gt;He is probably the only person in the world that could have spoken that sentence with the authority that he might have heard personally from both these superpower leaders.&lt;/p&gt;
+&lt;h2&gt;Differing views on security risks&lt;/h2&gt;
+&lt;p&gt;However, his view about "zero-sum game" is not backed by many in national security circles.&lt;/p&gt;
+&lt;p&gt;Their view is that the race to the most advanced forms of AI is entirely zero sum, and requires the West - and the US in particular - to take critical action to hold back Chinese advancement.&lt;/p&gt;
+&lt;p&gt;The country that creates the most powerful AI systems, from the most powerful chips, will win, in terms of scientific development, of cracking encryption, economic growth and cyber-weapons.&lt;/p&gt;
+&lt;p&gt;He made a further argument: Far from being a national security challenge, it was, in fact, better for the US that the world "including China" became dependent on US systems, what they called the "American tech stack", with Nvidia chips at its core.&lt;/p&gt;
+&lt;p&gt;Huang then went even further than that, saying that President Trump "is very clear-eyed" about the idea that "this computing technology is not a national security concern".&lt;/p&gt;
+&lt;p&gt;He told me "any military is smart enough to build their military on top of their own indigenous technology, and not rely on an adversary to build their technology, build their military capability".&lt;/p&gt;
+&lt;p&gt;What does this show us?&lt;/p&gt;
+&lt;p&gt;At that time, which is the same moment now being independently investigated over national security concerns and alleged Chinese espionage, Huang was making clear public arguments to lift export bans, and seemed to have a clear idea of President Trump's views.&lt;/p&gt;
+&lt;p&gt;More than that, he was also disputing the idea that his technology, in China's hands, was any type of national security concern.&lt;/p&gt;
+&lt;p&gt;Nvidia is the absolute epicentre of the AI tech boom in the US and of the global race for AI supremacy.&lt;/p&gt;
+&lt;p&gt;Even if the boom turned to bust, Nvidia is still expected to remain in rude health.&lt;/p&gt;
+&lt;p&gt;It has actual hard revenues of about $400bn this year. Monday's drop of about 4% of its value reflects new and extraordinary risks at this junction of tech and global politics, but the chipmaker is still worth more than $4 trillion.&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 10 Nov 2026 09:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meghan makes first public appearance since father's arrest</title>
+      <link>https://www.bbc.com/news/articles/cq3989418n78o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cq3989418n78o</guid>
+      <description>&lt;p&gt;The Duchess of Sussex has pulled out of giving a speech with Prince Harry at the event promoting children&amp;#x27;s online safety.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The Duchess of Sussex has made her first public appearance since her father was charged with the possession of child sex abuse material.&lt;/p&gt;
+&lt;p&gt;Meghan has arrived at the European Parliament in Brussels with her husband, Prince Harry, where she is attending an online child safety event.&lt;/p&gt;
+&lt;p&gt;It is part of the couple's wider campaigning work supporting families who have lost a child due to online harm through social media.&lt;/p&gt;
+&lt;p&gt;Meghan was expected to make a speech at the event but she has pulled out, leaving Harry to speak on his own. Sources close to the Sussex family say the past two weeks have been emotionally challenging.&lt;/p&gt;
+&lt;p&gt;Meghan's father, Thomas Markle, is currently under home detention and is subject to electronic monitoring after &lt;a href="https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo"&gt;appearing in court in Florida on Friday&lt;/a&gt; charged with the possession of child sex abuse images - allegations he has previously denied.&lt;/p&gt;
+&lt;p&gt;Meghan has been estranged from her father for several years. He did not attend her wedding in Windsor in 2018 citing "ill health" at the time.&lt;/p&gt;
+&lt;p&gt;When reports emerged about Thomas Markle last month, including claims he was in possession of child sex abuse images, Meghan released a statement saying she was "deeply distressed at the news" and hoped that "justice will be fully served".&lt;/p&gt;
+&lt;p&gt;At the European Parliament in Brussels on Tuesday, Harry and Meghan will unveil the Lost Screen Memorial which has moved to Europe after being launched in New York last year.&lt;/p&gt;
+&lt;p&gt;Supported by their Archewell charity, it is a moving collection of images of young people whose parents believe they died due to harm they encountered on social media. Each image is a photo of a son or daughter that a mum or dad held in their phone.&lt;/p&gt;
+&lt;p&gt;They include a photo of 13-year-old Breck Bednar from Surrey, who died in 2014. His parents believe he was groomed online via gaming and social media apps.&lt;/p&gt;
+&lt;p&gt;Another image shows Jools Sweeney from Gloucestershire, who took his own life in 2022. His parents say the time he spent on social media following the Covid lockdown contributed to his death.&lt;/p&gt;
+&lt;p&gt;BBC Breakfast spoke to Harry and Meghan in April last year when the Lost Screen Memorial first went on display in New York.&lt;/p&gt;
+&lt;p&gt;"No matter how polarised the world is," Meghan told the BBC, "one thing we can all agree on is that our children should be safe, all of our children should be safe".&lt;/p&gt;
+&lt;p&gt;The couple want their campaign to put pressure on social media companies to better support families following the loss of a child.&lt;/p&gt;
+&lt;p&gt;"These companies are getting away with it by saying we don't need to give you disclosure," an emotional Prince Harry told BBC Breakfast last year.&lt;/p&gt;
+&lt;p&gt;"You're telling a parent, you're telling a Dad and a Mum that they can't have the details of what their kid was up to on social media because of the privacy of their kid - the parents who've seen their kid from the time they were a child. It's wrong."&lt;/p&gt;
+&lt;p&gt;Prince Harry's speech on Tuesday will address the commitments made by tech companies and whether they have brought about any real change.&lt;/p&gt;
+&lt;p&gt;He is not expected to directly address allegations against Thomas Markle.&lt;/p&gt;
+&lt;p&gt;He will also take part in a panel discussion examining the responsibilities of tech companies and the experiences of young people and their families.&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 10 Nov 2026 09:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>'Cruise for life' ship seized in Singapore</title>
+      <link>https://www.bbc.com/news/articles/cqr7y7myer53o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cqr7y7myer53o</guid>
+      <description>&lt;p&gt;The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;A round-the-world cruise that left passengers stranded in Cambodia after its US-based operator ran out of money has been seized in Singapore.&lt;/p&gt;
+&lt;p&gt;The Odyssey, which set off from Belfast in October 2024 and was meant to take guests on a years-long voyage around the world, is now anchored in Singapore port waters, local authorities say.&lt;/p&gt;
+&lt;p&gt;Around 200 guests were &lt;a href="https://www.bbc.com/news/articles/cwj342k62exyo"&gt;forced to leave the ship&lt;/a&gt; last month in the Cambodian port city of Sihanoukville, after its owner Villa Vie Residences abruptly suspended operations citing "extraordinary increases in fuel costs".&lt;/p&gt;
+&lt;p&gt;The crew onboard are reported to be well, Singapore's port authority said.&lt;/p&gt;
+&lt;p&gt;"Arrangements for their welfare and wellbeing are being managed by the vessel's creditors," the authority said, adding that the vessel had been "placed under arrest pursuant to a court order".&lt;/p&gt;
+&lt;p&gt;Singapore law firm Helmsman LLC has been named the "arresting solicitor", but it is not clear which party it represents.&lt;/p&gt;
+&lt;p&gt;The Odyssey was meant to go on a three-and-a-half-years voyage covering 150 countries.&lt;/p&gt;
+&lt;p&gt;Passengers were given the options of buying their cabin outright, which allows them to stay onboard beyond its initial voyage, paying for a five-year residency, or renting a cabin for days-long tours.&lt;/p&gt;
+&lt;p&gt;Permanent residencies in its cabins ranged from $120,000 (£89,272) to $440,000. Those cabins were also available for rent from $3,500 a month, according to its website.&lt;/p&gt;
+&lt;p&gt;"For roughly the price of a car, you can own your home on a ship that travels the world," its founder Mikael Petterson had earlier said.&lt;/p&gt;
+&lt;p&gt;However the cruise was beset with problems from the start, with &lt;a href="https://www.bbc.com/news/articles/c8jl3720yw3o"&gt;its departure delayed for four months&lt;/a&gt; because of repairs and paperwork.&lt;/p&gt;
+&lt;p&gt;While in Vietnam, crew members reportedly bought food from local grocery stores because the company owed money to a vendor who refused to deliver food, according to CBS News, the BBC's partner in the US.&lt;/p&gt;
+&lt;p&gt;CBS also reported that the operator warned passengers of its financial troubles in August, when it had sailed on a separate occasion into Singapore, and had to raise money from guests to keep the cruise going.&lt;/p&gt;
+&lt;p&gt;It had also mentioned the risk of being detained then.&lt;/p&gt;
+&lt;p&gt;Holly Hennessey, one of the ship's passengers, had earlier told the BBC guests were asked to consider paying a fuel surcharge as prices soared, and that their itinerary had been "severely curtailed".&lt;/p&gt;
+&lt;p&gt;The vessel sailed again into Singapore earlier this month, weeks after the cruise came to a sudden end while in Cambodia.&lt;/p&gt;
+&lt;p&gt;As the Iran war sent fuel prices soaring earlier this year, monthly fuel cost per cabin in parts of Asia had risen to as much as $8,000 from $1,800, Villa Vie Residences said in a statement on 27 October.&lt;/p&gt;
+&lt;p&gt;It added that it had taken "significant steps to reduce fuel consumption" but those measures turned out to be insufficient to offset the "extraordinary increase in fuel costs".&lt;/p&gt;
+&lt;p&gt;The company also said it was working with residents to "identify temporary living arrangements" while in Cambodia.&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 10 Nov 2026 09:31:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize</title>
+      <link>https://www.bbc.com/news/articles/cw0737kv52lko</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cw0737kv52lko</guid>
+      <description>&lt;p&gt;M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Author M John Harrison has become the oldest ever winner of the Booker Prize, picking up the prestigious literary award for his post-apocalyptic novel The End of Everything.&lt;/p&gt;
+&lt;p&gt;Harrison, 81, who has built a cult following over his 60-year career, was named the winner of the £50,000 prize at a ceremony in London on Monday.&lt;/p&gt;
+&lt;p&gt;The End of Everything is set in the years after a mysterious catastrophe that caused British society as we know it to collapse. It has divided opinion among readers, and was described as "bleak but brilliant" and "dreamlike and baffling" by one critic.&lt;/p&gt;
+&lt;p&gt;Dame Mary Beard, who chaired the Booker judges, said: "It's a challenging read, but some of the best fiction is challenging."&lt;/p&gt;
+&lt;p&gt;Dame Mary added: "It's a book that turns you upside down, raises a wry smile – and surprisingly, given the subject matter, leaves you with a twinge of optimism."&lt;/p&gt;
+&lt;p&gt;Harrison began writing in the 1960s and has published 13 novels, five short story collections and an "anti-memoir". He has now surpassed Margaret Atwood as the oldest ever Booker winner.&lt;/p&gt;
+&lt;p&gt;While he dislikes labels like science fiction and fantasy, he has been called "the titan of literary science fiction", and Booker Prize chief executive Gaby Wood said he is "the first Booker winner to have emerged from the bona fide SF world".&lt;/p&gt;
+&lt;p&gt;"He is a genuinely original thinker, a genre-defying writer who takes ideas seriously," Wood said.&lt;/p&gt;
+&lt;p&gt;"Though very unsettling, The End of Everything is not in fact a strange book. It's a realist book about a strange world, populated by desperate, unmoored characters."&lt;/p&gt;
+&lt;h2&gt;'Tender, terrifying and timely'&lt;/h2&gt;
+&lt;p&gt;The story follows a man and his aunt who must muddle through on the south-east English coast in the aftermath of an unexplained disaster and the arrival of mysterious alien beings.&lt;/p&gt;
+&lt;p&gt;The author has said he deliberately omitted as much explanation about the background to the events as possible, in order to make readers feel the same disorientation as the characters.&lt;/p&gt;
+&lt;p&gt;He has said: "The End of Everything is about trying to live as if nothing has gone wrong. It's a disaster story in which the disaster is the failure to comprehend."&lt;/p&gt;
+&lt;p&gt;He added: "I've passed on to the reader some of the puzzlement and confusion of the characters in the book as they face a future with the alien."&lt;/p&gt;
+&lt;p&gt;That approach has led to a mixed reaction. &lt;a href="https://www.theguardian.com/books/2026/jun/09/the-end-of-everything-by-m-john-harrison-review-near-future-visions-from-an-sf-master"&gt;The Guardian praised the book but said&lt;/a&gt; "it won't be for everyone", while &lt;a href="https://www.nytimes.com/2026/10/13/books/review/m-john-harrison-end-of-everything.html"&gt;the New York Times said&lt;/a&gt;: "The more we learn about the conditions of this novel's broken world, the harder it is to grasp."&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://literaryreview.co.uk/close-encounters"&gt;The Literary Review described it as&lt;/a&gt; "a work of uncanny beauty, tender and terrifying in equal parts", while &lt;a href="https://www.telegraph.co.uk/books/what-to-read/best-novels-fiction-read-june-2026-review/"&gt;the Telegraph said&lt;/a&gt; "you feel you're not so much reading as dreaming".&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.telegraph.co.uk/books/booker-prize/who-on-booker-prize-2026-shortlist-harrison-stuart-james/"&gt;Another Telegraph critic wrote&lt;/a&gt; that it was "ultimately, in both skill and humour, a cut above" the other shortlisted books.&lt;/p&gt;
+&lt;p&gt;"And in an age when AI overlords keep threatening to kill us, and the Government has told us to stockpile tinned food and bottled water, it is, for once, a novel that you can genuinely call 'timely'."&lt;/p&gt;
+&lt;p&gt;The Booker Prize is an annual award for the best novel written in the English language and published in the year up to 30 September. It was launched in 1969.&lt;/p&gt;
+&lt;p&gt;This year's other shortlisted books were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Disappearers by Marlon James&lt;/li&gt;
+&lt;li&gt;Black Bag by Luke Kennard&lt;/li&gt;
+&lt;li&gt;May We Feed the King by Rebecca Perry&lt;/li&gt;
+&lt;li&gt;The Things We Never Say by Elizabeth Strout&lt;/li&gt;
+&lt;li&gt;John of John by Douglas Stuart&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When the shortlist was announced in September, Dame Mary said agreeing on the final six had been, "to put it mildly, hard work".&lt;/p&gt;
+&lt;p&gt;Another judge, US novelist Patricia Lockwood, said she had been "tossing books across the room" during judging sessions, while poet Raymond Antrobus described the selection as "a tussle".&lt;/p&gt;
+&lt;p&gt;The other judges were Pulp frontman Jarvis Cocker, and journalist, editor and critic Rebecca Liu.&lt;/p&gt;
+&lt;p&gt;Speaking about the final judging session, Dame Mary told reporters on Monday: "There was a lot of discussion, disagreement and debate. But nobody stomped off."&lt;/p&gt;
+&lt;p&gt;In a statement, she said the panel "spent a whole day debating the six remarkable novels on this year's shortlist" before reaching a unanimous decision to name Harrison the winner.&lt;/p&gt;</content:encoded>
+      <pubDate>Tue, 10 Nov 2026 09:31:51 GMT</pubDate>
+    </item>
     <item>
       <title>Russell Brand's ex Jemima Goldsmith accuses him of violence and abuse against her</title>
       <link>https://www.bbc.com/news/articles/c95ynylr8j6xo</link>
