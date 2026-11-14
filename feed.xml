@@ -5,9 +5,203 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:20:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:07:46 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the Jensen Huang scandal created a headache for business-friendly Singapore</title>
+      <link>https://www.bbc.com/news/articles/ck1exevgql4qo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/ck1exevgql4qo</guid>
+      <description>&lt;p&gt;The scandal has cast a spotlight on Singapore&amp;#x27;s success as a chip hub - and a location for alleged illicit trade.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.&lt;/p&gt;
+&lt;p&gt;On Thursday, Huang stepped down from the US chip giant after admitting he had an affair. He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.&lt;/p&gt;
+&lt;p&gt;For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.&lt;/p&gt;
+&lt;p&gt;With the AI boom, it has become a major hub for the trade of high-end semiconductor chips in recent years.&lt;/p&gt;
+&lt;p&gt;Singapore was the second-largest billing centre globally last year for Nvidia, accounting for nearly a fifth of what the US chip giant earns.&lt;/p&gt;
+&lt;p&gt;But notably, less than 1% of its earnings were for chips that actually entered Singapore, as the island acts as a hub for many Asian companies to place orders and send them elsewhere.&lt;/p&gt;
+&lt;p&gt;Since 2022, when the US restricted advanced American semiconductors from being exported to China or acquired by Chinese companies, US officials have been concerned that other countries such as Singapore could be used by Chinese companies to gain access to the chips.&lt;/p&gt;
+&lt;p&gt;Megaspeed is a case in point.&lt;/p&gt;
+&lt;p&gt;It became the biggest buyer of Nvidia's chips in South East Asia and is suspected of giving backdoor access to these chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.&lt;/p&gt;
+&lt;p&gt;While Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.&lt;/p&gt;
+&lt;p&gt;Singapore has said that while it does not enforce "unilateral export controls imposed by other countries" it expects all companies in its jurisdiction to respect such regulations.&lt;/p&gt;
+&lt;p&gt;The city-state has had some success in policing this.&lt;/p&gt;
+&lt;p&gt;It has charged four companies and five individuals - including Chinese nationals - for various offences including fraud, following US concerns that Chinese AI company DeepSeek had been buying Nvidia chips from third parties in Singapore, among other places.&lt;/p&gt;
+&lt;p&gt;They also tried to probe Megaspeed, but were faced with a number of difficulties.&lt;/p&gt;
+&lt;p&gt;In a statement released on Thursday, the government said that since February 2025, they had been looking into whether Megaspeed and other firms had made false declarations about data servers which were purchased and exported through Singapore.&lt;/p&gt;
+&lt;p&gt;The companies stated the equipment would end up in neighbouring Malaysia, but Singapore authorities suspect the equipment's final destinations were elsewhere.&lt;/p&gt;
+&lt;p&gt;Singapore said it sought assistance from US authorities several times to get more information from one of the investigated companies - Supermicro, a US-based company which the BBC understands was supplying computer servers to Megaspeed.&lt;/p&gt;
+&lt;p&gt;But "despite these repeated requests, Singapore has to date received limited information or assistance", it said in its statement. The BBC has sought comment from the US State Department.&lt;/p&gt;
+&lt;p&gt;Singapore authorities said they had also investigated &lt;a href="https://www.bbc.com/news/videos/c80404zyr53wo"&gt;Alice Huang&lt;/a&gt; - not for espionage, but for any possible role in Megaspeed's suspected fraud. &lt;/p&gt;
+&lt;p&gt;In the end, they found "insufficient evidence" of crime and let her leave Singapore in February this year, after holding her passport for several months.&lt;/p&gt;
+&lt;p&gt;Since launching their probe nearly two years ago, Singapore has yet to bring any charges against Megaspeed or any of the companies and individuals linked to the case.&lt;/p&gt;
+&lt;p&gt;Singapore and US investigations into Megaspeed are still ongoing.&lt;/p&gt;
+&lt;p&gt;In 2024, US officials had paid a visit to a Malaysian data centre owned by Megaspeed and saw Nvidia technology still in their boxes, raising concerns that Megaspeed was shipping high-end chips out elsewhere, according to a report by the New York Times.&lt;/p&gt;
+&lt;p&gt;Last year, Megaspeed appeared to have imported 50,000 more chips than Nvidia could account for, according to a Bloomberg report. Nvidia later adjusted its own figures after visiting more warehouses.&lt;/p&gt;
+&lt;p&gt;Megaspeed has maintained it has always acted lawfully and that previous inspections by authorities found no evidence of illegal activity.&lt;/p&gt;
+&lt;p&gt;On Thursday, the company said it "welcomes appropriate government scrutiny" and that it is "committed to working constructively and transparently with the US government".&lt;/p&gt;
+&lt;p&gt;China has also long refuted accusations that its companies and institutions are illegally obtaining high-end US chips.&lt;/p&gt;
+&lt;p&gt;How Megaspeed and Alice Huang came to Singapore highlights other vulnerabilities stemming from the city-state's openness.&lt;/p&gt;
+&lt;p&gt;In recent years, the city-state has become a prime destination for Chinese companies, with tech firms such as TikTok and Manus making it their global headquarters. Besides Singapore's ease of doing business, it has a population that is mostly ethnically Chinese and largely &lt;a href="https://www.bbc.com/news/articles/cd959q11g54o"&gt;views China positively.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For a Chinese firm, Singapore offers a base near the mainland and a "neutral address" that global customers and investors accept, said Winston Ma, adjunct professor at New York University's School of Law.&lt;/p&gt;
+&lt;p&gt;But critics say this has given rise to "Singapore-washing", where Chinese companies use the city-state's clean image to obscure their origins, reduce suspicions and even cover up dubious activities.&lt;/p&gt;
+&lt;p&gt;Washington-based security analysis group C4ADS told the BBC they had assessed Alice Huang's setup of Megaspeed to be such a case.&lt;/p&gt;
+&lt;p&gt;BBC checks of corporate records in China, Hong Kong and Singapore found that in 2019, Huang sold a gaming company and its subsidiaries to Chinese gaming firm 7Road.&lt;/p&gt;
+&lt;p&gt;In March 2023, a 7Road subsidiary in Singapore named Huang as its executive director. The next day it changed its name - to Megaspeed.&lt;/p&gt;
+&lt;p&gt;Huang was in charge for eight months before she transferred the company to a Singaporean man.&lt;/p&gt;
+&lt;p&gt;During this period, Megaspeed went through "a critical period of corporate restructuring and regional expansion", and her corporate relationships raised questions about whether "Megaspeed's Singaporean identity is genuine or effectively Chinese-controlled", according to C4ADS.&lt;/p&gt;
+&lt;p&gt;Even after she transferred Megaspeed, C4ADS assessed that she was still "practically in control" of the company, based on her links to Megaspeed via another company as well as LinkedIn posts where she continued to identify herself as Megaspeed's "chairwoman" at conferences.&lt;/p&gt;
+&lt;p&gt;Megaspeed has not answered BBC queries regarding the company's and Alice Huang's links to China and the Chinese government.&lt;/p&gt;
+&lt;p&gt;All this reinforces the dilemma faced by Singapore.&lt;/p&gt;
+&lt;p&gt;"For the longest time, Singapore has managed to enjoy the best of both worlds with excellent relations with US and China," Nanyang Technological University politics and international studies lecturer Dylan Loh said.&lt;/p&gt;
+&lt;p&gt;Singapore has long positioned itself as a neutral party between the two superpowers. Its prime minister Lawrence Wong has insisted that his country is neither pro-China nor pro-America, but "pro-Singapore".&lt;/p&gt;
+&lt;p&gt;But Loh says this balancing act "has now fast become very difficult to manage and sometimes quite fraught too" with the US-China dispute over chips.&lt;/p&gt;
+&lt;p&gt;With the Megaspeed case, the tightrope Singapore has walked is set to get even narrower, according to analysts.&lt;/p&gt;
+&lt;p&gt;Beijing may ask why Singapore is investigating issues pertaining to US restrictions and whether they are siding with the US' interests, says Chong Ja Ian, a Singaporean political scientist and non-resident scholar with Carnegie China.&lt;/p&gt;
+&lt;p&gt;Washington, in turn, might read Singapore's latest statement as "pushing blame" on the US, which could lead to backlash from the White House, he said.&lt;/p&gt;
+&lt;p&gt;"Singapore has made a policy position not to take sides. But by not choosing a side, they run the risk of being seen as complicit" in either side's agenda, he said.&lt;/p&gt;
+&lt;p&gt;But Benjamin Ho, an assistant professor and China expert at Singapore's S Rajaratnam School of International Studies, noted that this was "not the first or last time Singapore will be caught between the US and China".&lt;/p&gt;
+&lt;p&gt;"This is the price that an open economy has to grapple with - you get caught in the middle when things turn sour."&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;Additional reporting by Jack Lau of the BBC's Global China Unit.&lt;/i&gt;
+&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 14 Nov 2026 02:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Setback for SpaceX Starship rocket's double-catch test</title>
+      <link>https://www.bbc.com/news/articles/ckregdgnl0xpo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/ckregdgnl0xpo</guid>
+      <description>&lt;p&gt;Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;SpaceX aborted its attempt to catch the bottom part of its huge Starship rocket during its latest test flight.&lt;/p&gt;
+&lt;p&gt;The aim was to catch it using the mechanical arms - nicknamed chopsticks - on the launch tower as it returned to Earth, but instead it was diverted to the ocean, bursting into flames as it came down.&lt;/p&gt;
+&lt;p&gt;The top part of the rocket is now continuing its journey to space, and SpaceX will decide whether it will try to catch this rocket stage - at about 1515 local time (2115 GMT) on Saturday.&lt;/p&gt;
+&lt;p&gt;It's the company's first attempt to fully recover its rocket, paving the way for making Starship fully reusable so it can fly repeatedly and reduce costs.&lt;/p&gt;
+&lt;p&gt;The 124m-tall rocket successfully blasted off from the Starbase launchpad in Boca Chica, Texas at 1645 local time (2245 GMT) on Friday.&lt;/p&gt;
+&lt;p&gt;It was supposed to catch the bottom part of the rocket - the Super Heavy booster - six and a half minutes later when it returned to the launch tower, but instead it was diverted to the ocean.&lt;/p&gt;
+&lt;p&gt;During a stream of the launch, a SpaceX spokesperson said: "Safety is always the number one priority, and we're still testing out things that we haven't done before on these vehicles, and so we are prioritising making sure that we can perform each maneuver safely."&lt;/p&gt;
+&lt;p&gt;The top part of the rocket, called the Ship, is continuing its journey to space, where it is deploying 26 satellites. These will form part of the Starlink constellation that provides high-speed internet from space.&lt;/p&gt;
+&lt;p&gt;The Ship is due to complete 14 orbits around the Earth before returning to the launch tower 22.5 hours after taking off, where a second catch may be attempted.&lt;/p&gt;
+&lt;p&gt;Until now, SpaceX has managed to catch the Super Heavy Booster on three earlier test flights.&lt;/p&gt;
+&lt;p&gt;But the upper stage of the rocket, which only reached orbit for the first time in September, has never been grabbed by the chopsticks. Instead it's splashed down in the ocean.&lt;/p&gt;
+&lt;p&gt;Before the flight, SpaceX said it would only decide to try to catch the Ship after carefully assessing the vehicle while it's in space.&lt;/p&gt;
+&lt;p&gt;If any problems are detected there are various points during the flight when the rocket stage can be brought down in the ocean.&lt;/p&gt;
+&lt;p&gt;Building a fully reusable rocket is a long-held ambition for SpaceX.&lt;/p&gt;
+&lt;p&gt;In 2015, it became the first company to vertically land part of a rocket with its Falcon 9 booster.&lt;/p&gt;
+&lt;p&gt;Falcon 9 rockets now fly more than a hundred times a year, and the ability to reuse the bottom part of the rocket has dramatically cut the costs of launch.&lt;/p&gt;
+&lt;p&gt;But landing an entire Starship rocket could take this to the next level, says Prof Malcolm Macdonald, President of Royal Aeronautical Society.&lt;/p&gt;
+&lt;p&gt;"Full reusability has the potential to fundamentally change the economics of accessing space," he said.&lt;/p&gt;
+&lt;p&gt;"One successful flight will not prove that model, but it could mark an important transition: from demonstrating that Starship can fly, to demonstrating how Starship could operate."&lt;/p&gt;
+&lt;p&gt;After SpaceX went public earlier this year, its shareholders will be carefully monitoring this flight, as will the US Space Agency.&lt;/p&gt;
+&lt;p&gt;The progress of Starship has direct implications for Nasa's attempt to land humans on the Moon in 2028 - a highly ambitious timeline.&lt;/p&gt;
+&lt;p&gt;SpaceX has been given a Nasa contract to configure the Ship into a lander that will eventually take astronauts down to the lunar surface.&lt;/p&gt;
+&lt;p&gt;But it's not the only company working with the US Space Agency. Blue Origin, owned by rival tech billionaire Jeff Bezos, also has a contract to use its New Glenn rocket and lander for the Moon touch down.&lt;/p&gt;
+&lt;p&gt;Both companies will also play a key role in Artemis III, which is currently planned for summer 2027- another challenging schedule.&lt;/p&gt;
+&lt;p&gt;This mission will see four astronauts in Nasa's Orion spacecraft attempt to dock with both SpaceX and Blue Origin's landers.&lt;/p&gt;
+&lt;p&gt;Starship will need to make a lot of progress in the coming months to meet these commitments - the pace of the rocket's development has been far slower than SpaceX had intended.&lt;/p&gt;
+&lt;p&gt;But Blue Origin also has much work to do. The company suffered a major setback earlier this year when its rocket exploded, totally destroying its launchpad in Florida.&lt;/p&gt;
+&lt;p&gt;Blue Origin had said they would be back in action by the end of this year, but a return to flight has now been delayed to early in 2027.&lt;/p&gt;
+&lt;p&gt;Nasa is under pressure to meet its timelines. Its administrator Jared Isaacman has said America is in a race with China to get to the Moon. China plans to land its Taikonauts on the lunar surface by 2030.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 14 Nov 2026 02:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Woman with terminal cancer gets dream wedding on hospital ward</title>
+      <link>https://www.bbc.com/news/articles/cm702wjg48k2o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm702wjg48k2o</guid>
+      <description>&lt;p&gt;Maggie Heginbothom thanks staff after &amp;quot;dream&amp;quot; ceremony is arranged two days after her partner proposed.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;A woman with a terminal cancer diagnosis married her partner of 15 years in the hospital where she is receiving palliative care - and her horses even made the ceremony.&lt;/p&gt;
+&lt;p&gt;Maggie Heginbothom, 68, who has advanced liver cancer, thanked staff at Ysbyty Gwynedd in Bangor for organising a wedding ceremony on Monday, just two days after her partner Mark proposed.&lt;/p&gt;
+&lt;p&gt;The horse lover and former clinical scientist with Public Health Wales described hospital staff as being "like family to me".&lt;/p&gt;
+&lt;p&gt;"It was so beautiful and I honestly never thought it was going to be possible, especially seeing both my horses there as well," she said.&lt;/p&gt;
+&lt;p&gt;Heginbothom, originally from the Vale of Glamorgan, was admitted to hospital nearly three weeks ago after becoming unwell while riding one of her horses.&lt;/p&gt;
+&lt;p&gt;After her partner proposed from her hospital bedside, staff on the Tegid Ward volunteered to pull together a celebration that included flowers, decorations, a harpist, food, cake and Heginbothom's beloved horses Ozzy and Quiosque.&lt;/p&gt;
+&lt;p&gt;The horses were brought to the hospital by Pen Llŷn Stud and Riding School, where Heginbothom rode and competed for many years.&lt;/p&gt;
+&lt;p&gt;"From the beautiful decorations to all the little touches that made our wedding so special, I cannot thank them enough," she said.&lt;/p&gt;
+&lt;p&gt;Ward manager Rachel Parry said her team were determined to get things right.&lt;/p&gt;
+&lt;p&gt;"On the morning of the wedding, we transformed Maggie's room with white sheets and fairy lights to create a beautiful space for the ceremony, while the relatives' room became a reception area," she said.&lt;/p&gt;
+&lt;p&gt;"Everything ran like clockwork, and some of our colleagues even came in on their days off to help make it happen.&lt;/p&gt;
+&lt;p&gt;"It was such a special and emotional occasion.&lt;/p&gt;
+&lt;p&gt;"There wasn't a dry eye in the room, and it was particularly lovely that some of the other patients Maggie has got to know during her time on the ward were able to join the celebrations."&lt;/p&gt;
+&lt;p&gt;Matron Ceri Newell said it was an example of the compassion and dedication shown by NHS staff.&lt;/p&gt;
+&lt;p&gt;"Nursing is about so much more than treating illness," she said.&lt;/p&gt;
+&lt;p&gt;"It is about compassion, kindness, humanity and recognising that sometimes the most important thing we can do is help make someone's wishes come true.&lt;/p&gt;
+&lt;p&gt;"What the team achieved for Maggie and Mark in such a short space of time was truly remarkable, and I could not be prouder of every single person involved.&lt;/p&gt;
+&lt;p&gt;"Everyone went above and beyond, working together to create something incredibly special for a couple going through such a difficult time.&lt;/p&gt;
+&lt;p&gt;"Moments like these remind us why we do what we do, and I am so proud of what the team achieved."&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 14 Nov 2026 02:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Black Mississippians celebrate a victory almost no one saw coming</title>
+      <link>https://www.bbc.com/news/articles/cmr4gx6d9vp0o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmr4gx6d9vp0o</guid>
+      <description>&lt;p&gt;Scott Colom is the first black man to sit in the Senate for Mississippi in 145 years.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The scene was 145 years in the making.&lt;/p&gt;
+&lt;p&gt;Dozens of people filled a tiny room inside the historic Masonic Lodge Hall in Jackson, Mississippi, on Wednesday, waiting to hear whether Scott Colom would become the state's next US Senator.&lt;/p&gt;
+&lt;p&gt;The 70-year-old building is the permanent residence of the NAACP's state headquarters, where civil rights leaders, many of them there that night, worked for decades to create this moment.&lt;/p&gt;
+&lt;p&gt;When a large speaker blared the news of Colom's win, it ended a long, anxious wait for results that came over a week after election day. The room exploded with emotion.&lt;/p&gt;
+&lt;p&gt;"Yes sir," one man yelled, dropping to the ground and moving his arms and legs as if to make a snow angel on the carpet floor.&lt;/p&gt;
+&lt;p&gt;Colom's victory is the first win for Democrats in the seat in more than 40 years. And that candidate, who was elected for the final time in 1982, supported segregation.&lt;/p&gt;
+&lt;p&gt;It is also the first time a black politician has held the seat since 1881. Mississippi's population is almost 40% black, which is a larger share of the electorate than any other state.&lt;/p&gt;
+&lt;p&gt;Republicans have, following a ruling by the US Supreme Court overturning parts of the Voting Rights Act, made moves to reduce the number of majority-black districts, which many experts say weakens black voting power. It is partly due to this backdrop that Colom's victory resonated with many.&lt;/p&gt;
+&lt;p&gt;"All the stories that my father used to tell me about him growing up here in Jackson, and all the hardships and unjust treatment that he faced. And having experienced some of that myself, it's hard to put it into words what this moment means for us," Cedric Haynes said.&lt;/p&gt;
+&lt;p&gt;"Whoever thought this day would have come."&lt;/p&gt;
+&lt;p&gt;People cheered, hugged, kissed and cried, celebrating the achievement.&lt;/p&gt;
+&lt;p&gt;"I think it is special. It is holy, and it something different," Charles Taylor, executive director of the NAACP's Mississippi branch, said.&lt;/p&gt;
+&lt;p&gt;Taylor now sits in the same office that was once occupied by Medgar Evers, a black WWII veteran and civil rights activist who was killed by an assassin's bullet in Mississippi, in 1963, in part for his effort to register black Americans to vote.&lt;/p&gt;
+&lt;p&gt;To win in the Magnolia State, Colom has not only had to overcome the state's racial history, but defy its political gravity. Mississippi has long been a Republican stronghold. Donald Trump won re-election to the presidency here by over 22 points, just two years go.&lt;/p&gt;
+&lt;p&gt;In the early days of the midterm election season, which ultimately ended in Democrats flipping a record number of seats in Congress, not even the party's wildest ambitions included a Mississippi victory.&lt;/p&gt;
+&lt;p&gt;Two days after election day, with a lead of only a few hundred votes, Colom said the national party had long given up on the state.&lt;/p&gt;
+&lt;p&gt;"I've been in Mississippi for 15 years," Colom told NBC News on 5 November. "Most of the time Democrats have conceded the state."&lt;/p&gt;
+&lt;p&gt;He continued: "What you're saying is, I don't care enough about those voters."&lt;/p&gt;
+&lt;p&gt;But Colom won anyways, despite having a roughly $2m campaign donation deficit compared to the Republican incumbent Cindy Hyde-Smith, according to the most recent FEC records.&lt;/p&gt;
+&lt;p&gt;The tide turned for Colom and Democrats, with help from massive grassroots campaigning and organising.&lt;/p&gt;
+&lt;p&gt;The NAACP said it knocked on more than 150,000 doors across the state and made stops at over 2,500 churches in the lead-up to the election - compared to 70,000 doors and 500 churches in the last election. The NAACP is non-partisan and did not favour a candidate - but exit polls showed 91% of black voters in Mississippi backed Colom.&lt;/p&gt;
+&lt;p&gt;About 300,000 more voters showed up to Mississippi's polls in 2026, compared to the last mid-term's in 2022.&lt;/p&gt;
+&lt;p&gt;His victory against nearly impossible odds was also bolstered by a strong showing from young voters, corralled by organisations like Mississippi Votes who showed up on college campuses across the state to encourage voter registration.&lt;/p&gt;
+&lt;p&gt;Arekia Bennett-Scott, executive director of Mississippi Votes, said over 600 students from Jackson State University, a local historically black college, voted this midterm election – trumping the figure of roughly 100 Jackson State students who voted during the last midterm.&lt;/p&gt;
+&lt;p&gt;The night of Colom's win, a group of drum majors from Jackson State's historic marching band, the Sonic Boom of the South, were heading into the locker room after practice, relishing their part in making history.&lt;/p&gt;
+&lt;p&gt;"I'm absolutely ecstatic. I'm overly excited that (Colom) won," drum major Jared Thompson said. "This is one of the first elections that I voted on as a young adult."&lt;/p&gt;
+&lt;p&gt;"And, you know, we hear a lot of this rhetoric that, 'oh my vote doesn't matter,'" he continued. "Tonight was proof, without a shadow of a doubt, that your vote matters."&lt;/p&gt;
+&lt;p&gt;Another major factor that contributed to Colom's success was a national backlash against the Republican party, driven by a rise in the cost of living linked to Trump policies, which caused several other Republican fortresses to fall on election night, including Texas, Kansas, and Iowa.&lt;/p&gt;
+&lt;p&gt;Hyde-Smith was also criticised for running a lackluster campaign, where she made very few public appearances. Meanwhile, Colom visited each of Mississippi's 82 counties, including a five-day campaign called the Where's Cindy Tour.&lt;/p&gt;
+&lt;p&gt;After the Republican recommended people pick another protein if the cost of beef was too high, Colom released an attack ad that went viral, encouraging voters to "pick another senator".&lt;/p&gt;
+&lt;p&gt;At his victory speech, on the grounds of the historically black university Tougaloo College on Wednesday evening, hundreds of supporters gathered, many holding signs that said: "Picked another Senator."&lt;/p&gt;
+&lt;p&gt;A member of the Tougaloo Concert Choir sang the US National Anthem. Colom's two daughters, Gwendolyn and Brooklyn, aged 9 and 8, respectively, then led a recital of the Pledge of Allegiance, as hands were held over hearts.&lt;/p&gt;
+&lt;p&gt;After Colom's wife, Nadia, took the stage, he emerged between a narrow opening in a thicket of supporters to address the public as senator-elect for the very first time.&lt;/p&gt;
+&lt;p&gt;In his opening remarks, he cited Medgar Evers, the black veteran who was assassinated for trying to help black Americans register to vote.&lt;/p&gt;
+&lt;p&gt;"He had faith that Mississippi could make progress," Colom said.&lt;/p&gt;
+&lt;p&gt;"For months and months, I've been telling everybody, everywhere I go, that we're gonna win this election," he continued. "Every time I said it, I pointed out that people were going to give me too much credit for it because it's not something that I did, y'all. It's something that we did."&lt;/p&gt;
+&lt;p&gt;"All I did was have the courage to imagine a night like this."&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;With additional reporting from Kyla Herrmannsen&lt;/i&gt;
+&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 14 Nov 2026 02:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision</title>
+      <link>https://www.bbc.com/news/articles/cw20xmy0m5yyo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cw20xmy0m5yyo</guid>
+      <description>&lt;p&gt;The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Some 130 people on a cruise ship docked in New Orleans have been rescued after it was struck by a tanker.&lt;/p&gt;
+&lt;p&gt;The cruise ship, American Heritage, was left lying on its side in the Mississippi River after it was hit by the cargo vessel, Atlantic Asphalt.&lt;/p&gt;
+&lt;p&gt;The collision left 32 people from the stricken riverboat in hospital with non-critical injuries, but no-one unaccounted for. Officials hailed it as a "miracle on the Mississippi".&lt;/p&gt;
+&lt;p&gt;The exact cause of the crash remains under investigation, but US Coast Guard Captain Melanie Burnham said: "There seems to be some type of a loss of steering."&lt;/p&gt;
+&lt;p&gt;New Orleans Mayor Helena Moreno told a news conference that all credit in the rescue effort went to first responders who "literally jumped right in to help".&lt;/p&gt;
+&lt;p&gt;"We have zero people unaccounted for, which truly is a miracle on the Mississippi," Moreno said.&lt;/p&gt;
+&lt;p&gt;Calls about the collision came in around 13:30 EST (18:30 GMT) on Friday when people began trying to help passengers escape the boat as it took on water, Port of New Orleans Chief Melanie Montroll told the news conference.&lt;/p&gt;
+&lt;p&gt;There were about 129 passengers, in addition to crew members, on the American Heritage at the time of the collision, according to Port of New Orleans.&lt;/p&gt;
+&lt;p&gt;Passengers began disembarking from the paddlewheeler vessel, operated by American Cruise Lines, as it started listing before tipping on to its side, Mayor Moreno said.&lt;/p&gt;
+&lt;p&gt;Tugboat operators, police and other rescuers rushed to help and officials shut down the Mississippi River for the search effort.&lt;/p&gt;
+&lt;p&gt;The American Heritage was finishing an eight-day cruise to Mississippi River destinations in Louisiana and Mississippi.&lt;/p&gt;
+&lt;p&gt;President Donald Trump posted on Truth Social that the rescue was an "incredible job".&lt;/p&gt;
+&lt;p&gt;Secretary of Homeland Security Markwayne Mullin said the US Coast Guard also supported local rescue operations.&lt;/p&gt;
+&lt;p&gt;Governor Jeff Landry also hailed the rescue as a "miracle on the Mississippi" given the "sheer number of people who were on that cruise ship" who were rescued.&lt;/p&gt;
+&lt;p&gt;Ships have operated safely on the Mississippi River for years, Landry said, pledging to investigate what happened.&lt;/p&gt;
+&lt;p&gt;Jamie Holford, a witness to the crash, told the BBC's US partner CBS that he saw the cruise ship hit the dock following the collision.&lt;/p&gt;
+&lt;p&gt;"It sounded like a war movie. Just imagine tons of steel crunching. That's what it sounded like," he said. "It looked like something off the Titanic."&lt;/p&gt;
+&lt;p&gt;Holford added that he saw passengers and crew members "hollering" and "crying" as they tried to get off the ship while it was sinking.&lt;/p&gt;
+&lt;p&gt;The American Heritage can carry up to 150 guests and features a glass-enclosed restaurant, fitness centre and three guest lounges, according to its website.&lt;/p&gt;
+&lt;p&gt;Built in 2015, the vessel has at least four decks.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 14 Nov 2026 02:07:46 GMT</pubDate>
+    </item>
     <item>
       <title>Lauren Boebert, once a MAGA star, loses her Colorado seat</title>
       <link>https://www.bbc.com/news/articles/c6j9mlldgpgjo</link>
