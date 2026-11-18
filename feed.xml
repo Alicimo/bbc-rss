@@ -5,9 +5,252 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:51:07 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security flaw found in Java, world's third-largest programming language</title>
+      <link>https://www.bbc.com/news/articles/cke89jevqm1vo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cke89jevqm1vo</guid>
+      <description>&lt;p&gt;The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world&amp;#x27;s most popular computer language programs.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;A cyber-security firm has used artificial intelligence (AI) to uncover a critical flaw in the hugely popular computer programming language Java.&lt;/p&gt;
+&lt;p&gt;Tech start-up Calif - which &lt;a href="https://www.bbc.com/news/articles/cmx23d0k57d3o"&gt;recently identified a cyber-security flaw&lt;/a&gt; in another language, PHP - found the bug&lt;strong&gt; &lt;/strong&gt;in Java's memory functions.&lt;/p&gt;
+&lt;p&gt;Java is a popular programming language used by nearly all of the world's top companies such as Apple and Amazon, as well as many banks, hospitals and governments.&lt;/p&gt;
+&lt;p&gt;It is meant to make the IT world more secure by managing your memory online, said computer scientist Professor Toby Walsh, which is why "this is such an unlikely and serious flaw".&lt;/p&gt;
+&lt;p&gt;The discovery comes after a string of serious technology issues, including &lt;a href="https://www.bbc.com/news/articles/c6rrg51rkz09o"&gt;a massive Microsoft outage&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On Tuesday, the US National Security Agency said its &lt;a href="https://www.bbc.com/news/articles/cqvg2mg8g0pyo"&gt;internal communications went offline&lt;/a&gt; on Tuesday due to a "scheduled routine maintenance".&lt;/p&gt;
+&lt;p&gt;The NSA did not specify whether its outage was linked to the identified Java bug.&lt;/p&gt;
+&lt;p&gt;Apple also reported multiple services suffered full outages due to an internal update, while a network failure grounded all flights in the US.&lt;/p&gt;
+&lt;p&gt;US Secretary of State Marco Rubio &lt;a href="https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o"&gt;said there was "zero evidence" the incidents were related&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Java releases critical update&lt;/h2&gt;
+&lt;p&gt;With the help of AI, Calif discovered a serious security vulnerability called Java4Shell, which allowed an adversary to remotely execute unwanted commands to Java's memory system.&lt;/p&gt;
+&lt;p&gt;In this case, the adversary was OpenAI's recently-released model GPT-6 Cyber, which is not yet available to the public.&lt;/p&gt;
+&lt;p&gt;But there are fears hackers could now identify the bug if the flaw isn't fixed.&lt;/p&gt;
+&lt;p&gt;Oracle, the owner of Java, has not acknowledged the bug, but released a "critical patch update" on Tuesday, which it said contained security vulnerability fixes.&lt;/p&gt;
+&lt;p&gt;At this stage it is unclear if any platforms or companies have been affected by the latest incident.&lt;/p&gt;
+&lt;p&gt;But the Java flaw remains a huge concern for cyber-security experts, who say overloading a system's memory is one of the most common ways for hackers to exploit or crash a system.&lt;/p&gt;
+&lt;p&gt;The BBC has contacted Oracle for comment.&lt;/p&gt;
+&lt;p&gt;Nearly every critical sector, including banking, national security systems, aviation and telecommunications, relies on Java.&lt;/p&gt;
+&lt;p&gt;First released in 1995, the programming language and computing system is now the "beating heart of the modern economy", Calif said in its investigation.&lt;/p&gt;
+&lt;p&gt;One of its main functions is to manage and protect memory for you, Walsh, a leading researcher in AI, told the BBC.&lt;/p&gt;
+&lt;p&gt;Any time you transfer information on the internet, receive a file from a user or need to log into an IT system with a password, the platform you are using is likely relying on a Java program.&lt;/p&gt;
+&lt;p&gt;The serious flaw could comprise "critical financial systems, customers and organisation's data," cyber-security expert Dr Pedram Hayati said.&lt;/p&gt;
+&lt;p&gt;In Australia alone, almost every bank uses Java for managing critical transaction data, Hayati added.&lt;/p&gt;
+&lt;p&gt;The latest incidents have exposed how nearly every critical sector - including national security systems, aviation and telecommunications - relies on legacy infrastructure online.&lt;/p&gt;
+&lt;p&gt;Earlier this week, thousands of customers at major US banks, including JP Morgan Chase, Wells Fargo and Bank of America, reported trouble accessing services.&lt;/p&gt;
+&lt;p&gt;The Java discovery follows a critical cyber-security flaw identified in the PHP programming language, also identified by Calif.&lt;/p&gt;
+&lt;p&gt;PHP is the code that websites like Wikipedia use to collect information and present it in a way you can read on the web.&lt;/p&gt;
+&lt;p&gt;Surrey Centre for Cyber Security Prof Alan Woodward said the PHP flaw affected some 30 million websites, leaving them vulnerable to malicious attacks.&lt;/p&gt;
+&lt;p&gt;At the time, website owners were urged to check if their sites were affected and, if so, they were told to install updates to patch the issue or consider going offline.&lt;/p&gt;
+&lt;p&gt;The PHP flaws went undetected for at least a decade, which Walsh said is similar to what has happened with Java.&lt;/p&gt;
+&lt;p&gt;"It's been hiding in plain sight for 12 years", he said.&lt;/p&gt;
+&lt;p&gt;"AI is now exposing more flaws much more quickly," Walsh said including ones that may have been so obscure and difficult that humans could not have discovered them alone.&lt;/p&gt;
+&lt;p&gt;Earlier in November, OpenAI president Greg Brockman announced his company was pivoting 25% of its staff to focus on cyber-security demands.&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond</title>
+      <link>https://www.bbc.com/news/articles/cm5y1eejk292o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm5y1eejk292o</guid>
+      <description>&lt;p&gt;The Amazon chairman says he was originally &amp;quot;biased against&amp;quot; Pattinson &amp;quot;because he&amp;#x27;s already so famous&amp;quot;.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Jeff Bezos has said he was "heavily involved" in casting Robert Pattinson as the new James Bond.&lt;/p&gt;
+&lt;p&gt;Speaking at an event in California, the Amazon chairman said he was originally "biased against" Pattinson - who starred in many blockbuster films like Batman and the Twilight series - "because he's already so famous".&lt;/p&gt;
+&lt;p&gt;The role of 007 has typically gone to an actor who is not as well known at the time of casting. But Bezos said in screen tests, "it was so obvious he is James Bond".&lt;/p&gt;
+&lt;p&gt;This will be the first 007 film in the official series not under the creative control of the Broccoli family, who had overseen the franchise since the first movie in 1962. Amazon purchased MGM, which co-owns the franchise, in 2022.&lt;/p&gt;
+&lt;p&gt;"There was something special about Rob", Bezos said at Semafor Silicon Valley &amp;amp; The World Event on Tuesday.&lt;/p&gt;
+&lt;p&gt;Pattinson was unveiled as the franchise's seventh James Bond on Monday, taking over from actor Daniel Craig. He will star in the 26th Bond movie, due to be released in 2028.&lt;/p&gt;
+&lt;p&gt;In a statement, the London-born actor said: "James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime."&lt;/p&gt;
+&lt;p&gt;The next Bond film will be directed by Denis Villeneuve, but its title and exact release date have not yet been announced.&lt;/p&gt;
+&lt;p&gt;The announcement comes after years of intense speculation about who will take over from Craig in one of the most high-profile - and highly scrutinised - roles in entertainment.&lt;/p&gt;
+&lt;p&gt;Several other actors, including Josh O'Connor, Callum Turner and Jack Lowden, were reported to be in the frame for the role as screen tests took place in recent weeks.&lt;/p&gt;
+&lt;p&gt;But Amazon MGM ultimately went with a household name, choosing a more bankable movie star who is widely seen as a safe pair of hands.&lt;/p&gt;
+&lt;p&gt;"We ran a really tight process and made the final decision on Friday," Bezos said.&lt;/p&gt;
+&lt;p&gt;There were five finalists who went through "real, old-fashioned screen tests", acting out three different scenes in full costume, with real sets and other actors, he said.&lt;/p&gt;
+&lt;p&gt;"By the time we got to this list of five, they were all amazing. But there was something special about Rob and his performance," Bezos added. "It was immediately un-debated. Denis [Villeneuve], the director … we all gravitated toward Rob."&lt;/p&gt;
+&lt;p&gt;The pick comes amid widespread Hollywood cuts and consolidation, with studios struggling to get people into cinemas.&lt;/p&gt;
+&lt;p&gt;Hollywood insiders have said Pattinson was viewed as a safe pick to bring audiences in, rather than taking a risk on a new actor who could grow with the franchise.&lt;/p&gt;
+&lt;p&gt;"Maybe he's boring. Maybe Hollywood would be passing up a chance to anoint a badly needed new star. But with so much at stake for everyone involved, that all makes him the obvious pick," Hollywood journalist Matthew Belloni, who predicted the pick, wrote in his newsletter.&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;The BBC's Regan Morris contributed to this report.&lt;/i&gt;
+&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>What's gone wrong at Britain's worst bathing site?</title>
+      <link>https://www.bbc.com/news/articles/cm752w35lkz3o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm752w35lkz3o</guid>
+      <description>&lt;p&gt;The BBC looks at why in a dry summer with few sewage spills, one bathing site failed so many water quality tests.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The official sign on the banks of the River Tone at French Weir Park in Taunton advises people not to swim.&lt;/p&gt;
+&lt;p&gt;But that hasn't stopped Jo, Jenny, Sue and a second Jo from enjoying a regular dip together.&lt;/p&gt;
+&lt;p&gt;"People think, oh you're swimming down by the supermarket, that can't be very nice, but it's gorgeous," Jenny Hillier says, as the women huddle round with their coats and hot drinks after a bracing October plunge.&lt;/p&gt;
+&lt;p&gt;People have been swimming at the spot on the River Tone in the centre of Taunton for more than a hundred years.&lt;/p&gt;
+&lt;p&gt;But it is only since 2024 that French Weir Park has been designated an official bathing site, which means from May to September the water gets tested by the Environment Agency (EA).&lt;/p&gt;
+&lt;p&gt;Those tests regularly confirm what the women's senses have been telling them for a while - the water quality is poor.&lt;/p&gt;
+&lt;p&gt;"There are times when we've come down and we haven't got in, either because of the look or the smell," says Jo Macdonald. "We don't take risks. We don't put our faces in. We don't swim with cuts or anything."&lt;/p&gt;
+&lt;p&gt;"This summer I got quite poorly," Jenny says, explaining that she'd had diarrhoea, vomiting and muscle cramps.&lt;/p&gt;
+&lt;p&gt;"I'd swum and then within six hours I was unwell. I was poorly for probably about seven to 10 days and it was not nice. I think it was the river that day."&lt;/p&gt;
+&lt;p&gt;So why is she back swimming in it?&lt;/p&gt;
+&lt;p&gt;"There are germs everywhere, all over the place. You can catch Covid in Tesco," she says.&lt;/p&gt;
+&lt;p&gt;This summer French Weir Park failed its tests on 13 of the 19 days it was sampled. The BBC analysed data from all four regulators across the UK for 2026 and found French Weir Park's failure rate of 68% was the highest of all the bathing sites&lt;/p&gt;
+&lt;p&gt;The regulators look for two types of faecal bacteria – E. coli and intestinal enterococci – that originate either in human or animal guts and can make people ill if ingested.&lt;/p&gt;
+&lt;p&gt;So where's it coming from at French Weir Park? The local water company Wessex Water says it could have come from wildlife, agriculture, private septic tanks as well as its sewerage works.&lt;/p&gt;
+&lt;p&gt;We decided to take a closer look to see if we could work out where the truth lies.&lt;/p&gt;
+&lt;h2&gt;The testing regime&lt;/h2&gt;
+&lt;p&gt;Our wastewater treatment system is built on the assumption that faecal bacteria - from our poo - once discharged into nature will be rapidly diluted and perish.&lt;/p&gt;
+&lt;p&gt;The bacteria are known to have little impact on wildlife but they can make humans sick if ingested – so the rise in popularity of wild-swimming and testing of bathing sites have increased awareness.&lt;/p&gt;
+&lt;p&gt;As part of a BBC investigation we analysed the water sampling results from this summer across all the UK's 700 official bathing sites on the coast, in lakes and rivers.&lt;/p&gt;
+&lt;p&gt;We found that more than 10% of the UK's coastal sites and 37% of its inland sites failed to meet regulators' minimum standards across the summer.&lt;/p&gt;
+&lt;p&gt;That difference is likely to be because the sea acts as a more effective dispersant and can dilute and kill faecal bacteria quicker than a lake or river.&lt;/p&gt;
+&lt;p&gt;Of the 11 worst bathing sites in England in 2026, seven were on inland rivers or lakes.&lt;/p&gt;
+&lt;h2&gt;Why are our rivers so dirty?&lt;/h2&gt;
+&lt;p&gt;Poor water quality has historically been linked to raw sewage spills. These are much more likely after it has rained. So why, in a summer that was extremely dry, did bacteria levels remain high in so many rivers?&lt;/p&gt;
+&lt;p&gt;In Taunton the official testing data suggests there has been a constant flow of bacteria entering the river.&lt;/p&gt;
+&lt;p&gt;So the BBC carried out its own sampling near three wastewater treatment works upstream of the Taunton site. We found the treated liquid coming out of the nearest sewage works at Bradford-on-Tone had about 240,000 colony forming units (CFU) of E. coli per 100ml - that's a level about 250 times higher than that considered safe for swimming.&lt;/p&gt;
+&lt;p&gt;"The counts from just outside the treatment works in my experience were high for treated effluent", Dr Rob Morley from Index Microbiology told us at his laboratory near Bristol as he peered down at small dots of E. coli bacteria on a transparent plastic plate.&lt;/p&gt;
+&lt;p&gt;What was of particular interest to Morley were the results of the test on water samples we'd taken above and below the point where the treated wastewater enters the River Tone.&lt;/p&gt;
+&lt;p&gt;It showed 199 CFU of E. coli above, which is fine for swimming and 7,701 CFU just below, more than eight times the regulators limit.&lt;/p&gt;
+&lt;p&gt;"You can see where it's seeding the river with pollution," Morley says.&lt;/p&gt;
+&lt;p&gt;"If we were to look further down the river, we would expect the levels to get lower with the dilution effect. But that does quite clearly show the impact that treated effluent can have on the river."&lt;/p&gt;
+&lt;p&gt;We shared our findings with Dr Andrew Thompson, a fellow at the Institute of Chemical Engineers. He was involved in a &lt;a href="https://nepc.raeng.org.uk/policy-work/wastewater-and-public-health/testing-the-waters-report-reducing-health-risks-from-water-pollution/"&gt;2024 report that warned high concentrations of bacteria and viruses were common&lt;/a&gt;, particularly in the summer when river levels are lower and could cause serious diseases if ingested.&lt;/p&gt;
+&lt;p&gt;Thompson told the BBC the levels of E. coli we found in the River Tone were not illegal, or even particularly unusual, because there are currently no laws or regulations about how much bacteria water companies are allowed to discharge in what the industry calls treated effluent.&lt;/p&gt;
+&lt;h2&gt;Animal or human?&lt;/h2&gt;
+&lt;p&gt;We also wanted to know whether analysing the E. coli samples from the bathing site could give us clues to where it came from.&lt;/p&gt;
+&lt;p&gt;With assistance from researchers at the University of Bristol, Morley arranged for e-DNA analysis to be carried out to identify whether the E. coli bacteria were more likely to be from a human or animal gut.&lt;/p&gt;
+&lt;p&gt;The answer, as is often the case with water quality, is complex. There were lots of different types of E.coli in the samples.&lt;/p&gt;
+&lt;p&gt;"Some were from humans, some were from animals and some were just generic from the environment," Morley says. "It definitely suggests that some of the E. coli is definitely coming from human origins, therefore potentially from that treatment works."&lt;/p&gt;
+&lt;p&gt;As with all of our testing, more needs to be done to reach firm conclusions.&lt;/p&gt;
+&lt;p&gt;Both the EA and Wessex Water are investigating what's causing the water quality in Taunton to be so poor. But sources at the EA told the BBC that constant flows of treated effluent is high up the list of likely culprits.&lt;/p&gt;
+&lt;p&gt;In response to our testing Wessex Water told the BBC its treatment works at Bradford on Tone was working normally and was meeting all its permit conditions set by the EA.&lt;/p&gt;
+&lt;p&gt;So could steady flows of treated effluent loaded with bacteria be behind many of the problems at bathing sites across the UK?&lt;/p&gt;
+&lt;p&gt;"All the sewage treatment works in the UK and in England have permits to protect the ecology and the wildlife within the river," says Jim Flory, a regional manager for the EA in the south-west.&lt;/p&gt;
+&lt;p&gt;"They've not set permits for bathing water regulations, which are all about protecting people who may want to be swimming, canoeing or using the water."&lt;/p&gt;
+&lt;p&gt;That has led to a system where a popular bathing site gets officially designated – the testing regime discovers it has high levels of faecal bacteria – and then a lengthy process begins to try to work out where the sources are and whether it's affordable to fix them.&lt;/p&gt;
+&lt;p&gt;Wolvercote Mill Stream in Oxford was the second inland river to get bathing water status in 2022 and since then the water has always been rated "poor".&lt;/p&gt;
+&lt;p&gt;In an attempt to improve things, banks of ultraviolet (UV) lights have just been installed at a cost of £4m upstream at Cassington wastewater treatment works to kill bacteria before they reach the River Thames. But there's no question of it being installed everywhere.&lt;/p&gt;
+&lt;p&gt;"The reality is it's expensive. We have to be sure we're spending money wisely," Tessa Fayers from Thames Water says.&lt;/p&gt;
+&lt;p&gt;UV disinfection has been installed at 160 of the nearly 7,000 wastewater treatment works across England – almost always as targeted interventions to protect either shellfish or bathing sites downstream.&lt;/p&gt;
+&lt;p&gt;Wessex Water said it had no plans to introduce UV disinfection at Bradford-on-Tone and that it would publish its conclusions on why the water quality is so poor in April 2027.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.co.uk/newsletters/zdsgqyc"&gt;Sign up for our Future Earth newsletter&lt;/a&gt; to keep up with the latest climate and environment stories with the BBC's Justin Rowlatt. Outside the UK? &lt;a href="https://cloud.email.bbc.com/FutureEarth_Newsletter_Signup"&gt;Sign up to our international newsletter here&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>British hacker who stole $11m through text message scheme jailed for six years in US</title>
+      <link>https://www.bbc.com/news/articles/cm87987w1qz5o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cm87987w1qz5o</guid>
+      <description>&lt;p&gt;Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;A British hacker has been sentenced to six years in a federal prison in the US for conspiring to hack into at least a dozen companies via text message phishing, and stealing more than $11.6m (£8.8m) in cryptocurrency from individual victims.&lt;/p&gt;
+&lt;p&gt;Tyler Buchanan, 24, from Dundee, started hacking as a teenager and was part of the collective of young hackers known as Scattered Spider, which has been blamed for a string of high profile cyber-crimes.&lt;/p&gt;
+&lt;p&gt;US prosecutors said the thefts had "severe, life-altering consequences" for victims and showed the growing threat posed by online crime groups.&lt;/p&gt;
+&lt;p&gt;The sentence brings to an end a years-long international investigation involving authorities in the UK, US, Spain and Canada.&lt;/p&gt;
+&lt;p&gt;Buchanan admitted taking part in a hacking campaign that began in 2021, when he was 19.&lt;/p&gt;
+&lt;p&gt;Working from his parents' home, he and other English-speaking hackers in the US and UK targeted employees at major technology and telecommunications companies.&lt;/p&gt;
+&lt;p&gt;It made them $8m in less than two years, according to US prosecutors.&lt;/p&gt;
+&lt;p&gt;Buchanan and his hacker gang sent out hundreds of SMS messages to the mobile phones of people who worked for large tech or telecoms companies.&lt;/p&gt;
+&lt;p&gt;The SMS phishing messages contained links to spoof websites designed to look like legitimate sites of victim companies.&lt;/p&gt;
+&lt;p&gt;The group used messages like "Hi, your account is due to expire - you need to log in to your work account here immediately or you will lose access to work apps".&lt;/p&gt;
+&lt;p&gt;The websites then lured the recipient into providing confidential information, including personal identifying information (PII), and account usernames and passwords.&lt;/p&gt;
+&lt;p&gt;The boys and young men did it on an industrial scale with Buchanan setting up a Telegram bot to collect all the victims' credentials as the duped workers unwittingly handed over their login details.&lt;/p&gt;
+&lt;p&gt;For some victim companies, subsequently stolen information included confidential work information, intellectual property, plus account access credentials, names, email addresses, and telephone numbers.&lt;/p&gt;
+&lt;p&gt;The group then used stolen information and SIM-swapping techniques to target cryptocurrency investors in the United States.&lt;/p&gt;
+&lt;p&gt;In the largest single theft, prosecutors said one victim lost $1.67m in December 2022.&lt;/p&gt;
+&lt;p&gt;Overall, authorities calculated that Buchanan and his co-conspirators stole more than $11.6m from victims.&lt;/p&gt;
+&lt;h2&gt;Threatened with a blowtorch&lt;/h2&gt;
+&lt;p&gt;Buchanan was also a victim of cyber-criminals.&lt;/p&gt;
+&lt;p&gt;In early 2023 his online identity and home address were leaked by rival hackers seeking access to his cryptocurrency.&lt;/p&gt;
+&lt;p&gt;Cyber security researchers and journalists reported that he was assaulted at his home and threatened with a blowtorch.&lt;/p&gt;
+&lt;p&gt;"TylerB and his group were highly sophisticated and organised but the violence he and others experienced was a sign of the troubling direction of these online communities of young hackers" says cyber security researcher Allison Nixon from Unit221B.&lt;/p&gt;
+&lt;p&gt;Buchanan then reportedly fled to Canada to escape further threats before returning home.&lt;/p&gt;
+&lt;p&gt;In April 2023, officers from Police Scotland searched Buchanan's bedroom after receiving a request from the FBI.&lt;/p&gt;
+&lt;p&gt;Investigators recovered a device containing the names and addresses of hacking victims, along with cryptocurrency seed phrases and account credentials belonging to at least one victim.&lt;/p&gt;
+&lt;p&gt;The following month, Buchanan left the UK again.&lt;/p&gt;
+&lt;p&gt;He was arrested on 31 May 2024 at Palma de Mallorca Airport in Spain while attempting to board a private flight to Naples.&lt;/p&gt;
+&lt;p&gt;After being extradited to the United States, he remained in custody before being sentenced this week.&lt;/p&gt;
+&lt;p&gt;In his November 2023 charge, Buchanan was named along with four American men and boys in their twenties and teens for alleged activity linked to the notorious cyber-criminal collective Scattered Spider.&lt;/p&gt;
+&lt;p&gt;They have all pleaded guilty too and are now serving time in jail.&lt;/p&gt;
+&lt;p&gt;Two other members of the Scattered Spider group were &lt;a href="https://www.bbc.co.uk/news/articles/c4gyg0y6yg2o"&gt;jailed in the UK in July &lt;/a&gt;for various cyber attacks including a disruptive one against Transport for London that caused £39m of damage.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.co.uk/newsletters/zxh6cxs"&gt;Sign up for our Tech Decoded newsletter&lt;/a&gt; to follow the world's top tech stories and trends. &lt;a href="https://cloud.email.bbc.com/techdecoded-newsletter-signup"&gt;Outside the UK? Sign up here&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waymo pulls driverless taxis from all US freeways</title>
+      <link>https://www.bbc.com/news/articles/cmy86pp336qlo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmy86pp336qlo</guid>
+      <description>&lt;p&gt;The decision comes after California banned Waymo&amp;#x27;s driverless vehicles from operating on the state&amp;#x27;s highways following a series of traffic incidents.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Waymo has temporarily suspended its driverless vehicles from operating on all US freeways, the company has said.&lt;/p&gt;
+&lt;p&gt;The decision comes after California banned Waymo's driverless taxis from state freeways following a series of recent traffic incidents.&lt;/p&gt;
+&lt;p&gt;California's Department of Motor Vehicles (DMV) cited an "imminent hazard to public safety" for the ban, noting an incident this month in which several driverless Waymo vehicles entered an active construction zone on US Route 101.&lt;/p&gt;
+&lt;p&gt;Waymo said it was working with state officials "diligently and responsibly to resume freeway operations", adding that no injuries or collisions were reported following the incident on US Route 101 south of San Francisco.&lt;/p&gt;
+&lt;p&gt;California's DMV said Waymo's driverless taxis presented a risk "due to recurring incursions by its vehicles into active construction zones where construction workers, vehicles and equipment are present".&lt;/p&gt;
+&lt;p&gt;In another incident earlier this month, footage widely seen on social media appeared to show a Waymo car trying to overtake patrol vehicles that were deliberately slowing the pace of traffic on a San Francisco highway.&lt;/p&gt;
+&lt;p&gt;The California ban, which came into effect on 11 November, would remain in place until Waymo "demonstrates to the department that it has taken effective corrective actions to address the deficiencies that precipitated the restrictions".&lt;/p&gt;
+&lt;p&gt;A Waymo spokesperson said: "In alignment with our safety-first principles, we have also temporarily restricted freeway operations across our other operating markets to evaluate our performance."&lt;/p&gt;
+&lt;p&gt;Data on Waymo's website suggests that its cars, compared to human drivers, are involved in 95% fewer crashes resulting in serious injury.&lt;/p&gt;
+&lt;p&gt;Waymo currently operates driverless taxis in 15 US cities, but only offered freeway rides in a handful of those locations, including San Francisco, Los Angeles and Miami.&lt;/p&gt;
+&lt;p&gt;The company's driverless taxis can continue to operate on regular city streets.&lt;/p&gt;
+&lt;p&gt;In May, Waymo &lt;a href="https://www.bbc.com/news/articles/cwy2011dl4xo"&gt;recalled thousands of its self-driving cars&lt;/a&gt; in the US over a software issue that could allow vehicles to drive into flooded roads.&lt;/p&gt;
+&lt;p&gt;In the same month, multiple Waymo cars were spotted driving around a &lt;a href="https://www.bbc.com/news/videos/czx20g00ly1o"&gt;cul-de-sac in Atlanta, Georgia&lt;/a&gt;, in the early hours of the morning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Have you been affected by the issues discussed in this story? &lt;/strong&gt;&lt;a href="https://www.bbc.co.uk/send/u253956567"&gt;Get in touch by using this link&lt;/a&gt; &lt;strong&gt;or the form below.&lt;/strong&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Democrats win Alaska Senate race two weeks after midterms counting began</title>
+      <link>https://www.bbc.com/news/articles/cqev3v2ygzlvo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cqev3v2ygzlvo</guid>
+      <description>&lt;p&gt;Confirmation of Mary Peltola&amp;#x27;s victory caps of the party&amp;#x27;s rout of the Republicans in the midterms Senate election.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Democrat Mary Peltola has won Alaska's hard-fought Senate race, completing a sweeping victory for the party in the US upper house in the midterm elections.&lt;/p&gt;
+&lt;p&gt;The win gives the Democrats a 56th Senate seat following a tumultuous and controversial election in Alaska, which featured alleged spoiler recruitment efforts and unprecedented court battles.&lt;/p&gt;
+&lt;p&gt;It took two full weeks of counting to call a winner in the 3 November poll due to the logistical challenge of collecting ballots from across the state's remote expanse.&lt;/p&gt;
+&lt;p&gt;It is the ninth Senate seat the Democrats have taken from Republicans in the midterms, giving the party control of the US Congress for the last two years of Donald Trump's presidency.&lt;/p&gt;
+&lt;p&gt;The Democrats also won back the House of Representatives, the lower chamber.&lt;/p&gt;
+&lt;p&gt;Peltola defeated the incumbent Republican senator, Dan S Sullivan, who is yet to comment.&lt;/p&gt;
+&lt;p&gt;In her victory statement, Peltola said the "status quo in DC is not working for Alaska".&lt;/p&gt;
+&lt;p&gt;She recalled speaking to "elders in tears about empty fish racks" and to parents in rural Alaska choosing between heating their homes and putting food on the table.&lt;/p&gt;
+&lt;p&gt;Peltola is the first Alaska Native elected to the US Senate, and is the first Democrat to win a US Senate seat in Alaska since 2008.&lt;/p&gt;
+&lt;p&gt;Donald Trump won the state by 13 points in the 2024 presidential election, but defeat for the Republicans in this year's US Senate race in the state caps off a string of losses in the midterms for the president's party.&lt;/p&gt;
+&lt;p&gt;Many voters across the United States cited cost-of-living issues as a factor that affected how they cast their ballots.&lt;/p&gt;
+&lt;p&gt;Peltola's campaign had come under fire after &lt;a href="https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html?eafs_enabled=false"&gt;the New York Times&lt;/a&gt; reported that her team worked with people who tried to recruit so-called spoiler candidates in an alleged attempt to confuse voters. &lt;/p&gt;
+&lt;p&gt;The alleged scheme led to a candidate named Daniel J Sullivan - a complete political unknown residing in a small coastal town who shared a name with the state's current US Senator and incumbent, Dan S Sullivan - contesting the race.&lt;/p&gt;
+&lt;p&gt;After legal challenges, state courts ruled that Daniel J Sullivan could remain on the ballot, and election officials distinguished them on election materials.&lt;/p&gt;
+&lt;p&gt;Peltola denied having knowledge of the alleged plot but her campaign swiftly came under fire, and both the US justice department and Alaska's Republican governor said they would launch investigations.&lt;/p&gt;
+&lt;p&gt;The Trump administration also filed a lawsuit attempting to stop the certification of the election results if the incumbent Republican Senator Sullivan lost.&lt;/p&gt;
+&lt;p&gt;A federal judge, though, dismissed the case, following legal challenges from Alaska election officials as well as the Peltola campaign and voting groups.&lt;/p&gt;
+&lt;p&gt;Due to Alaska's ranked-choice voting system, voters confused about which Dan Sullivan was the incumbent could have simply chosen both men, listing them as their first and second choices.&lt;/p&gt;
+&lt;p&gt;If they did so, after the first round of voting was complete, tabulation would have re-allocated any votes from Daniel J Sullivan - who stood little to no chance of winning - to Dan S Sullivan.&lt;/p&gt;
+&lt;p&gt;Experts told the BBC that this process made it difficult for any potential spoiler candidate to have any impact on the results.&lt;/p&gt;
+&lt;p&gt;An &lt;a href="https://www.bbc.com/news/articles/cxnv4jlr269eo"&gt;analysis by BBC Verify&lt;/a&gt; found that even if every vote for Daniel J Sullivan had gone to the incumbent, Dan S Sullivan, Peltola would still have won.&lt;/p&gt;
+&lt;p&gt;The Democratic win in Alaska cements the party's majority in the US Senate, as the party now has 56 seats to the Republicans' 44.&lt;/p&gt;
+&lt;p&gt;The most senior Democrat in the Senate, Chuck Schumer, said Peltola had run "a pitch-perfect campaign devoted to the issues Alaskans care most about". Hailing the Democrats' final tally in the Senate, he said: "56 seats was an unimaginable result even just a few months ago."&lt;/p&gt;
+&lt;p&gt;The Alaska seat was initially one of several toss-up races that appeared as a must-win for Democrats if they wanted to gain control of the US Senate. But by the time Peltola was called the winner, they had seats to spare.&lt;/p&gt;
+&lt;p&gt;With 99% of ballots counted, Peltola had slightly more than 50% of the votes, while Sullivan trailed on less than 46%.&lt;/p&gt;
+&lt;p&gt;Sullivan, a former Alaska attorney general and an ally of Trump, campaigned on his record of delivering energy and military investment for the state.&lt;/p&gt;
+&lt;p&gt;Peltola promised Alaskans a more independent voice in Washington.&lt;/p&gt;
+&lt;p&gt;"As a lifelong Alaskan who has dedicated my life to serving our state, there is no greater honor than having Alaskans' support in our fight to take on corporate greed, lower costs, and put Alaska first," she said in her victory statement.&lt;/p&gt;
+&lt;p&gt;"I will stand up to anyone to take on the rigged system in DC and deliver results for Alaska's working families."&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Irishman charged with destroying US military aircraft with axe</title>
+      <link>https://www.bbc.com/news/articles/cwd01jjl5zzzo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwd01jjl5zzzo</guid>
+      <description>&lt;p&gt;The $60m (£45m) plane was destroyed in an hours-long raid by an anti-war protester, according to the FBI.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;US officials have charged an Irishman with destroying a $60m (£45m) American military aircraft after he allegedly sneaked onto the tarmac of an airport in Ireland.&lt;/p&gt;
+&lt;p&gt;Daithi O'Corrain, 48, is accused of doing extensive research before he allegedly used chemicals and various tools - including an axe - to damage a US Air National Guard C-130 Hercules parked at Shannon Airport near Limerick.&lt;/p&gt;
+&lt;p&gt;American prosecutors have charged him with destruction of government property, which carries a maximum sentence of 10 years in prison.&lt;/p&gt;
+&lt;p&gt;O'Corrain is not currently in US custody, according to the Associated Press news agency, and it is unclear whether he has a lawyer who could speak on his behalf.&lt;/p&gt;
+&lt;p&gt;In filings unsealed by prosecutors in New York on Tuesday, agents from the FBI argued that the act jeopardised US national security. They say the plane was parked at the airport while en route to another country on a US military assignment.&lt;/p&gt;
+&lt;p&gt;"As alleged, Daithi O'Corrain carried out a deliberate, planned attack against a US military aircraft, causing tens of millions of dollars in damage and jeopardizing critical military operations," prosecutors said in a court filing.&lt;/p&gt;
+&lt;p&gt;"This was not an act of spontaneous vandalism," said FBI Assistant Director in Charge James Barnacle Jr, explaining O'Corrain "spent months researching the aircraft, acquiring tools and materials, and preparing to maximize the destruction he could inflict."&lt;/p&gt;
+&lt;p&gt;Officials say that the suspect planned extensively for the 11 April 2026 raid, and brought tools with him for the demolition, which took place over several hours.&lt;/p&gt;
+&lt;p&gt;He entered the plane by breaking a locking mechanism, officials say, then used straps to close the doors before covering the windows.&lt;/p&gt;
+&lt;p&gt;"O'Corrain then proceeded to inflict severe damage to the interior of the Aircraft by, among other things, cutting wire bundles and hydraulic lines within the Aircraft, crimping a liquid oxygen line within the Aircraft, destroying every gauge in the Aircraft's cockpit, and puncturing the Aircraft's air ducts," the US indictment says.&lt;/p&gt;
+&lt;p&gt;He also used gallium, a substance that can erode aluminum and steel, ball bearings which he poured in the fuel tank, and an axe which he used to puncture the exterior of the plane.&lt;/p&gt;
+&lt;p&gt;He was caught by airport crew, and filmed standing on top of the plane. He was arrested at the scene, and charged by Ireland's national police with causing criminal damages.&lt;/p&gt;
+&lt;p&gt;The US charges say that he had planned well, because he avoided cutting a line that would have risked causing massive explosion.&lt;/p&gt;
+&lt;p&gt;According to the &lt;a href="https://www.limerickpost.ie/2026/04/13/man-charged-with-breaching-perimeter-fence-at-shannon-airport-and-damaging-us-military-plane/#google_vignette"&gt;Limerick Post&lt;/a&gt;, O'Corrain is from Cork City. Supporters have described him as an anti-war activist.&lt;/p&gt;
+&lt;p&gt;Shannon Airport is a key hub for US military personnel, and is frequently the scene of anti-war protests. It was used by President Donald Trump in September for his visit to Ireland.&lt;/p&gt;
+&lt;p&gt;US prosecutors note that there have been several breaches there in recent years by protesters, including &lt;a href="https://www.bbc.com/news/articles/ce82xwgkwyno"&gt;in May 2025 when three people drove a van through a perimeter fence&lt;/a&gt;, and then again later that month when a US airplane was sprayed with paint, making it temporarily inoperable.&lt;/p&gt;</content:encoded>
+      <pubDate>Wed, 18 Nov 2026 12:51:07 GMT</pubDate>
+    </item>
     <item>
       <title>GTA 6: My wife and daughter have signed a 'do not disturb' contract</title>
       <link>https://www.bbc.com/news/articles/c8p3vz0ky21yo</link>
