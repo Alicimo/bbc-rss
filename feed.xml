@@ -5,9 +5,248 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 02:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:10:32 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage</title>
+      <link>https://www.bbc.com/news/articles/c39w9l4v1p9ro</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c39w9l4v1p9ro</guid>
+      <description>&lt;p&gt;The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;After an eight-year journey travelling almost six billion miles (10bn km), a spacecraft called BepiColombo is about to reach its final destination and get into orbit around Mercury.&lt;/p&gt;
+&lt;p&gt;It will be entering an extremely hostile environment: Mercury is the closest planet to the Sun and temperatures can reach a fierce 430C and then plunge to -180C, and it is constantly blasted with intense solar radiation.&lt;/p&gt;
+&lt;p&gt;Until now, the planet has been little explored but the hope is this mission will solve some of Mercury's major mysteries.&lt;/p&gt;
+&lt;p&gt;These include uncovering why there is ice in its craters despite its proximity to the Sun, and understanding the mysterious hollows that are dotted all over its surface.&lt;/p&gt;
+&lt;p&gt;"I think it's a little bit of an under-loved planet in the inner Solar System, but I think that's one of the reasons why it is so compelling," said Prof Emma Bunce, from Leicester University, who is a principal investigator on the mission.&lt;/p&gt;
+&lt;p&gt;"There are lots of reasons, scientifically, why we really want to understand Mercury, how it formed, how it evolved, what it looks like today, but also how it interacts with the Sun and the extreme space weather that it experiences."&lt;/p&gt;
+&lt;p&gt;The BepiColombo mission, which is a collaboration between the European Space Agency (ESA) and Japanese Space Agency (JAXA), &lt;a href="https://www.bbc.co.uk/news/science-environment-45838991"&gt;blasted off in 2018&lt;/a&gt;, launching from French Guiana.&lt;/p&gt;
+&lt;p&gt;With the spacecraft heading deep into the inner Solar System, it has had to battle the Sun's immense gravitational pull.&lt;/p&gt;
+&lt;p&gt;So it has had its brakes on for the entire journey, and has also taken a very convoluted path - looping once around the Earth, twice around Venus and six times around Mercury - to slow it down enough to get into orbit.&lt;/p&gt;
+&lt;p&gt;This journey should have taken seven years, but a problem with BepiColombo's propulsion system meant the already epic voyage was extended by a year.&lt;/p&gt;
+&lt;p&gt;The final manoeuvre to get into orbit is a perilous one: it needs to perform a 37-minute handbrake turn to be grabbed by the planet's gravity.&lt;/p&gt;
+&lt;p&gt;If anything goes wrong, the spacecraft could hurtle past Mercury.&lt;/p&gt;
+&lt;p&gt;Only two spacecraft have visited Mercury until now - both Nasa missions.&lt;/p&gt;
+&lt;p&gt;Mariner-10 flew past the planet three times in the 1970s, and then the Messenger spacecraft arrived at Mercury in 2011 and spent four years in orbit.&lt;/p&gt;
+&lt;p&gt;But there is still much to discover about this tiny world.&lt;/p&gt;
+&lt;p&gt;Mercury is only a bit bigger than our Moon, and is covered in ancient volcanoes, towering cliffs and colossal craters.&lt;/p&gt;
+&lt;p&gt;And time on Mercury passes in a mind-bending way.&lt;/p&gt;
+&lt;p&gt;The planet zips around the Sun so quickly, a year on Mercury lasts just 88 Earth days. But it turns incredibly slowly on its own axis, so a single day there lasts 59 Earth days.&lt;/p&gt;
+&lt;p&gt;As well as investigating why Mercury has ice in its craters in the polar regions, the mission will also spend time studying strange dents in the planet's surface.&lt;/p&gt;
+&lt;p&gt;There are thousands of hollows all over it. They are shallow but with steep sides and often clustered together, and in planetary terms, they are young: about 100,000 years old.&lt;/p&gt;
+&lt;p&gt;Scientists know they are not impact craters - larger pockmarks on the surface caused by colliding space rocks - but they are not really sure what the hollows are or how they formed.&lt;/p&gt;
+&lt;p&gt;BepiColombo will also help to study another aspect of Mercury that has been puzzling researchers. Despite the planet's tiny size, it has a huge metal core.&lt;/p&gt;
+&lt;p&gt;Prof Emma Bunce said that the planet could once have been much bigger, but was potentially the victim of a "hit and run" early in its history.&lt;/p&gt;
+&lt;p&gt;"One of the explanations is that the mantle was stripped away in a large collision," she explained.&lt;/p&gt;
+&lt;p&gt;"Or it's a combination of collisions over a longer period of time that then strips away its outer outer regions, its mantle and its crust, and leads to the planet that we see today."&lt;/p&gt;
+&lt;p&gt;Or she said, it could have just formed that way in a metal-rich part of the early Solar System.&lt;/p&gt;
+&lt;p&gt;Unusually, this is a sort of "buy one get one free" mission - there are two spacecraft onboard.&lt;/p&gt;
+&lt;p&gt;A few weeks after arriving at Mercury they will separate.&lt;/p&gt;
+&lt;p&gt;An ESA craft will study the surface close-up, the other, which belongs to JAXA, will view the planet from a distance.&lt;/p&gt;
+&lt;p&gt;A life-size model of BepiColombo is on display at the Science Museum in London. It was used to test the craft while it was being put together.&lt;/p&gt;
+&lt;p&gt;Jessica Marshall, a systems engineer at Airbus, who built the spacecraft, showed us Bepi's key features - and said the moment of separation would be "nerve-wracking" for the team.&lt;/p&gt;
+&lt;p&gt;The two spacecraft had to be very securely attached together for their launch and long journey, but now, eight years later, they have to delicately disconnect.&lt;/p&gt;
+&lt;p&gt;"We have designed a special mechanism that we have thought very carefully about," said Marshall.&lt;/p&gt;
+&lt;p&gt;"It's been exposed to the harsh radiation of space and highly different thermal temperatures, and after eight years this is a spring mechanism that has to then release very gently… As it releases, it actually also twists in order to start the spin of that spacecraft as well."&lt;/p&gt;
+&lt;p&gt;With two orbiters at Mercury, both packed with instruments, the BepiColombo team hopes to find answers to Mercury's mysteries.&lt;/p&gt;
+&lt;p&gt;Of course, they may uncover many more once they arrive.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>China issues Mount Fuji warning as family of missing climber offers reward</title>
+      <link>https://www.bbc.com/news/articles/c61wr088jnzzo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c61wr088jnzzo</guid>
+      <description>&lt;p&gt;The $75,000 reward offered by Chen Jie&amp;#x27;s family has sparked fears of more reckless climbing attempts.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The Chinese embassy in Japan has warned its citizens against off-season ascents of Mount Fuji amid concerns that the hefty reward offered by a missing hiker's family could encourage more reckless climbing.&lt;/p&gt;
+&lt;p&gt;Chen Jie, 25, vanished on 8 November on the mountain. His family is offering 500,000 yuan ($75,000; £57,300) to anyone who finds him alive, and 100,000 yuan to anyone who recovers his body, say Chinese and Japanese media reports.&lt;/p&gt;
+&lt;p&gt;Strong winds and blizzards pose serious risks during the closed season, especially as shelter and first-aid centres are not operational, the embassy said on Tuesday.&lt;/p&gt;
+&lt;p&gt;Mount Fuji's official climbing season runs from around early July to early September.&lt;/p&gt;
+&lt;p&gt;Earlier this year, authorities of Yamanashi province, where the northern part of Mount Fuji sits, had said that people who attempt to climb Mount Fuji during off-peak seasons and then require rescue by helicopter will have to &lt;a href="https://www.bbc.com/news/articles/cw8r6mvjdvedo"&gt;pay for the service&lt;/a&gt; from next year on. &lt;/p&gt;
+&lt;p&gt;Authorities will also require those looking to scale Fuji during the off-season to submit detailed climbing plans.&lt;/p&gt;
+&lt;p&gt;"We hope that these measures will cause people to rethink what climbing Mount Fuji during the winter is like," Kotaro Nagasaki, the prefecture governor, said at the time.&lt;/p&gt;
+&lt;p&gt;On Wednesday, Nagasaki told reporters that attempts to find the missing climber could lead to "secondary disasters"&lt;/p&gt;
+&lt;p&gt;According to Japanese news outlet the Mainichi Shimbun, Nagasaki appeared to appeal to Chen's family, saying: "I understand that your family is important, but please refrain from doing anything that could endanger others."&lt;/p&gt;
+&lt;p&gt;Some social media users in Japan have similarly expressed fears would entice people to venture into the mountains ill-prepared and lead to more accidents,&lt;/p&gt;
+&lt;p&gt;Yamanashi police said Chen had set out on his hike on 8 November with two friends, who turned back after they realised the mountain was closed and that they weren't suitably equipped for the conditions of the trails.&lt;/p&gt;
+&lt;p&gt;Chen pressed on alone from the fifth station of the Yoshida Trail, which sits at around 2,300m (7545ft) above sea level.&lt;/p&gt;
+&lt;p&gt;A friend last heard from Chen at 10:30 that day, when he sent a video message saying: "I'm going up the mountain... There's no one in sight."&lt;/p&gt;
+&lt;p&gt;The highest point of Mount Fuji, which is Japan's tallest peak, stands at 3,776m.&lt;/p&gt;
+&lt;p&gt;Local authorities launched a search for Chen on 10 November, but it had to be halted several times because of poor weather.&lt;/p&gt;
+&lt;p&gt;Chen's father reportedly arrived in Japan on 13 November. It is not clear when he posted the reward offer.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tens of thousands of UK fridges secured from hackers in secret nationwide operation</title>
+      <link>https://www.bbc.com/news/articles/c6eq49zyx7p4o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6eq49zyx7p4o</guid>
+      <description>&lt;p&gt;Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.&lt;/p&gt;
+&lt;p&gt;Recent &lt;a href="https://www.bbc.co.uk/news/articles/cq1kd1nee80eo"&gt;waves of cyber-attacks in Europe&lt;/a&gt; have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.&lt;/p&gt;
+&lt;p&gt;France has blamed Iran for one of the waves of attacks that impacted its supermarkets, &lt;a href="https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"&gt;a claim Tehran denies&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It was thought the UK had &lt;a href="https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o"&gt;largely escaped such hacks&lt;/a&gt; as the British refrigeration industry relies on different devices but there was in fact a potential vulnerability the sector has been rushing to fix.&lt;/p&gt;
+&lt;p&gt;In late October, security researchers discovered a major flaw that, if found by hackers, could have led to even worse damage to the UK.&lt;/p&gt;
+&lt;p&gt;Since then, researchers, IT teams and the National Cyber Security Centre have been working around the clock to warn dozens of companies.&lt;/p&gt;
+&lt;p&gt;The BBC has not reported on the large-scale, secretive operation until now to reduce the chances of hackers causing harm if they found the vulnerability.&lt;/p&gt;
+&lt;h2&gt;Thousands of fridges taken off-line&lt;/h2&gt;
+&lt;p&gt;The security threat was discovered by staff at refrigeration consultants Omega Solutions - it was then verified and expanded upon by experts at Pen Test Partners who helped raise the alarm.&lt;/p&gt;
+&lt;p&gt;The National Cyber Security Centre (NCSC), the Department for Environment, Food &amp;amp; Rural Affairs (Defra) and Food Standards Agency (FSA) were then involved in the campaign to plug the security holes.&lt;/p&gt;
+&lt;p&gt;They held industry conference calls and tasked teams to contact firms at risk.&lt;/p&gt;
+&lt;p&gt;Thousands of devices controlling tens of thousands of refrigeration devices were taken off the open internet either remotely or, in some cases, physically - with staff ordered to remove internet cables and monitor temperatures manually.&lt;/p&gt;
+&lt;p&gt;BBC news has learnt most major supermarkets have been forced to divert IT teams to address the risks, with a worker at one large chain saying they took hundreds of devices offline every day over the course of a week.&lt;/p&gt;
+&lt;p&gt;"It did feel like a race against time as we were expecting another wave of these fridge hacks to come," said the person, who did not want to be publicly named.&lt;/p&gt;
+&lt;p&gt;"From a business perspective it could have been potentially devastating with business interruption and supply chain problems. Our warehouses have millions of pounds worth of food that could have been spoiled if any hackers found out about this method of attack," they added.&lt;/p&gt;
+&lt;p&gt;There have been three waves of hacks on refrigeration temperature controllers so far this year:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In August, fridges at a small number of US military bases were impacted&lt;/li&gt;
+&lt;li&gt;On 11 and 12 October hundreds of supermarkets and food processing sites in France were hit when Danfoss temperature control systems were targeted&lt;/li&gt;
+&lt;li&gt;On 1 and 2 November dozens of supermarkets across seven European countries were hit, with Belgium and Luxembourg the worst affected. A small number of blood bank sites in France were also impacted&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The waves of attacks prompted an expert at Omega Solutions to examine the security of the most popular refrigeration controllers in the UK, made by British firm Resource Data Management (RDM).&lt;/p&gt;
+&lt;p&gt;RDM disputes the critical nature of the vulnerabilities exposed but has been praised for its professional response to address the concerns, the BBC understands.&lt;/p&gt;
+&lt;p&gt;As well as supermarkets, multiple other areas of UK food and beverage industry were also warned to take action about the risks.&lt;/p&gt;
+&lt;p&gt;These include convenience stores, petrol stations, restaurants and fast food chains, sports arenas, hotels, food processing plants and cold storage sites.&lt;/p&gt;
+&lt;p&gt;"These popular controllers had a similar weak password problem to the Danfoss and other controllers that were attacked so successfully in previous hacks so we had to get the message out as soon as possible and keep it secret," said Ken Munro of Pen Test Partners.&lt;/p&gt;
+&lt;p&gt;"There is so much extra attention on these ubiquitous bits of kit now that it was likely a matter of days until criminals or nation state hackers figured it out," he added.&lt;/p&gt;
+&lt;p&gt;RDM, though, says comparisons with the units attacked in mainland Europe are not fair because hacking their fridges and freezers would have involved getting hold of a piece of hardware.&lt;/p&gt;
+&lt;p&gt;The ethical hackers say this would have been achievable as the hardware in question can be purchased cheaply online on sites like eBay.&lt;/p&gt;
+&lt;p&gt;"This was a vulnerability identified in a test environment," said Ged Evans, CEO of RDM.&lt;/p&gt;
+&lt;p&gt;He said the test "went beyond" what such exercises usually involved, as it "included dismantling our hardware".&lt;/p&gt;
+&lt;p&gt;"In any event we have acted at pace to address this issue and have already deployed first patch releases and have been in proactive contact with our customers to flag any issues and recommend mitigatory steps," he added.&lt;/p&gt;
+&lt;p&gt;RDM confirmed that there was no sign of any malicious activity on the controllers and that it continued to work with the NCSC and other authorities to monitor the situation.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.co.uk/newsletters/zxh6cxs"&gt;Sign up for our Tech Decoded newsletter&lt;/a&gt; to follow the world's top tech stories and trends. &lt;a href="https://cloud.email.bbc.com/techdecoded-newsletter-signup"&gt;Outside the UK? Sign up here&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Kyiv bridges hit during major Russian missile attack</title>
+      <link>https://www.bbc.com/news/articles/c6x29gn4pdn9o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6x29gn4pdn9o</guid>
+      <description>&lt;p&gt;Five people were killed in a wave of strikes which follow Ukraine&amp;#x27;s successful targeting of the Crimean Bridge.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Russia targeted bridges in Kyiv and railway stations overnight in a major attack launched days after Ukraine badly damaged the strategically important Crimean Bridge.&lt;/p&gt;
+&lt;p&gt;Ballistic missiles hit three bridges in the capital during a nationwide assault which Ukrainian President Volodymyr Zelensky said was "one of the most massive strikes" of the war so far and left at least eight dead.&lt;/p&gt;
+&lt;p&gt;Russian President Vladimir Putin had threatened to retaliate for the attack on the Crimean Bridge, which the Kremlin built to link Russia and the occupied peninsula.&lt;/p&gt;
+&lt;p&gt;The latest Russian strikes coincided with a flurry of talks around the war, and as the Kremlin pushed back against a US claim that Russia could be open to ongoing Western-backed security guarantees for Ukraine.&lt;/p&gt;
+&lt;p&gt;The three Kyiv bridges targeted in Kyiv overnight - the Podilsko-Voskresensky Bridge, the Darnytskyi Bridge and the Southern Bridge - have been closed to traffic, adding to disruption created by retaliatory strikes on bridges earlier this week.&lt;/p&gt;
+&lt;p&gt;Kyiv Mayor Vitali Klitschko urged people to "avoid travelling into the city by private car unless absolutely necessary".&lt;/p&gt;
+&lt;p&gt;He added that an unspecified critical infrastructure facility was also damaged and seven medical personnel were injured during the night's assault.&lt;/p&gt;
+&lt;p&gt;Ukraine's major operation to take out the road section of the Crimean Bridge earlier this week was a tactical and symbolic blow for Moscow.&lt;/p&gt;
+&lt;p&gt;Since illegally annexing Crimea in 2014, Moscow has housed troops and military equipment there, with occupying forces travelling through the peninsula towards the front line.&lt;/p&gt;
+&lt;p&gt;Ukrainian President Volodymyr Zelensky said an operation to weaken the bridge's defences and ultimately cause part of it to collapse had been weeks in the making.&lt;/p&gt;
+&lt;p&gt;Russian President Vladimir Putin - who personally opened the bridge in 2019 to international condemnation - said the Kremlin's retaliation for the strike would be "far more painful".&lt;/p&gt;
+&lt;p&gt;Air raid sirens lasted non-stop throughout the night and were ongoing into the morning.&lt;/p&gt;
+&lt;p&gt;Ukraine's air force says almost 100 missiles were launched by Russia in its overnight attack - one of the largest attacks since the invasion began in 2022. It also involved around 400 drones.&lt;/p&gt;
+&lt;p&gt;The attack was "one of the most powerful" yet, according to Yuriy Ignat, head of communications for the Ukrainian air force.&lt;/p&gt;
+&lt;p&gt;Prime Minister Serhiy Koretsky said 28 people were injured, with an ambulance hospital in Kharkiv among the targets of an attack which hit nine regions.&lt;/p&gt;
+&lt;p&gt;Two people were killed in a hit on the Sknyliv railway station in the south-west of Lviv, the city's Mayor Andriy Sadovyi said.&lt;/p&gt;
+&lt;p&gt;He shared a picture of the ruined remains of what he said was the station's ticket terminal.&lt;/p&gt;
+&lt;p&gt;Ten people were injured and a rescue operation at the site is ongoing.&lt;/p&gt;
+&lt;p&gt;A Russian cruise missile landed in Poland around 50km (31 miles) from its border with Ukraine, the Polish Defence Minister Wladyslaw Kosiniak-Kamysz said on Friday.&lt;/p&gt;
+&lt;p&gt;Two more unidentified projectiles, suspected to be a drone and a second missile, landed in villages nearby and no one was harmed, he added.&lt;/p&gt;
+&lt;p&gt;Polish and Swedish jets were scrambled on Nato's eastern flank as Russia's attack on western Ukraine continued. They have since been stood down.&lt;/p&gt;
+&lt;p&gt;The attack began hours after European leaders including UK Prime Minister Andy Burnham, French President Emmanuel Macron and German Chancellor Friedrich Merz said they were ready for negotiations involving Moscow to end the war in Ukraine.&lt;/p&gt;
+&lt;p&gt;The Berlin meeting of the so-called coalition of the willing, an international alliance of Ukraine's allies committed to providing security support in the event of a peace deal, was attended by Zelensky and US President Donald Trump's envoys.&lt;/p&gt;
+&lt;p&gt;Jared Kushner said the US "wants to make a deal with Europe by his side" after fears of an agreement negotiated between the US and Russia were reignited by Trump's one-to-one talks with Putin earlier this week.&lt;/p&gt;
+&lt;p&gt;He claimed Russia was "comfortable" with Ukraine having security guarantees based on Nato's Article Five, which requires allies to come to a country's defence if it comes under attack.&lt;/p&gt;
+&lt;p&gt;On Monday, Russia's deputy foreign minister Sergei Ryabkov pushed back against that, saying "quasi-Nato" membership for Ukraine would be "unacceptable" to Russia. The Kremlin has long cited the prospect of Ukraine joining Nato as a key justification for its war effort.&lt;/p&gt;
+&lt;p&gt;The US president dialled into the Berlin talks from Air Force One on his way back from China, where he met his Russian counterpart and Chinese leader Xi Jinping.&lt;/p&gt;
+&lt;p&gt;He reportedly questioned the decision of European leaders to commit €70bn (£58.6bn; $76.bn) in military funding for Ukraine.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>I've only sold five copies of GTA 6, says shop owner</title>
+      <link>https://www.bbc.com/news/articles/cmqj5dr01e85o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmqj5dr01e85o</guid>
+      <description>&lt;p&gt;Games shop owner Richard Tewksbury says the release of Grand Theft Auto 6 has been a &amp;quot;write-off&amp;quot;.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The owner of an independent game shop says he has only sold five copies of the highly anticipated open-world action-adventure Grand Theft Auto 6.&lt;/p&gt;
+&lt;p&gt;GTA 6, as it is known, is estimated to become the biggest entertainment launch in history following the blockbuster &lt;a href="https://www.bbc.co.uk/news/articles/c6z74ep2n17zo"&gt;video game's debut&lt;/a&gt; on Thursday, after a 13-year wait.&lt;/p&gt;
+&lt;p&gt;But Richard Tewksbury, who runs Super Game Shack in the Silver Arcade in Leicester, said he had seen "embarrassing" sales of the game because it was only released as&lt;a href="https://www.bbc.co.uk/news/articles/cjrg52egw1ro"&gt; a digital download&lt;/a&gt; and not on disc.&lt;/p&gt;
+&lt;p&gt;"People are super, super, super hungry for this game - so it's already doing crazy numbers already - but that's not translated for us."&lt;/p&gt;
+&lt;p&gt;"I've only sold four copies on PS5 and one copy on Xbox," added Tewksbury.&lt;/p&gt;
+&lt;p&gt;"It's because it's all digital - no-one sadly wants to buy a code in a box. We gave it a little go, but they just knocked it dead with making it digital. For game shops, it's a write-off.&lt;/p&gt;
+&lt;p&gt;"I'm really behind the game - I think it's amazing - but for shops, it's just not great."&lt;/p&gt;
+&lt;p&gt;In June, developer Rockstar Games said physical copies would contain a code for a digital download rather than the more traditional format. The company has been contacted for comment.&lt;/p&gt;
+&lt;p&gt;Tewksbury said, while he thinks the game is "amazing", the choice to not sell physical copies with discs was "not great" for smaller stores.&lt;/p&gt;
+&lt;p&gt;The release of the blockbuster came after two delays to its initial launch date in autumn 2025.&lt;/p&gt;
+&lt;p&gt;In advance of the launch, GTA 6 generated an estimated £1.25bn ($1.65bn) in revenue based on an estimated 17.07m units sold, sales tracker &lt;a href="https://sensortower.com/grand-theft-auto-VI/sales-tracker"&gt;SensorTower said&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;However, Tewksbury said sales at local stores had been poor because physical editions contain download codes rather than discs.&lt;/p&gt;
+&lt;p&gt;"It is possibly the biggest game hype there's ever been - 13 years people have been waiting for this," he said.&lt;/p&gt;
+&lt;p&gt;GTA 6 is one of the first major games to only be released without a traditional disc version.&lt;/p&gt;
+&lt;p&gt;However, Tewksbury said the reality for game shops was that this style of release would be the future of the industry.&lt;/p&gt;
+&lt;p&gt;Many consoles are now without physical disc drives and PlayStation announced in July that its games would &lt;a href="https://www.bbc.co.uk/news/articles/c0ryjyvjq41o"&gt;no longer be released on discs from January 2028&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Sony, which owns PlayStation, said the move came "as consumer preferences and the broader entertainment industry continue to shift away from physical discs to digital".&lt;/p&gt;
+&lt;p&gt;"This is the way it's going to be," Tewksbury said.&lt;/p&gt;
+&lt;p&gt;"It's a big effect for us because it was such a massive game - everyone wants it.&lt;/p&gt;
+&lt;p&gt;"A lot of people aren't even aware that you could actually get it as a code in a box in a shop.&lt;/p&gt;
+&lt;p&gt;"Suddenly everyone's already pre-ordered it months in advance because the download is so large and [they] aren't thinking about us."&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cancer patient waited two days in chair, son says</title>
+      <link>https://www.bbc.com/news/articles/cq39g0em40e4o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cq39g0em40e4o</guid>
+      <description>&lt;p&gt;NHS apologises after patients and families describe &amp;quot;awful&amp;quot; conditions at Lincoln County Hospital.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The son of an 83-year-old cancer patient says she spent almost two days in a chair at A&amp;amp;E while waiting for a bed in hospital.&lt;/p&gt;
+&lt;p&gt;Nigel Wass says he had to bring his mother fluids, turn off alarms and find a wheelchair to take her to the toilet during "close to 48 hours" at Lincoln County Hospital, because staff were "run ragged".&lt;/p&gt;
+&lt;p&gt;One in 20 patients using Lincolnshire's emergency departments waited longer than 12 hours for a hospital bed, according to NHS figures for the year to October.&lt;/p&gt;
+&lt;p&gt;United Lincolnshire Teaching Hospitals NHS Trust (ULTH) apologised and said it "continued to implement improvements", including more rapid patient assessment and "timely patient discharges" to "free up beds".&lt;/p&gt;
+&lt;p&gt;Wass's mother had multiple infections during 18 months of cancer treatment, all needing emergency treatment.&lt;/p&gt;
+&lt;p&gt;He says he accompanied her to Lincoln County Hospital seven times between May and August and the emergency department was overwhelmed on each occasion.&lt;/p&gt;
+&lt;p&gt;On a visit in the summer, he says his mother was put in a chair in a side room, because she is immunosuppressed, but then forgotten about.&lt;/p&gt;
+&lt;p&gt;"The staff on the ground were amazing but there's simply not enough of them, so I'm caring for mum best I can, taking her to the toilet," Wass recalls.&lt;/p&gt;
+&lt;p&gt;"Fresh water wasn't available because the drinks machine has been broken for months. There are people in there that are dehydrated and that was the same with my mum.&lt;/p&gt;
+&lt;p&gt;"She had a drip, often the alarm would be going off it and it would take ages to get somebody to just come and press the reset button. In the end I did ask how to do it myself."&lt;/p&gt;
+&lt;p&gt;He describes his experience of the department as "crazy", with people "crying and afraid", lying on the floor, or "screaming in agony".&lt;/p&gt;
+&lt;p&gt;Paul Grantham-Rae says he was "absolutely disgusted" by his 85-year-old mother's experience at Lincoln's emergency department last month, after she spent 25 hours in a chair, then another seven sitting on a ward before a bed was found.&lt;/p&gt;
+&lt;p&gt;He says his mother had a leg wound, but because she takes blood thinners, the bandage was soon soaked and blood dripped on to the floor.&lt;/p&gt;
+&lt;p&gt;"We were asking the nurses if they could come and change it, and they said 'yes we'll be there shortly, we'll be there shortly," he recalls.&lt;/p&gt;
+&lt;p&gt;He says when he asked if staff knew how much blood she had lost, a nurse replied it was "a question we need to ask".&lt;/p&gt;
+&lt;p&gt;"I thought that's something that should have been detected straight away.&lt;/p&gt;
+&lt;p&gt;"There was one stage where her lips were quite blue."&lt;/p&gt;
+&lt;p&gt;Other patients and family members have told the BBC about similar experiences at Lincoln County Hospital. They include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A man brought in by ambulance having a heart attack, who spent almost two days in a chair in the emergency department and waited five days for a bed on the cardiac ward.&lt;/li&gt;
+&lt;li&gt;A woman with a spinal fluid leak who spent 32 hours in a chair before being transferred to a specialist unit.&lt;/li&gt;
+&lt;li&gt;The daughter of an elderly woman with suspected sepsis, who says a nurse told everyone in the waiting area to go home, as the department was full.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NHS figures show the scale of pressure on emergency departments at Lincoln County and Boston Pilgrim hospitals.&lt;/p&gt;
+&lt;p&gt;The two departments saw 264,017 people in the year to October, with 5.2% waiting more than 12 hours to be admitted.&lt;/p&gt;
+&lt;p&gt;Fuelling the backlogs are delays in discharging patients who no longer need a bed. The figures show an average of 191 patients a day no longer required care in Lincoln, Boston and Grantham hospitals, but could not leave because of delays in social and community care, family arrangements, or organising medication.&lt;/p&gt;
+&lt;p&gt;Caroline Landon, the group chief operating officer at ULTH, says the trust's teams work "tirelessly" to monitor and care for those waiting to be admitted.&lt;/p&gt;
+&lt;p&gt;"Our hospitals, like many others in the country, are continuing to experience significant demand.&lt;/p&gt;
+&lt;p&gt;"During September alone, our A&amp;amp;E teams saw approximately 1,000 more patients compared to the previous September."&lt;/p&gt;
+&lt;p&gt;She says ULTH has "continued to implement improvements", including "quicker access to same-day emergency care" and "more rapid assessment" for those needing admission.&lt;/p&gt;
+&lt;p&gt;According to Landon, the trust is also "working closely with our Lincolnshire system partners to support timely patient discharges and improved access to community or home-based care, so that we free up beds in our hospitals".&lt;/p&gt;
+&lt;p&gt;Another patient frustrated by long waits is Martin Gibbs, who went to Lincoln's A&amp;amp;E with chest pains in October, two days after a heart procedure.&lt;/p&gt;
+&lt;p&gt;He says he spent 20 hours in a chair, waiting for an echocardiogram (ECG) and was not given his regular medication, as A&amp;amp;E staff were unable to access his records.&lt;/p&gt;
+&lt;p&gt;According to Gibbs, he was only given pain relief once, because a doctor in A&amp;amp;E signed him off to the cardiology unit, despite there being "no chance of getting me a bed".&lt;/p&gt;
+&lt;p&gt;He left after his partner, Nikki Applewhite, booked an ECG at a private hospital.&lt;/p&gt;
+&lt;p&gt;Applewhite says the department was "just awful".&lt;/p&gt;
+&lt;p&gt;"There was a man sitting there, it looked like his jaw was broken and he was bleeding. He just had a basket to catch the blood. There were two people either side of him on drips, both were bleeping, which obviously needed attending to.&lt;/p&gt;
+&lt;p&gt;"The water machine had broken, the vending machine had broken, the phone charging machine had broken.&lt;/p&gt;
+&lt;p&gt;"We talked to so many people and they said 'oh it's always like this' and you think, and you accept that that's normal?"&lt;/p&gt;
+&lt;p&gt;A spokesperson for the Department of Health and Social Care spokesperson said: "October was the busiest month ever for A&amp;amp;E, but thanks to the hard work of NHS staff, almost three quarters of people were seen within four hours."&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Listen to highlights from&lt;/i&gt; &lt;a href="https://www.bbc.co.uk/programmes/p0cjdw6n"&gt;Lincolnshire on BBC Sounds&lt;/a&gt;&lt;i&gt;, watch the&lt;/i&gt; &lt;a href="https://www.bbc.co.uk/programmes/b007tp3n"&gt;latest episode of Look North&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Download the BBC News app from the &lt;/i&gt;&lt;a href="https://apps.apple.com/gb/app/bbc-news-uk-world-stories/id377382255?is_retargeting=true&amp;amp;source_caller=ui&amp;amp;shortlink=6mc9icpm&amp;amp;c=BBC_app_install_house_ad_uk&amp;amp;pid=Generic%20article%20link_Apple&amp;amp;af_xp=custom&amp;amp;af_reengagement_window=30d"&gt;App Store&lt;/a&gt; &lt;i&gt;for iPhone and iPad or&lt;/i&gt; &lt;a href="https://play.google.com/store/apps/details?id=bbc.mobile.news.uk&amp;amp;hl=en_GB&amp;amp;is_retargeting=true&amp;amp;source_caller=ui&amp;amp;shortlink=ser4scwo&amp;amp;c=BBC_app_install_house_ad_uk&amp;amp;pid=Generic%20article%20link_Android&amp;amp;af_xp=custom&amp;amp;af_reengagement_window=30d"&gt;Google Play&lt;/a&gt;&lt;i&gt; for Android devices&lt;/i&gt;&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>White House removes cyber-security chief after series of tech outages</title>
+      <link>https://www.bbc.com/news/articles/cwz0k3nn5p5mo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwz0k3nn5p5mo</guid>
+      <description>&lt;p&gt;CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The top cyber-security official in the US government is leaving his post after a string of tech outages which hit the National Security Agency (NSA), the US air traffic control system and some banks.&lt;/p&gt;
+&lt;p&gt;Sean Cairncross had been national cyber director since August 2025.&lt;/p&gt;
+&lt;p&gt;CBS, the BBC's US news partner, &lt;a href="https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"&gt;reported he had been fired&lt;/a&gt; after losing the confidence of White House chief of staff Stephen Miller.&lt;/p&gt;
+&lt;p&gt;Secretary of State Marco Rubio &lt;a href="https://x.com/SecRubio/status/2123591426814460410?a=SA_7lyy3r2wOeYPKM_c&amp;amp;s=20"&gt;posted on X&lt;/a&gt; to say Department of Defense chief information officer Kirsten Davies was the new national cyber director.&lt;/p&gt;
+&lt;p&gt;The AFP news agency and CBS both said sources had told them Cairncross was fired, in a move supported by President Donald Trump.&lt;/p&gt;
+&lt;p&gt;The news, &lt;a href="https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving"&gt;first reported by Axios&lt;/a&gt;, follows security concerns, including the ability of advanced AI models - mostly from US companies - to discover vulnerabilities which humans would not be able to find on their own.&lt;/p&gt;
+&lt;p&gt;Earlier this week, Rubio &lt;a href="https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o"&gt;said there was "zero evidence"&lt;/a&gt; the outages were connected, adding "we are not under systemic attack". &lt;/p&gt;
+&lt;p&gt;But the fact that so many have happened in quick succession has left some people worried about the safety of the tech which is heavily relied on in all aspects of daily life.&lt;/p&gt;
+&lt;p&gt;Cairncross was previously a lawyer in the Republican Party, before becoming the chief operating officer of the Republican National Committee.&lt;/p&gt;
+&lt;p&gt;In the first Trump administration, he was part of the team of the White House chief of staff.&lt;/p&gt;
+&lt;p&gt;He later worked in the private sector, before returning to government in August 2025.&lt;/p&gt;
+&lt;p&gt;The White House has not publicly confirmed the departure or given a reason to why Cairncross left his role.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.co.uk/newsletters/zxh6cxs"&gt;Sign up for our Tech Decoded newsletter&lt;/a&gt; to follow the world's top tech stories and trends. &lt;a href="https://cloud.email.bbc.com/techdecoded-newsletter-signup"&gt;Outside the UK? Sign up here&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 11:10:32 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic becomes one of world's most valuable public companies in stock market debut</title>
       <link>https://www.bbc.com/news/articles/c3x29ggenz12o</link>
