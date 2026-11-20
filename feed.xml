@@ -5,9 +5,259 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:20:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:10:14 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anthropic becomes one of world's most valuable public companies in stock market debut</title>
+      <link>https://www.bbc.com/news/articles/c3x29ggenz12o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c3x29ggenz12o</guid>
+      <description>&lt;p&gt;Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).&lt;/p&gt;
+&lt;p&gt;The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.&lt;/p&gt;
+&lt;p&gt;Anthropic's shares flew past its allocation price of &lt;a href="https://www.bbc.com/news/articles/c6742m39xgzxo"&gt;$83 each&lt;/a&gt;, showing there was plenty of excitement around AI.&lt;/p&gt;
+&lt;p&gt;Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?&lt;/p&gt;
+&lt;p&gt;In just a few hours of trading, Anthropic's stock seemed to show that investors remain uncertain of where exactly AI is heading. The share price rose immediately to $111.53, sending the company's market value to almost $2 trillion, before falling by the end of the day as the shares closed at $97.17.&lt;/p&gt;
+&lt;p&gt;Some investors said Anthropic's debut seemed to be a success, as shares rose roughly 17% during the day, but the broader tech market did not perform as well.&lt;/p&gt;
+&lt;p&gt;The tech-heavy Nasdaq Composite Index closed down nearly 2.3%. Stocks fell in the largest tech firms, including Google's parent company Alphabet, which was down by 2.9%, while Amazon lost almost 3.9%.&lt;/p&gt;
+&lt;p&gt;The buildout happening around this era of AI is among the most expensive endeavours in the history of technology, with more than $1 trillion being spent in the last year alone by a handful of major tech companies.&lt;/p&gt;
+&lt;p&gt;The speed at which investment has grown has led to ongoing concerns of a financial bubble.&lt;/p&gt;
+&lt;p&gt;"Bubbles don't burst on the day of the largest deal," Richard Whittle, an economist with the University of Salford said. "They burst later, if the positive future becomes suspect."&lt;/p&gt;
+&lt;p&gt;While the basics of the technology have been around for decades, the more recent advent of more powerful computers and related components have allowed the processing of more data than ever.&lt;/p&gt;
+&lt;p&gt;The result has been AI chatbots that simulate human speech and operate tasks like software coding, digital image generation, and searching the internet more quickly.&lt;/p&gt;
+&lt;p&gt;It represents a new way of using computers that has led to the rapid rise of Anthropic, which started just five years ago and is best known as the maker of the popular AI chatbot Claude.&lt;/p&gt;
+&lt;p&gt;As the first purely AI company to go public, Anthropic will almost certainly see significant swings in price on the stock market going forward, according to Ben Barringer, who leads technology research at Quilter Cheviot.&lt;/p&gt;
+&lt;p&gt;The "initial exuberance" will wear off, Barringer said, pointing to what happened with SpaceX earlier this year.&lt;/p&gt;
+&lt;p&gt;That company, led by Elon Musk, saw shares jump by about 10% on the first day of trading, taking the company to a record-breaking valuation of $2.2 trillion.&lt;/p&gt;
+&lt;p&gt;Within a month shares had fallen below their debut price, and have mostly fallen further since.&lt;/p&gt;
+&lt;p&gt;Most tech companies see their shares fall after hitting the stock market, often after reporting quarterly results for the first time.&lt;/p&gt;
+&lt;p&gt;But many such companies, including Meta, Amazon and Google, have gone on to become the largest and most profitable corporations in the world.&lt;/p&gt;
+&lt;p&gt;With Anthropic, investors are not only looking at a notable tech company with a major valuation, and a potentially big future in business, but a company that is the first of its kind on the stock market.&lt;/p&gt;
+&lt;p&gt;"There's no obvious peer to compare it to," Neil Wilson, an investor strategist at Saxo UK, said.&lt;/p&gt;
+&lt;p&gt;So, as individual investors and even researchers and investors at large funds ask themselves if Anthropic is really worth more than $1.7 trillion, or even more, there will be few answers available.&lt;/p&gt;
+&lt;p&gt;"We'll have a stab at it," Wilson said. "I don't think anyone really knows."&lt;/p&gt;
+&lt;p&gt;A few things will likely impact the company's success on the stock market in the near-term.&lt;/p&gt;
+&lt;p&gt;One of those things is the prospect of new laws governing the use of AI tools. In the US, where Anthropic is based, Democrats will be in many more positions of power come 2027, and several politicians have already said they will be looking to ensure AI tools are safe and have some guardrails attached.&lt;/p&gt;
+&lt;p&gt;Such regulation is currently unlikely at the federal level. US President Donald Trump on Thursday spoke about AI during the Asia-Pacific Economic Cooperation summit in China, alongside Chinese and Russian counterparts, Xi Jinping and Vladimir Putin.&lt;/p&gt;
+&lt;p&gt;Trump reiterated his position against "any form of robust regulation" around the technology, adding, "we won't allow that to happen, frankly."&lt;/p&gt;
+&lt;p&gt;The same day, however, a bipartisan group of US lawmakers formed the House AI Safety and Innovation Caucus, which will work specifically on AI regulation and safety considerations.&lt;/p&gt;
+&lt;p&gt;A significant driver of this kind of scrutiny is Anthropic itself. Company executives, including co-founder and CEO Dario Amodei, have been outspoken in their purported fears that future AI tools will become so capable they will outsmart humans, to the point where extinction is possible.&lt;/p&gt;
+&lt;p&gt;Anthropic has always put itself forward in public as an AI company that takes the safety of its technology very seriously.&lt;/p&gt;
+&lt;p&gt;Daniela Amodei, Anthropic's president and sister of Dario Amodei, boasted on Thursday that the company "had an AI safety team before we launched our first product".&lt;/p&gt;
+&lt;p&gt;"AI carries real risks," she added.&lt;/p&gt;
+&lt;p&gt;Despite the company's claims that the technology it is building at a rapid pace could be dangerous, Anthropic has made one of the quickest trips from start-up to IPO in history.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>William and Catherine's India tour was 'particularly special', aide says</title>
+      <link>https://www.bbc.com/news/articles/cj04wzzy9yqro</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cj04wzzy9yqro</guid>
+      <description>&lt;p&gt;Prince William&amp;#x27;s most senior advisor described the royal couple as &amp;quot;very much a team&amp;quot;.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The most senior advisor to the Prince of Wales has said this week's visit with the Princess of Wales to India was "particularly special" and described the royal couple "as very much a team".&lt;/p&gt;
+&lt;p&gt;Prince William and Catherine are now back in the UK after spending three days in Mumbai and Delhi - the first time they have travelled together on overseas royal duties since the princess's cancer treatment.&lt;/p&gt;
+&lt;p&gt;The visit focused on the prince's Earthshot Prize which were hosted in Mumbai. His wife last attended the Earthshot awards when they were held in Boston in 2022.&lt;/p&gt;
+&lt;p&gt;"The prince has really enjoyed having the princess alongside him for Earthshot, and for her to see first-hand how much it has grown in scale since she last attended in Boston," Ian Patrick, the prince's private secretary told reporters.&lt;/p&gt;
+&lt;p&gt;"She's enormously proud of what he's achieved, and it has been particularly special for them to experience this moment together. They are very much a team."&lt;/p&gt;
+&lt;p&gt;The prince and princess also met the Indian Prime Minister Narendra Modi at his residence in Delhi where they discussed UK-India partnerships.&lt;/p&gt;
+&lt;p&gt;In a social media post after the meeting, the prime minister said it had been "a pleasure to meet their Royal Highnesses" and praised the Earthshot Prize for "showcasing Indian ingenuity in addressing global environmental challenges".&lt;/p&gt;
+&lt;p&gt;The meeting was a late addition to the prince and princess's plans. Prime Minister Modi altered his schedule to return to India from a summit in the Philippines to ensure he could meet the royal couple.&lt;/p&gt;
+&lt;p&gt;"The prince and princess have had a thoroughly enjoyable time in India. They've been incredibly touched by the warmth of the welcome they've received," said Patrick.&lt;/p&gt;
+&lt;p&gt;The couple were last in India for an official tour in 2016.&lt;/p&gt;
+&lt;p&gt;"It's been wonderful for them to return together after ten years," the private secretary said. "They were incredibly inspired by the people they met. They leave with very happy memories and a real enthusiasm for building on the connections they've made with the next generation."&lt;/p&gt;
+&lt;p&gt;There was a focus on young people and their potential during the three day visit. This year, for the first time, there was a Children's Earthshot Awards where 15,000 schools across India took part creating solutions for environmental problems in their own communities.&lt;/p&gt;
+&lt;p&gt;"We cannot look into the eyes of the next generation and tell them that we knew what was happening, we knew what was at stake, and yet we did not do everything in our power to change it," Prince William said in his speech at the Earthshot Prize Awards Ceremony. "They will not judge us by the promises we made, but by the world we leave behind."&lt;/p&gt;
+&lt;p&gt;"The prince and princess don't want young people to feel unheard or that the challenges facing the planet and society are beyond their control," said Patrick. "They want them to feel optimistic, empowered and part of the solutions."&lt;/p&gt;
+&lt;p&gt;The Earthshot Prize was designed as a ten-year project - it is now in its sixth year and Prince William remains ambitious for it.&lt;/p&gt;
+&lt;p&gt;"Companies including Amazon, IKEA, Nvidia, Standard Chartered and Uber are now stepping forward to help their impact spread even further," said Jason Knauf, the chief executive officer of the Earthshot Prize.&lt;/p&gt;
+&lt;p&gt;"This is enormously encouraging but the prince wants to see more of the world's biggest businesses and investors get involved... every business and investor who joins us helps these solutions grow faster, building a healthier, happier and more prosperous future for us all."&lt;/p&gt;
+&lt;p&gt;Now that the prince and princess are travelling together on international duty, the visit was an insight into way their royal trips will operate in future.&lt;/p&gt;
+&lt;p&gt;The days of royal tours lasting two weeks will not be the approach of the royal couple who think they make a big impact over shorter trips with the additional help of social media to amplify their engagements. They also want to limit the amount of time they spend away from their three children.&lt;/p&gt;
+&lt;p&gt;"The prince and princess want their overseas travel to have purpose, meaning and impact. It's about building stronger relationships, creating opportunities for collaboration and supporting projects that deliver real results," explained Patrick.&lt;/p&gt;
+&lt;p&gt;Despite plans to keep future royal tours short, it's believed a visit to Australia could be in the plans for the couple in 2027.&lt;/p&gt;
+&lt;p&gt;At the Earthshot Prize Awards ceremony on Tuesday, Prince William was heard by reporters saying "Big year next year, Australia!"&lt;/p&gt;
+&lt;p&gt;Kensington Palace has not yet confirmed any further travel plans for the Waleses.&lt;/p&gt;
+&lt;p&gt;They last visited Australia in 2014 with nine-month-old Prince George. It is possible that their three children could join them on a future Australia trip.&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;Additional reporting by Charlotte Scarr in Delhi&lt;/i&gt;
+&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Europe ready for talks with Russia on ending war in Ukraine, leaders say</title>
+      <link>https://www.bbc.com/news/articles/ckzd9nln5e6go</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/ckzd9nln5e6go</guid>
+      <description>&lt;p&gt;European allies of Ukraine say they have a &amp;quot;united&amp;quot; negotiating position at a summit in Berlin.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;European leaders have said they are ready for negotiations with Russia on ending the war in Ukraine, in a strong show of support for Kyiv.&lt;/p&gt;
+&lt;p&gt;"Europe has a clear and consistent and united negotiating position," UK Prime Minister Andy Burnham said, while German Chancellor Friedrich Merz stressed that Moscow's "maximalist demands are not realistic".&lt;/p&gt;
+&lt;p&gt;They were speaking at Berlin's summit of Ukraine's allies known as the Coalition of the Willing.&lt;/p&gt;
+&lt;p&gt;Donald Trump's son-in-law Jared Kushner, one of the two US envoys who were in Berlin, said the US president wanted to make a deal with Moscow "with Europe by his side". Russia's Vladimir Putin has so far rejected any European role in the US-led peace talks.&lt;/p&gt;
+&lt;p&gt;Trump had earlier &lt;a href="https://www.bbc.co.uk/news/articles/c623j4ln97x7o"&gt;held historic trilateral talks in Shenzhen&lt;/a&gt;, south-eastern China, with Putin and Chinese President Xi Jinping and later dialled into the Berlin summit from Air Force One.&lt;/p&gt;
+&lt;p&gt;In a lengthy press conference following his talks with Trump and Xi, Putin addressed the question of multilateral peace talks, saying the Americans were "insistently" asking Russia to allow the Europeans to take part.&lt;/p&gt;
+&lt;p&gt;Putin claimed Russia was not against the idea but said Moscow wanted to clarify "what Europe will bring to these talks".&lt;/p&gt;
+&lt;p&gt;"That is why, through diplomatic channels, we have invited the Europeans to come to Moscow in order to determine their positions. And after that, we will decide in what format we will continue the dialogue with Ukraine."&lt;/p&gt;
+&lt;p&gt;But Putin also said that "every day" Russia heard that European leaders were talking about war coming in 2030. "But we are not planning to attack anyone... Is that normal? I do not think so," he said. Still, Putin added, Russia understood that "discussing issues linked to security in Europe is pointless without the Europeans".&lt;/p&gt;
+&lt;p&gt;Jared Kushner told reporters that the US president had come away from Shenzhen believing that "peace is achievable".&lt;/p&gt;
+&lt;p&gt;Striking an upbeat note, Kushner said that the Russians were willing to trust the instinct of the US envoys "on our behalf" that the Europeans should be at the table and that Moscow was now "comfortable" with Ukraine having security guarantees based on the idea enshrined in Nato's Article Five that requires allies to come to a country's defence if it comes under attack.&lt;/p&gt;
+&lt;p&gt;Ukrainian President Volodymyr Zelensky, who also was at the summit in Germany's capital, has long sought a guarantee equivalent to Nato's collective defence clause, and there has been little indication that Putin would accept that kind of condition.&lt;/p&gt;
+&lt;p&gt;Russia rejects outright the idea of Ukrainian membership of Nato, but reports say US negotiators have mulled the idea of giving Kyiv Article Five-style guarantees without being part of the Western defensive alliance if it agrees to painful territorial concessions.&lt;/p&gt;
+&lt;p&gt;Zelensky and the three European leaders – Merz, Burnham and French President Emmanuel Macron – were not as upbeat as Kushner, and the Ukrainian president made clear that the Russian president had spurned every proposal so far: "Putin has always said no."&lt;/p&gt;
+&lt;p&gt;The German chancellor was equally sceptical, although he said with US involvement the chance of peace was increasing. Europe was willing to enter "serious discussions on European security" with Russia, he explained, "as long as it's matched with a serious discussion and only first a peace agreement with Ukraine".&lt;/p&gt;
+&lt;p&gt;"These talks have to begin, and we will accept if conditions are acceptable for Europe and Ukraine," said Merz.&lt;/p&gt;
+&lt;p&gt;He also said any attempts to divide Europe into spheres of influence run by major powers was unacceptable, amid concerns on the continent that this issue may have been on the agenda at the trilateral talks in Shenzhen.&lt;/p&gt;
+&lt;p&gt;"A 'Yalta format' will not bring peace," Merz said, referring to the post-World War Two agreement between the US, the USSR and Britain in 1945.&lt;/p&gt;
+&lt;p&gt;He also sought to downplay the Shenzhen summit as above all "a photo opportunity."&lt;/p&gt;
+&lt;p&gt;"The US understands that there can be no peace without us. We, in turn, know that with the United States by our side, the prospects for peace increase," Merz added.&lt;/p&gt;
+&lt;p&gt;Polish Prime Minister Donald Tusk also took exception to Trump's description of Putin as a "friend" at the Shenzhen summit, saying: "Mr Putin is not our friend and will never be."&lt;/p&gt;
+&lt;p&gt;Meanwhile, Macron urged Ukraine's allies to do the "maximum" to deliver the much-needed air defence systems Kyiv needed to repel deadly Russian attacks.&lt;/p&gt;
+&lt;p&gt;The French leader also urged the allies to "reopen the question" of Ukraine's membership in Nato.&lt;/p&gt;
+&lt;p&gt;There have been mixed messages from Moscow on European participation to the talks. Last week, following a visit to Moscow, the US envoys, Steve Witkoff and Kushner, appeared certain that Europe would soon have a seat at the negotiating table.&lt;/p&gt;
+&lt;p&gt;But the Russians were more circumspect and this week Putin's aide Yury Ushakov said a "great deal" would have to be done before the format could be expanded, suggesting that several more rounds of discussions would have to be held before any four-sided talks could take place.&lt;/p&gt;
+&lt;p&gt;Russia launched its full-scale invasion of Ukraine in February 2022.&lt;/p&gt;
+&lt;p&gt;While Russia has engaged with several rounds of talks over the last year, little in Moscow's rhetoric or actions suggests that the Kremlin is considering scaling down its war on Ukraine.&lt;/p&gt;
+&lt;p&gt;It continues to pound Kyiv's energy infrastructure to cripple it as winter takes hold, increasing numbers of civilian casualties are being recorded across the country, and Kremlin officials have not budged from Russia's demands for Ukrainian sovereign territory.&lt;/p&gt;
+&lt;p&gt;As delegations were meeting in China and Germany on Thursday, several buildings in Kyiv's historic centre came under attack from drones. One person was killed in a strike on a residential building in the Podilskyi neighbourhood, while the Dutch and Austrian embassies as well as Saint Volodymyr's Cathedral reported damage.&lt;/p&gt;
+&lt;p&gt;And Putin also vowed that Moscow's response to a Ukrainian strike on the Crimean Bridge linking Russia with occupied Crimea would be "considerably more painful" than what Kyiv had achieved.&lt;/p&gt;
+&lt;p&gt;He also said he had discussed a "possible ceasefire in a number of areas" but had decided against it after the attack on the bridge.&lt;/p&gt;
+&lt;p&gt;Still, Putin claimed to be "interested" in ending the war and was ready to make compromises, while Ukraine and Europe were not.&lt;/p&gt;
+&lt;p&gt;"I assure you, we have no desire at all to continue this armed conflict," Putin said, despite the fact that Russia has in recent months intensified its attacks on Ukraine's critical infrastructure as cold winter approaches.&lt;/p&gt;
+&lt;p&gt;Kyiv and its European allies say that – in the absence of any major success on the vast front line – the Kremlin leader is seeking to break Ukrainian resistance by leaving millions of civilians without electricity and water supply.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Canada is embracing AI data centres while the US pushes back</title>
+      <link>https://www.bbc.com/news/articles/cmx2q223z1jlo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmx2q223z1jlo</guid>
+      <description>&lt;p&gt;Shark Tank&amp;#x27;s Kevin O&amp;#x27;Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;As Americans have grown increasingly sour on artificial intelligence (AI) data centre development, Canada's industry leaders are sensing an opportunity.&lt;/p&gt;
+&lt;p&gt;"Data centres in Canada looking pretty appealing right now," Lucy Hargreaves, CEO of non-profit policy group Build Canada, wrote on X the day after American voters passed 40 of 41 local ballot initiatives aimed at limiting or preventing data centre development in this month's midterm elections.&lt;/p&gt;
+&lt;p&gt;While the number of proposed AI data centres in the US dwarfs that of its northern neighbour, in recent months Canada is being increasingly pitched as a hub for these so-called "hyperscale" projects.&lt;/p&gt;
+&lt;p&gt;Those in favour argue that Canada's abundant land, natural gas and cold climate make it uniquely positioned to address some of the problems facing US AI infrastructure, from data centres' proximity to populated areas to noise pollution and strain on electricity grids.&lt;/p&gt;
+&lt;p&gt;"Some of the capital that would have been deployed to build data centres in the US is now more available for Canada," Hargreaves told the BBC in an interview.&lt;/p&gt;
+&lt;p&gt;"The question really is whether or not we want to go for that."&lt;/p&gt;
+&lt;p&gt;Unlike in the US, pushback to these projects in Canada has been muted - at least so far. Many are going ahead without significant disruptions, and legislators have openly embraced them without major political consequences.&lt;/p&gt;
+&lt;p&gt;At the heart of Canada's AI data centre boom is Alberta, where 90% of all currently proposed sites are set to be built.&lt;/p&gt;
+&lt;p&gt;The western Canadian province, rich with natural gas deposits, has pitched itself as "North America's destination of choice" for AI data centres, including by offering a "concierge" service for investors to help build these projects at "unparalleled speed".&lt;/p&gt;
+&lt;p&gt;One of those investors is Kevin O'Leary, the Canadian businessman, TV personality and an ally of Donald Trump, who announced plans this year to build two large AI data centres - one in Alberta and one in the US state of Utah.&lt;/p&gt;
+&lt;p&gt;His planned sites, both named Wonder Valley, are being received in very different ways on either side of the border.&lt;/p&gt;
+&lt;p&gt;Residents in Utah &lt;a href="https://www.sltrib.com/news/2026/10/20/kevin-olearys-utah-data-center/"&gt;have organised a fierce opposition campaign.&lt;/a&gt; The pushback led outgoing state senator Stuart Adams to demand in June that O'Leary&lt;a href="https://senate.utah.gov/oleary-concedes-to-president-adams-demands-including-75-reduction-in-proposed-data-center-project-area-and-new-water-for-great-salt-lake/"&gt; scale down the project by 75%&lt;/a&gt;, from 40,000 to 13,000 acres.&lt;/p&gt;
+&lt;p&gt;Financing for the Utah Wonder Valley data centre is still underway, and it is unclear when - and if - shovels will hit the ground on the project.&lt;/p&gt;
+&lt;p&gt;The proposed 7,000-acre, 7.5-gigawatt Alberta Wonder Valley project, meanwhile, has received strong backing from both the provincial government and the local municipality.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="https://majorprojects.alberta.ca/details/Wonder-Valley-AI-Data-Centre-Park-Phase-1/11477"&gt;project is billed as "off-grid"&lt;/a&gt;, relying on its own power system fuelled by natural gas sourced from the region. In April, the Alberta government &lt;a href="https://www.cbc.ca/news/canada/edmonton/wonder-valley-data-centre-environmental-impact-assessment-9.7158526"&gt;exempted the project from an environmental impact assessment&lt;/a&gt;, arguing it was unnecessary, though it will still need to obtain permits prior to construction.&lt;/p&gt;
+&lt;p&gt;The project was met with only limited opposition at a local town hall earlier this year. One resident, &lt;a href="https://www.bloomberg.com/news/articles/2026-06-07/kevin-o-leary-s-huge-data-center-in-canada-faces-a-skeptical-public"&gt;Dan Harms, told Bloomberg in June &lt;/a&gt;that he saw the economic benefits of the Wonder Valley data centre and that it was being built "out in the middle of nowhere".&lt;/p&gt;
+&lt;p&gt;In an interview with BBC News, Reeve Ryan Ratzlaf, of Greenview Municipality in north-western Alberta, said the project was the "perfect fit" for his rural community, which had been looking for an industrial tenant to fill a resource-rich parcel of land for 13 years.&lt;/p&gt;
+&lt;p&gt;Some community members have expressed concern about the amount of water needed to cool the proposed site annually, which is projected to be six million cubic metres, or about the size of 2,400 Olympic-size swimming pools.&lt;/p&gt;
+&lt;p&gt;Ratzlaf argued the amount was a drop compared to the annual flow of the nearby Smoky River, from which the centre would pull water. More broadly, he said he believed that economic benefits to the region outweighed potential risks.&lt;/p&gt;
+&lt;p&gt;"It's a giant warehouse with computer equipment inside," he said, arguing that it was less risky than petrochemical plants that could have been built in its place.&lt;/p&gt;
+&lt;p&gt;Speaking to BBC News, the CEO overseeing both O'Leary projects, Paul Palandjian, said the two were proceeding at an "equal" pace.&lt;/p&gt;
+&lt;p&gt;He acknowledged it had become more of a "hot topic" in the US than in Alberta. But there are signs public anger towards AI data centres in Alberta has grown in recent months.&lt;/p&gt;
+&lt;p&gt;Recent public information sessions on provincial AI data centre plans were attended by some furious residents.&lt;/p&gt;
+&lt;p&gt;"If no one wants this, why are you pushing forward with this?" one resident asked in an &lt;a href="https://globalnews.ca/news/12029894/alberta-minister-faces-more-fury-at-second-town-hall-on-ai-data-centres/"&gt;August town hall reported on by the Canadian Press&lt;/a&gt;, held shortly after Alberta announced that Meta would build a C$13bn ($9bn; £6.8bn) AI data centre in the province.&lt;/p&gt;
+&lt;p&gt;Sturgeon Lake Cree Nation has also recently sued the government over its decision to override the environmental assessment for O'Leary's Wonder Valley data centre, labelling it "irrational" in court filings.&lt;/p&gt;
+&lt;p&gt;This week, the Alberta government proposed legislation that would put restrictions on where data centres could be built in a bid to ease some concerns.&lt;/p&gt;
+&lt;p&gt;There are also signs that public cooperation may be fading elsewhere in the country.&lt;/p&gt;
+&lt;p&gt;On Saturday, hundreds of protesters gathered in&lt;a href="https://www.cbc.ca/news/canada/nova-scotia/data-centre-protests-nova-scotia-9.7413638"&gt; Canada's Atlantic province of Nova Scotia against a proposed AI data centre&lt;/a&gt; that will be used by technology giant Anthropic.&lt;/p&gt;
+&lt;p&gt;But experts say the US backlash offers a cautionary tale for Canada as it tries to capitalise on the AI boom.&lt;/p&gt;
+&lt;p&gt;"AI is generally not very popular. This is both true in Canada and the United States," noted Sean Mullin, a senior fellow at the University of Toronto and former adviser to Canada's prime minister on the national sovereign AI compute strategy.&lt;/p&gt;
+&lt;p&gt;"I think we could experience some of the same backlashes if we're not thoughtful about it," he said.&lt;/p&gt;
+&lt;p&gt;So far, lawmakers in Canada have stood firm.&lt;/p&gt;
+&lt;p&gt;The Carney government, which has made reducing Canada's reliance on the US a priority, has framed the development of AI data centres as a matter of national security and sovereignty. It has projected that Canada needs to expand its computing capacity 16-fold over the next four years to meet domestic demand.&lt;/p&gt;
+&lt;p&gt;Alberta is defending its data centre plans by saying they will create jobs and generate revenue, and that sites will be developed "responsibly".&lt;/p&gt;
+&lt;p&gt;In Ontario, Premier Doug Ford has said that his province needs to move "full steam ahead" with building data centres.&lt;/p&gt;
+&lt;p&gt;Mullin said one reason the backlash had been less severe in Canada was simply due to scope and timing.&lt;/p&gt;
+&lt;p&gt;"There has been less of these projects happening, and as a result, they've attracted less attention," he said.&lt;/p&gt;
+&lt;p&gt;Canada has released some high-level guidance on data centre development, which has been co-signed by Anthropic, Meta and other big AI players. It calls on data centres to pay for electricity costs, minimise water use and create long-term benefits for the regions they are in.&lt;/p&gt;
+&lt;p&gt;If politicians don't tread carefully, Bek MacIntosh, an Alberta resident who has fought a proposed hyperscale data centre in her community, said she believed public discontent could translate into angry votes, like those seen in the US.&lt;/p&gt;
+&lt;p&gt;MacIntosh &lt;a href="https://www.theglobeandmail.com/canada/alberta/article-olds-alberta-data-centre-synapse/"&gt;successfully halted a data centre in Olds, Alberta,&lt;/a&gt; over concerns with its scale, scope and proximity to her home. Even after her eight-month battle, she said she was not opposed to all AI infrastructure and believed Canada had the resources and landscape to build them responsibly.&lt;/p&gt;
+&lt;p&gt;But she fears Alberta has opened the door to "the most reckless of reckless developers", and warned that voters might have a "knee-jerk reaction" if provinces don't take care to develop AI data centres responsibly.&lt;/p&gt;
+&lt;p&gt;"And I don't think any political party in Canada is prepared for it."&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Massive hope for pancreatic cancer pill after trial saw tumours vanish</title>
+      <link>https://www.bbc.com/news/articles/cqrmgjnzz9l0o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cqrmgjnzz9l0o</guid>
+      <description>&lt;p&gt;Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Experts are calling it the biggest breakthrough in pancreatic cancer treatment for decades - a daily pill that appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest and hardest-to-treat cancers.&lt;/p&gt;
+&lt;p&gt;Cancer became undetectable on scans in one in 12 of the patients given daraxonrasib along with chemotherapy in early medical trials.&lt;/p&gt;
+&lt;p&gt;Tumours stopped growing in almost all of the 61 participants who had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body.&lt;/p&gt;
+&lt;p&gt;But doctors stress it is a long way from knowing how long it might keep the disease at bay and should not be seen as a cure.&lt;/p&gt;
+&lt;h2&gt;Incredibly exciting&lt;/h2&gt;
+&lt;p&gt;Cancer Research UK called it "the biggest leap forward in decades" for pancreatic cancer patients.&lt;/p&gt;
+&lt;p&gt;The charity's Dr Sam Godfrey told BBC News that the results were incredibly exciting. "What this new drug has done is it's found a way of drugging the undruggable.&lt;/p&gt;
+&lt;p&gt;"We are finally seeing progress in pancreatic cancer which is so long overdue."&lt;/p&gt;
+&lt;p&gt;Pancreatic cancer is notoriously hard to treat and has the lowest survival rate of all common cancers in the UK.&lt;/p&gt;
+&lt;p&gt;Although chemotherapy can shrink tumours a bit, the cancer often grows again.&lt;/p&gt;
+&lt;p&gt;Most patients with advanced disease survive months, not years.&lt;/p&gt;
+&lt;p&gt;Doctors hope the new treatment might offer patients more time, even if it cannot stop cancers for good.&lt;/p&gt;
+&lt;p&gt;The trial followed patients for a year and a half, on average, and some did not see their cancer return during this time.&lt;/p&gt;
+&lt;p&gt;Longer studies are needed to understand if any of these cancers can be put into remission and for how long.&lt;/p&gt;
+&lt;p&gt;In the trial:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;tumours stopped growing in 90% of patients&lt;/li&gt;
+&lt;li&gt;just over 60% of patients saw their tumours shrink or disappear&lt;/li&gt;
+&lt;li&gt;for around 8% of patients, or one in 12, tumours became undetectable on CT scans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Longer survival&lt;/h2&gt;
+&lt;p&gt;Dr Wungki Park, from Memorial Sloan Kettering Cancer Center in the US and who is involved in the trial, said the results were extremely encouraging so far.&lt;/p&gt;
+&lt;p&gt;"We are beginning to see not only a higher percentage of tumour response rates, but also deeper responses and a near doubling in the duration of disease control, which may eventually translate into longer survival," he said.&lt;/p&gt;
+&lt;p&gt;Daraxonrasib is a KRAS inhibitor treatment that has &lt;a href="https://www.bbc.co.uk/news/articles/clyq4ge4wk9o"&gt;already been approved in the US&lt;/a&gt;. It works by locking on to and shutting off certain mutations, called &lt;a href="https://blog.dana-farber.org/insight/2025/01/what-is-a-ras-mutation/"&gt;RAS&lt;/a&gt;, found in most pancreatic cancers that drive tumour growth.&lt;/p&gt;
+&lt;p&gt;Dozens of other cancers, including lung and ovarian, can have similar mutations, meaning the drug might help lots of other patients too.&lt;/p&gt;
+&lt;p&gt;Dr Godfrey said: "I would hope that the early success that we are beginning to see in pancreatic cancer can also be rolled out to other cancers."&lt;/p&gt;
+&lt;p&gt;He said longer trials and results were vital. "Cancer can come back and even if scans show there is no sign of it, you don't necessarily know you are cancer-free until more time has passed."&lt;/p&gt;
+&lt;p&gt;Prof Elena Garralda, chair of a European cancer conference called EORTC where the work is being presented to other doctors, said: "These results are exciting because they show the combined treatment could potentially significantly improve patients' overall survival, as well as the time before tumours start to grow again."&lt;/p&gt;
+&lt;p&gt;There are 11,500 diagnoses of the disease in Britain each year and around 10,200 deaths, according to Cancer Research UK.&lt;/p&gt;
+&lt;p&gt;Actor &lt;a href="https://www.bbc.co.uk/news/entertainment-arts-35313604"&gt;Alan Rickman died of the disease&lt;/a&gt; in 2016, five months after diagnosis.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.pancreaticcancer.org.uk/information-and-support/signs-and-symptoms-of-pancreatic-cancer/"&gt;Symptoms can include&lt;/a&gt; jaundice, itchy skin, darker pee, paler poo, unexplained weight loss, tiredness and high temperature.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fiona the hippo dies after swallowing a hat at Cincinnati Zoo</title>
+      <link>https://www.bbc.com/news/articles/cwz0k3172xzko</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwz0k3172xzko</guid>
+      <description>&lt;p&gt;Fiona, who became an internet star after her premature birth in 2017, &amp;quot;fought until she couldn’t anymore&amp;quot;, the zoo says.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The Cincinnati Zoo in Ohio says its beloved hippopotamus Fiona has died just days after swallowing a knitted hat that slipped into her enclosure.&lt;/p&gt;
+&lt;p&gt;"It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency," the zoo said on Thursday afternoon.&lt;/p&gt;
+&lt;p&gt;Fiona, who became a social media star after her premature birth in 2017, swallowed the hat about 10 days ago and required emergency care.&lt;/p&gt;
+&lt;p&gt;The vet staff "tried everything they could to help her" but "it was ultimately too much to overcome", the zoo said.&lt;/p&gt;
+&lt;p&gt;"We are in shock at the moment," Cincinnati Zoo director Dave Jenike said in a statement. "We did not expect this outcome. She fought until she couldn't anymore."&lt;/p&gt;
+&lt;p&gt;Michelle Curley, a spokesperson for the zoo, had said that the hat got into Fiona's enclosure by accident, after a visitor tossed it in the air and it caught on a ceiling fan that flung it through a small opening.&lt;/p&gt;
+&lt;p&gt;"We probably couldn't make [it] happen again if we tried," Curley said.&lt;/p&gt;
+&lt;p&gt;While she seemed fine at first, her appetite started to decrease a few days later, and the zoo staff tried to encourage Fiona to eat to help push the hat through her digestive system.&lt;/p&gt;
+&lt;p&gt;An ultrasound before her death showed the hat passing through Fiona's small intestine. A zookeeper said surgery was not an option for full-grown hippos and "our best chance for success with Fiona would be if she could pass this on her own".&lt;/p&gt;
+&lt;p&gt;The zoo also tried a different approach to attempt to get the hat to pass by encouraging Fiona to stand on a vibration plate platform borrowed from a local horse farm.&lt;/p&gt;
+&lt;p&gt;"Our animal care team was heroic in their efforts to save her. They did everything possible, but her body couldn't fight anymore," Jenike said.&lt;/p&gt;
+&lt;p&gt;Fiona was born premature at the Cincinnati Zoo in 2017 and at first struggled to survive. At birth, she weighed 13 kg (29 lbs), which the zoo said was about half the previous lowest recorded birth weight for her species.&lt;/p&gt;
+&lt;p&gt;Her death is also very premature, with hippos normally living up to 50 years in human care, according to the zoo.&lt;/p&gt;
+&lt;p&gt;"Although this was not an intentional incident, of which, regrettably, there are many, Fiona's painful death is a tragic reminder that everyone should behave carefully and respectfully around animals," Debbie Metzler, the Managing Director of Captive Wildlife for the animal rights group Peta.&lt;/p&gt;
+&lt;p&gt;"Peta expects that the zoo will review its protocols to help prevent anything like this from happening again, and we urge every visitor to secure their belongings and never toss objects near an animal's enclosure."&lt;/p&gt;
+&lt;p&gt;As well as being famous online, Fiona's story inspired an ice cream flavour and a character in Cincinnati's ballet.&lt;/p&gt;
+&lt;p&gt;Cincinnati Mayor Aftab Pureval said Fiona "was a symbol of perseverance and joy" in the city.&lt;/p&gt;
+&lt;p&gt;"She brought smiles to so many faces, from kids to parents to visitors from around the world," he wrote on X. "Our city is heartbroken, but we couldn't be more grateful that she was part of our lives and our community as a whole."&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump posthumously pardons US baseball legend Pete Rose</title>
+      <link>https://www.bbc.com/news/articles/cx1l0pm7l9jmo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cx1l0pm7l9jmo</guid>
+      <description>&lt;p&gt;Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;US President Donald Trump has posthumously pardoned baseball legend Pete Rose.&lt;/p&gt;
+&lt;p&gt;"I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR &amp;amp; LEGEND," Trump wrote on Truth Social on Thursday.&lt;/p&gt;
+&lt;p&gt;Rose, who died in 2024 at the age of 83, pleaded guilty in 1990 to two counts of filing false tax returns. He was also given a lifetime ban from Major League Baseball (MLB) after an investigation revealed he bet on games.&lt;/p&gt;
+&lt;p&gt;The baseball star was posthumously reinstated to MLB, in which he played for 24 seasons, last year and made eligible for the Baseball Hall of Fame.&lt;/p&gt;
+&lt;p&gt;Trump also said on Thursday that Rose's "record of 4,256 Hits in a Season will never be broken".&lt;/p&gt;
+&lt;p&gt;In fact, Rose accumulated a record 4,256 hits - which MLB defines as a batter striking the baseball into fair territory and reaching base without doing so via an error or a fielder's choice - during his career, which is more than any other player. He played a total of 3,562 games.&lt;/p&gt;
+&lt;p&gt;According to Trump, Rose "was treated terribly by Major League Baseball in not allowing him to go into the Baseball Hall of Fame. Politics, I guess".&lt;/p&gt;
+&lt;p&gt;The US Constitution gives a sitting president the broad power to grant a pardon, which represents legal forgiveness and ends any further punishment.&lt;/p&gt;
+&lt;p&gt;Because Rose's pardon was issued after his death, it is largely symbolic and does not change Rose's Hall of Fame status. The Department of Justice (DoJ) typically does not process posthumous pardon applications, though presidents have still issued them.&lt;/p&gt;
+&lt;p&gt;The BBC has contacted the Hall of Fame and the DoJ for comment.&lt;/p&gt;
+&lt;p&gt;The US president had previously floated the idea of pardoning Rose in March last year before the MLB reinstated him.&lt;/p&gt;
+&lt;p&gt;"Major League Baseball didn't have the courage or decency to put the late, great, Pete Rose, also known as 'Charlie Hustle,' into the Baseball Hall of fame," he wrote on Truth Social at the time.&lt;/p&gt;
+&lt;p&gt;"Now he is dead, will never experience the thrill of being selected, even though he was a FAR BETTER PLAYER than most of those who made it, and can only be named posthumously. WHAT A SHAME," Trump added.&lt;/p&gt;
+&lt;p&gt;MLB Commissioner Rob Manfred issued a decision in May 2025 that created a pathway for Rose to be eligible to be inducted into the baseball Hall of Fame - a ruling that also applied to 16 other people - as early as 2028.&lt;/p&gt;
+&lt;p&gt;In August 1989, Rose agreed to the permanent ban from the sport after MLB investigators found that he bet on his team, the Cincinnati Reds, multiple times while he was playing on and managing the team from 1985 to 1987.&lt;/p&gt;
+&lt;p&gt;In July 1990, after Rose admitted to failing to report $354,968 (£271,107) in income over a four-year period, he was sentenced to five months in prison. He also was fined $50,000 and ordered to perform community service at the time.&lt;/p&gt;</content:encoded>
+      <pubDate>Fri, 20 Nov 2026 02:10:14 GMT</pubDate>
+    </item>
     <item>
       <title>Trump, Putin and Xi release 'peace declaration' after historic meeting</title>
       <link>https://www.bbc.com/news/articles/c623j4ln97x7o</link>
