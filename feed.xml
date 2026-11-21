@@ -5,9 +5,204 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:15:40 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In a year of AI solving maths problems, Anthropic may have just solved the biggest</title>
+      <link>https://www.bbc.com/news/articles/c6pqr2g7w059o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c6pqr2g7w059o</guid>
+      <description>&lt;p&gt;A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;An Anthropic employee and mathematician claims to have used the company's artificial intelligence (AI) chatbot to prove the famed Riemann hypothesis.&lt;/p&gt;
+&lt;p&gt;Levent Alpöge &lt;a href="https://alpo.ge/remark.pdf"&gt;said&lt;/a&gt; on Friday, a day after Anthropic made its &lt;a href="https://www.bbc.com/news/articles/c3x29ggenz12o"&gt;US stock market debut&lt;/a&gt;, that over the course of about six weeks, he used the Claude chatbot to create a detailed proof of the maths problem.&lt;/p&gt;
+&lt;p&gt;If found to be correct, the proof would be among the most significant in history. Alpöge described it as "one dawn across science of something far greater".&lt;/p&gt;
+&lt;p&gt;The claim comes as AI firms like OpenAI have in recent months announced scores of solutions to major higher maths problems that have eluded scholars for decades.&lt;/p&gt;
+&lt;p&gt;As for the Riemann hypothesis proof put forward on Friday, it was found using a non-public version of Anthropic's Claude.&lt;/p&gt;
+&lt;p&gt;It is a nearly 170-year-old maths problem that deals with prime numbers and is widely considered to be the single most famous problem in maths, in large part due to how complex it is.&lt;/p&gt;
+&lt;p&gt;Named for the mathematician Bernhard Riemann, the hypothesis puts forward that prime numbers have a determined order along the number line.&lt;/p&gt;
+&lt;p&gt;Prime numbers are the bedrock of higher maths, leaving breakthroughs related to them to have broad impact.&lt;/p&gt;
+&lt;p&gt;Alpöge said that he messaged Anthropic CEO Dario Amodei on Sunday, asking him directly about how he could announce the discovery.&lt;/p&gt;
+&lt;p&gt;"The precise timing is horrible," Alpöge said, referring to Anthropic's public stock listing. "If I could have, I'd have finished this all much earlier."&lt;/p&gt;
+&lt;p&gt;"I am clearly unilaterally responsible for feeling I just could not live if I waited even longer. There is an obvious cynical view, to do with the timing, but it is false," he added.&lt;/p&gt;
+&lt;p&gt;The complete proof that Alpöge put forward in Lean, a computer language used for confirming maths proofs, is over 250,000 lines long.&lt;/p&gt;
+&lt;p&gt;Terrance Tao, a prominent mathematician, &lt;a href="https://terrytao.wordpress.com/"&gt;said on Friday&lt;/a&gt; that verification of the proof is still some way off.&lt;/p&gt;
+&lt;p&gt;"I imagine the digestion process will take some time, though in this case at least we have a human author to communicate with to assist with this task," Tao said.&lt;/p&gt;
+&lt;p&gt;No such human was obviously a part of major maths proofs made earlier this year using AI.&lt;/p&gt;
+&lt;p&gt;OpenAI in September claimed that employees using a non-public version of its AI tools were &lt;a href="https://www.bbc.com/news/articles/cy7zygy3rl2o"&gt;able to solve&lt;/a&gt; part of a notoriously difficult problem in just 88 hours. The problem was part of the Navier-Stokes equations, which concern how fluids move.&lt;/p&gt;
+&lt;p&gt;More than 10,000 AI agents, or computer programmed bots that operate somewhat autonomously, were put to the task as an AI training exercise.&lt;/p&gt;
+&lt;p&gt;The proof that OpenAI released on Navier-Stokes has yet to be confirmed as accurate, and it set off criticism within academic and higher maths communities and organisations about the use of AI to solve maths problems.&lt;/p&gt;
+&lt;p&gt;A group of &lt;a href="https://mathandai.org/"&gt;maths scholars said&lt;/a&gt; AI companies boasting of major solutions to show how sophisticated their commercial products had become was "detrimental to the science of mathematics".&lt;/p&gt;
+&lt;p&gt;"We are witnessing a general threat to intellectual work, with misalignment between the outcome of the use of AI and its initial purpose," the scholars said in a group letter.&lt;/p&gt;
+&lt;p&gt;A month later, OpenAI &lt;a href="https://openai.com/index/sharing-ai-progress-in-mathematics/"&gt;released&lt;/a&gt; what it claimed were solutions, proofs, or major progress on 372 more outstanding higher maths problems.&lt;/p&gt;
+&lt;p&gt;It will take months, if not longer, for those claims to be reviewed by experts to prove their validity.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 21 Nov 2026 01:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump threatens ban on US firms building AI data centres overseas</title>
+      <link>https://www.bbc.com/news/articles/cmde1lw9y54ko</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmde1lw9y54ko</guid>
+      <description>&lt;p&gt;The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Donald Trump has said he will ban US companies from building AI data centres overseas, threatening a "tremendous tax" for tech firms who do so.&lt;/p&gt;
+&lt;p&gt;"We're going to keep it all in this country," the US president said, while providing little detail on the potential policy he said others in his cabinet were hearing about for the first time.&lt;/p&gt;
+&lt;p&gt;Data centres were a &lt;a href="https://www.bbc.com/news/articles/c0rezqpnekro"&gt;central issue in the midterm elections&lt;/a&gt; earlier in November, with many Democratic candidates promising tougher regulation on their construction.&lt;/p&gt;
+&lt;p&gt;Tech giants including Meta and Google have entered agreements to build data centres overseas. It remains unclear how such a policy would be enforced if it was brought in.&lt;/p&gt;
+&lt;p&gt;"We're not going to allow our companies to build data centres outside of our country," Trump told reporters in a press briefing following his return from his trip to Asia.&lt;/p&gt;
+&lt;p&gt;"Because China will take all of them, and we're not allowing that to happen."&lt;/p&gt;
+&lt;p&gt;But whether that idea will become policy remains unclear.&lt;/p&gt;
+&lt;p&gt;"I don't know if that's a breaking story, but I haven't even said that to my people. But I'm telling them now, they're here," he said.&lt;/p&gt;
+&lt;p&gt;Trump floated the policy after saying the US was leading on data centre construction, and he would not allow China to beat the US when it came to AI - which he calls super intelligence, or SI.&lt;/p&gt;
+&lt;p&gt;It also follows an announcement earlier this week that would &lt;a href="https://www.bbc.com/news/articles/cwq6e2qgvmlgo"&gt;restrict the export of advanced computer chips&lt;/a&gt; and who can access the computing power provided by them.&lt;/p&gt;
+&lt;p&gt;Washington on Monday announced firms would require a licence to buy advanced chips, so US officials can monitor whether they are being used to serve Chinese companies or they are being smuggled into China.&lt;/p&gt;
+&lt;p&gt;The move will impact South East Asian countries that have invested heavily in data centres, as Chinese companies seek to rent computing power from overseas.&lt;/p&gt;
+&lt;p&gt;Data centres are crucial to the AI boom. The vast warehouse-style buildings house the advanced computer chips and servers that are needed to run AI programmes such as Claude and ChatGPT.&lt;/p&gt;
+&lt;p&gt;As of April there were about 3,000 data centres across the US, with another 1,500 in various stages of approval and construction, according to the Pew Research Centre.&lt;/p&gt;
+&lt;p&gt;Many of them are built in rural areas, and concerns about issues including noise pollution and energy consumption helped drive Democratic candidates promising tougher rules on data centre construction to wins on 3 November.&lt;/p&gt;
+&lt;p&gt;"You ought to take advantage of the data centres. Make them pay you, make them pay your community, but take advantage don't shut them off," Trump said.&lt;/p&gt;
+&lt;p&gt;"We have a lot of places that want them badly, and they're great places. They have energy and they have everything. They're tremendous assets."&lt;/p&gt;
+&lt;p&gt;Large tech firms - often called AI hyperscalers due to the size of their investments in AI - have also been branching out, and Canada has made moves to step in to offer itself as an alternative location for these sites, with less local pushback against projects so far.&lt;/p&gt;
+&lt;p&gt;Meta has &lt;a href="https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/"&gt;already broken ground on a data centre&lt;/a&gt; in the province of Alberta, and Anthropic has signed a long-term agreement to lease a proposed data centre in Nova Scotia.&lt;/p&gt;
+&lt;p&gt;The BBC has reached out to Meta for comment on Trump's remarks.&lt;/p&gt;
+&lt;p&gt;In September Google &lt;a href="https://www.bbc.com/news/articles/c8r6y4me2g6o"&gt;announced a €13bn ($15bn: £11bn) investment&lt;/a&gt; in AI infrastructure in Finland, which included funding for three data centres. &lt;/p&gt;
+&lt;p&gt;Last month, building work for two of those centres was &lt;a href="https://www.bbc.com/news/articles/cvj6jkx6g1r0o"&gt;halted due to concerns&lt;/a&gt; over the clearance of more than 300 hectares of forest.&lt;/p&gt;
+&lt;p&gt;Trump called out the build in Finland specifically, saying his administration was "not allowing that to happen".&lt;/p&gt;
+&lt;p&gt;Google has been contacted for comment.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 21 Nov 2026 01:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>US army warns detonation of unstable explosives will create toxic plume</title>
+      <link>https://www.bbc.com/news/articles/cmlye2334wlyo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmlye2334wlyo</guid>
+      <description>&lt;p&gt;The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The US Army is set to detonate five tonnes of degraded explosive material in Middletown, Iowa, and have urged locals to vacate the area or stay indoors for their safety.&lt;/p&gt;
+&lt;p&gt;The detonations will result in an air plume that could send toxic dust, containing lead particles, over eastern Iowa and into neighbouring Illinois, with the potential for contaminants to settle on farmland, playgrounds and other surfaces, the army said.&lt;/p&gt;
+&lt;p&gt;The two controlled explosions will be powerful enough that they could damage buildings and shatter windows nearby.&lt;/p&gt;
+&lt;p&gt;On Thursday, environmental groups sued in an effort to stop the detonations, arguing the army failed to consider safer alternatives or give adequate notice.&lt;/p&gt;
+&lt;p&gt;The detonation was originally scheduled for noon local time (1800 BST) on Friday at the Iowa Army Ammunition Plant (IAAAP) in Middletown - a community of about 360 people about four hours west of Chicago, Illinois.&lt;/p&gt;
+&lt;p&gt;The plant produces medium- and large-calibre munitions for the US Department of Defense.&lt;/p&gt;
+&lt;p&gt;On Thursday evening, Acting Secretary of the Army Adam Telle delayed the detonation to Monday, saying that "public safety is the Army's top priority".&lt;/p&gt;
+&lt;p&gt;The planned detonation will be "the latest possible moment prior to a forecasted temperature drop, which would risk further destabilization of the material", he said on X.&lt;/p&gt;
+&lt;p&gt;The army said that the detonation is part of "a planned and controlled safety operation" to dispose of degraded lead azide. It added that the detonation has been permitted by the US Environmental Protection Agency (EPA) under conservation and recovery laws.&lt;/p&gt;
+&lt;p&gt;Residents have been asked to leave their homes for about six hours - between 08:00 and 14:00 local time - while the operation takes place and the dust settles. The army said that "all humans" should avoid outdoor activities within affected areas.&lt;/p&gt;
+&lt;p&gt;Residents in Middletown will hear a loud noise, feel vibrations from two consecutive, rapid detonations and will see a plume of dust, the advisory said.&lt;/p&gt;
+&lt;p&gt;According to &lt;a href="https://www.iowapublicradio.org/environment/2026-11-19/army-lead-detonation-public-health-safety-risks"&gt;Iowa Public Radio&lt;/a&gt;, the IAAAP found earlier this year that the lead azide - a highly volatile compound used as a detonator - stored in underground concrete tanks is degrading, becoming too unstable to safely move.&lt;/p&gt;
+&lt;p&gt;Military and environmental officials determined that detonating it in place is the safest way to eliminate the explosive safety hazard.&lt;/p&gt;
+&lt;p&gt;The EPA, which granted an emergency permit to detonate 68 drums of the material, said it did so because the explosion risk "presented an imminent and substantial threat to human health and the environment".&lt;/p&gt;
+&lt;p&gt;Justine Barati, a public affairs specialist at Army Sustainment Command, said that the substance has been stored at the plant for more than 20 years in earthen-covered containers.&lt;/p&gt;
+&lt;p&gt;It sits in a bath of ethanol and water to keep the material stable, but a routine check earlier this year found that some of the water had evaporated, Barati told the Associated Press.&lt;/p&gt;
+&lt;p&gt;The army said the lead azide barrels will be detonated inside earth-covered magazines made of concrete, and surrounded with barriers full of sand. The soil above will be saturated with water in an effort to reduce the lead in the air.&lt;/p&gt;
+&lt;p&gt;On Thursday, two environmental groups sued to block the detonation, challenging the validity of the EPA's emergency permit, according to the BBC's US media partner CBS News.&lt;/p&gt;
+&lt;p&gt;"The EPA itself admits that there is no safe level of lead exposure for humans," said Michael Schmidt, General Counsel at the Iowa Environmental Council.&lt;/p&gt;
+&lt;p&gt;"When our federal government makes decisions that result in a potentially toxic plume of lead dust that could cover much of southeastern Iowa, Iowans deserve to know that every available alternative was considered before choosing this method of disposal."&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 21 Nov 2026 01:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dead pets were meant to be cremated - then their bodies appeared on a livestream</title>
+      <link>https://www.bbc.com/news/articles/cmn502ek17yvo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cmn502ek17yvo</guid>
+      <description>&lt;p&gt;Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The livestream begins.&lt;/p&gt;
+&lt;p&gt;A man – bald, goateed, wearing red-tinted sunglasses – walks down a cracked back road, guiding the camera towards a cluster of plastic-wrapped objects that spill out of the tall grass.&lt;/p&gt;
+&lt;p&gt;Names are written on the packages – Brandon; Ira; Lucky; Sweet – and numbers. One says 29kg (4.5 stone). Another says 2.5kg. Through the plastic you can make out what appears to be fur, claws and a flattened ear.&lt;/p&gt;
+&lt;p&gt;It's a mass dumping, the man explains. "We have about 25 animals here that have been dumped in bags. A couple of cats, some dogs."&lt;/p&gt;
+&lt;p&gt;"Purebreds," says the woman filming.&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;Warning: This story contains images some might find upsetting&lt;/i&gt;
+&lt;/p&gt;
+&lt;p&gt;In the weeks since that video was streamed on Facebook, Chris and Geraldine Taylor, who run animal rescue NGO Luna and Furry Siblings (LAFS), say they have uncovered 15 dumping sites in the suburbs of Bulacan, near the Philippines' capital of Manila.&lt;/p&gt;
+&lt;p&gt;In total they've unearthed the remains of some 170 dead pets. Belgian Malinois, golden retrievers, pugs, puppies and cats have been found dumped off service roads, sealed in septic tanks, floating in rivers and buried in vacant lots.&lt;/p&gt;
+&lt;p&gt;Many of these animals are thought to have been sent to cremation businesses in the expectation they would be turned to ash.&lt;/p&gt;
+&lt;p&gt;Now, many grieving owners are having to confront a distressing reality: their beloved pets may not have received the send-off they paid for. The urn in their home may not contain their pet at all. And they may in fact see their so-called fur child again, jettisoned like common waste on the side of a highway.&lt;/p&gt;
+&lt;p&gt;One saw the livestream and wrote on Facebook: "I think one of those pets is mine." Below, they attached a photo of a beaming Alsatian.&lt;/p&gt;
+&lt;h2&gt;170 carcasses found&lt;/h2&gt;
+&lt;p&gt;When Chris arrived on that back road three weeks ago, he couldn't have known he was uncorking a scandal that would see at least one business reportedly shut, four people placed under investigation, and a personal invite to sit down with a senator to discuss animal-cruelty laws.&lt;/p&gt;
+&lt;p&gt;Chris, a former police officer, and his wife are retired, but only formally. For the past three years, they've been running an animal rescue shelter out of their home in San Jose del Monte, 30km (18.6 miles) north-east of central Manila.&lt;/p&gt;
+&lt;p&gt;On 30 October, he'd driven into town to report a case of animal neglect at the local district office. When he arrived, he was told the official in charge had just left to respond to another complaint: a report of dumped animals on a nearby roadside.&lt;/p&gt;
+&lt;p&gt;Chris had seen this once before: 14 dogs that were found and soon reburied. This time, he followed the official to the scene and started documenting – taking photos, scanning the bodies for microchips and uploading footage to his Facebook page.&lt;/p&gt;
+&lt;p&gt;"I figured there's got to be more to this," he explains. "So we put out word: if anybody knows anything, any other dump locations... just report it. Let us know."&lt;/p&gt;
+&lt;p&gt;In the days that followed, tip-offs started trickling in. More dumpsites emerged.&lt;/p&gt;
+&lt;p&gt;"The long vacant lot on the left side... that's where the smell comes from," read one message.&lt;/p&gt;
+&lt;p&gt;"When we ran to this place it smelled of rotting animals," read another, accompanied by a photo of a map with a location circled in red.&lt;/p&gt;
+&lt;p&gt;By crowdsourcing intel in this way, and collaborating with authorities, LAFS has so far uncovered a total of 15 dumpsites, containing an estimated 170 animals. "Some of them were just bags of bones," Chris says. "Others were liquefied."&lt;/p&gt;
+&lt;p&gt;LAFS has meticulously documented the crime scenes. Often wearing little more for protection than an N95 mask and rubber gloves, Chris crouches in the underbrush and slices open discarded plastic bags, picking through the contents while Geraldine holds the camera.&lt;/p&gt;
+&lt;p&gt;Their Facebook videos have racked up more than 30 million views. Commenters ask Chris if he has seen their pet among the bodies, or if he can turn a carcass over so they can check for identifying marks.&lt;/p&gt;
+&lt;p&gt;Some are successful. On that first night in October, all 25 bodies were returned to their owners.&lt;/p&gt;
+&lt;p&gt;There's a question which hangs uncomfortably over every dumpsite: who would do something like this?&lt;/p&gt;
+&lt;p&gt;As more owners came forward, a common denominator emerged. Many said they'd taken the animals to be incinerated at the same place: a crematorium called Ahjay Paws in the city of Bacoor, not far from Manila.&lt;/p&gt;
+&lt;p&gt;"So I posted: anybody that's had Ahjay's services... these might be your animals," says Chris. "And man, it just flooded in."&lt;/p&gt;
+&lt;h2&gt;'God knows what was inside those urns'&lt;/h2&gt;
+&lt;p&gt;The Philippines has long been a dog-loving nation, but since the Covid-19 pandemic the "fur parenting" community has exploded.&lt;/p&gt;
+&lt;p&gt;A 2021 study found the country had the highest rate of dog ownership in the Asia-Pacific. Since then, the pet dog population has increased 4.7% year on year, according to another study, exceeding 21 million in 2025.&lt;/p&gt;
+&lt;p&gt;As the numbers soar, businesses have stepped up to address an inevitable implication: more deaths.&lt;/p&gt;
+&lt;p&gt;"Cremation here in the Philippines has become quite a big thing with the boom of the pet industry," says Anna Cabrera, director at the Philippine Animal Welfare Society (Paws). "There's even a ceremony where they hold wakes for the pets."&lt;/p&gt;
+&lt;p&gt;These events offer grieving owners a last chance to see their beloved pets before they're taken to a crematorium and transmuted into an urnful of ashes.&lt;/p&gt;
+&lt;p&gt;Or not, as the case may be.&lt;/p&gt;
+&lt;p&gt;Revecca Calling, who lives south of Bulacan in the city of Cavite, says she paid Ahjay Paws 8,500 Philippine pesos (£100; $133) to cremate her dog Olaf in January. The price was calculated according to weight, and included a 30-minute viewing where she could say her final goodbye.&lt;/p&gt;
+&lt;p&gt;Calling says Ahjay Paws told her they couldn't record the cremation, as it might endanger the staff. They took away Olaf's body, and a few days later handed back a small urn that purportedly contained her cremated remains.&lt;/p&gt;
+&lt;p&gt;When nine months later Calling heard that dozens of animals' bodies had been found dumped on an empty plot of land, potentially at the behest of a pet cremation business, she was devastated.&lt;/p&gt;
+&lt;p&gt;"Pet owners entrust these services with something very important: the remains of a beloved family member," she says. "We need to know what happened."&lt;/p&gt;
+&lt;p&gt;Earlier this month, the Philippines' National Bureau of Investigation (NBI) filed criminal complaints against four individuals in connection with dumped pets. Among them is the owner of Ahjay Paws and two people who ran Bulacan's Pet HPHT Crematory.&lt;/p&gt;
+&lt;p&gt;According to the NBI, Ahjay Paws had initially arranged to acquire a cremation machine from Pet HPHT – but when it didn't arrive, they opted to send the pet remains to Pet HPHT instead. When the volume of those remains became more than Pet HPHT could handle, that firm paid a third party to bury them.&lt;/p&gt;
+&lt;p&gt;One interpretation is that the dumping incidents are a result of logistical failures: two businesses that bit off more than they could chew and took desperate measures to make the problem go away.&lt;/p&gt;
+&lt;p&gt;But there's another theory: that the dead pets could be evidence of a lucrative racket, with people's money taken to incinerate their pets but the animals then being dumped instead.&lt;/p&gt;
+&lt;p&gt;There is a word for this kind of deception in Philippine law – estafa; where a perpetrator knowingly misleads a victim to financially defraud them – and the NBI say they are investigating it as a possibility in this case.&lt;/p&gt;
+&lt;p&gt;Two weeks ago, Ahjay Paws' owner denied responsibility for the dumping in San Jose del Monte, according to local media. The company is apparently no longer operating, and the BBC has been unable to contact it.&lt;/p&gt;
+&lt;p&gt;The BBC has also reached out to Pet HPHT and invited it to respond. On Facebook, the firm said the dumping allegations were "completely false and have no basis".&lt;/p&gt;
+&lt;p&gt;Another grieving pet owner, Emelia Legada, says she paid Ahjay Paws 10,000 Philippine pesos (£120; $160) to cremate her dog Harvey six months ago.&lt;/p&gt;
+&lt;p&gt;"I just can't accept the pain of not knowing what might have happened to him," she says. "I really want to confirm whether Harvey was properly cremated, and whether the ashes I received were truly his."&lt;/p&gt;
+&lt;p&gt;Many are wrestling with the same uncertainty. As Cabrera puts it: "God knows what that was inside those urns."&lt;/p&gt;
+&lt;p&gt;In response to those anxieties, a veterinarian in nearby Quezon City has started offering complimentary forensic ash testing. For those whose pets have been found among the bodies, other crematoriums have offered to do the job properly, and for free.&lt;/p&gt;
+&lt;p&gt;The animal welfare society, Paws, is volunteering legal services to help people file complaints with the authorities, and has received more than 150 requests so far. It is also calling for a nationwide audit of all pet cremation businesses.&lt;/p&gt;
+&lt;h2&gt;Animal-cruelty law 'doesn't apply'&lt;/h2&gt;
+&lt;p&gt;On 2 November, Percival Vilar Cendaña of the Philippines' progressive Akbayan Party appeared on national television. He was there to speak about the pet-dumping scandal, which, in the span of a few days, had flared into a national disgrace.&lt;/p&gt;
+&lt;p&gt;"Our worst fears have been confirmed," he told the Bilyonaryo news channel. "Now we see that these are not isolated incidents. It is true that this is a syndicate that is conducting widespread operations."&lt;/p&gt;
+&lt;p&gt;Neither the police nor the NBI have confirmed that the dumpings were carried out by a "syndicate", nor that they were "widespread". Many details surrounding the case remain murky. But the hysteria is real – and Cendaña was giving voice to a common sentiment.&lt;/p&gt;
+&lt;p&gt;"Those who deceived these poor fur parents should be jailed," he said.&lt;/p&gt;
+&lt;p&gt;At least three individuals have surrendered to the NBI and been charged with violating the city's Code of Sanitation, the Ecological Solid Waste Management Act, and the Sanitation Code of the Philippines.&lt;/p&gt;
+&lt;p&gt;But many feel this doesn't go far enough, and say it fails to hold anyone liable for the way the animals' remains were treated.&lt;/p&gt;
+&lt;p&gt;Cabrera says the country's animal-cruelty law doesn't cover the treatment of animals after death. And "there's no crime if there's no law".&lt;/p&gt;
+&lt;p&gt;The scandal has prompted a groundswell to change that. Lawmakers like Cendaña are pushing for a national commission on animal welfare to ensure their dignity in life and death.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Cabrera says Paws will seek "moral and exemplary" damages on behalf of aggrieved pet owners.&lt;/p&gt;
+&lt;p&gt;One woman whose dog was suspected to have been found among the dumped bodies told the BBC she couldn't speak about it because she was "feeling weak".&lt;/p&gt;
+&lt;p&gt;"I haven't slept for three days from all the crying," she said.&lt;/p&gt;
+&lt;p&gt;Chris has also been losing sleep, taking calls from grieving pet owners who have watched his videos. "Hundreds of people call me in tears, just sobbing," he says.&lt;/p&gt;
+&lt;p&gt;"They're in so much pain. And half the time you're telling them: 'you're not going to find your pet. It's been too long; we're not going to be able to identify it.' And it just crushes them."&lt;/p&gt;
+&lt;p&gt;As well as new laws, Chris wants stricter enforcement of existing rules. He wants to know how he managed to unearth so much in the space of a fortnight, and why people keep coming to him saying they don't trust the police to take their concerns seriously, he says.&lt;/p&gt;
+&lt;p&gt;The BBC contacted Philippine National Police (PNP) for comment, but didn't hear back. Earlier this month, PNP chief Jose Melencio Nartatez Jr said authorities were determined to hold accountable those who allegedly took advantage of grieving pet owners, saying such exploitation "must be addressed with the full force of the law", according to ABS-CBN.&lt;/p&gt;
+&lt;p&gt;"Fraud is not measured solely by the amount of money taken, but also by the damage inflicted on the people whose trust has been betrayed," Nartatez said.&lt;/p&gt;
+&lt;p&gt;"To the affected pet owners, we recognise the pain and distress this incident has caused your families."&lt;/p&gt;
+&lt;p&gt;Yet the police themselves have come under official scrutiny.&lt;/p&gt;
+&lt;p&gt;On Monday, the National Police Commission announced an investigation into officers in Cavite and Bulacan after they suggested LAFS might be involved in the pet dumping because they were often first on the scene. The officers did not present evidence for their claims. The investigation also covers reports that officers visited the Taylors' home and took photographs.&lt;/p&gt;
+&lt;p&gt;Meanwhile, countless grieving pet owners are suspended in purgatory: desperate for closure on what happened to their dogs and cats, and calling on authorities to do more.&lt;/p&gt;
+&lt;p&gt;"We want the case to be properly investigated and those responsible to be held accountable," says Calling. "I believe that no secret remains hidden forever."&lt;/p&gt;
+&lt;p&gt;Legada, for her part, says: "I just want to find out what really happened to Harvey and where his remains are. I want to know whether he was properly cremated."&lt;/p&gt;
+&lt;p&gt;She also wants people to know: "You can't trust anyone these days."&lt;/p&gt;
+&lt;p&gt;
+&lt;i&gt;With additional reporting by Virma Simonette Rivera&lt;/i&gt;
+&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 21 Nov 2026 01:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Removal of hat inside Fiona the hippo was 'impossible', Cincinnati Zoo says</title>
+      <link>https://www.bbc.com/news/articles/cwly43km54n6o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwly43km54n6o</guid>
+      <description>&lt;p&gt;The location of the hat and the 2,400-pound animal&amp;#x27;s anatomy made removal unfeasible, the zoo said.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;The hat swallowed by beloved hippopotamus Fiona had become lodged in the middle of her small intestine, making removal "impossible", the Cincinnati Zoo in Ohio said.&lt;/p&gt;
+&lt;p&gt;Vets tried to save Fiona after she ingested the hat that ended up in her habitat by accident almost two weeks ago. But its location and the 2,400-pound (1,088 kg) animal's anatomy made removal unfeasible. She died on Thursday.&lt;/p&gt;
+&lt;p&gt;A necropsy, an autopsy performed on an animal, showed the hat was "located 25 feet beyond the final stomach compartment and 50 feet from the end of her intestines", the zoo said on Friday.&lt;/p&gt;
+&lt;p&gt;Animal lovers were rooting for a recovery for Fiona, who became a social media star after her premature birth in 2017.&lt;/p&gt;
+&lt;p&gt;Cincinnati Zoo's director of animal health, Dr Mike Wenninger, said in a statement that an upper and lower GI endoscopy were unable to reach the object.&lt;/p&gt;
+&lt;p&gt;"The location and anatomy made laparoscopic removal impossible," Wenninger added. "No treatment aside from supportive care had any chance for success, and the necropsy confirmed that no amount of supportive care would have worked."&lt;/p&gt;
+&lt;p&gt;Michelle Curley, a spokesperson for the zoo, had said that the woolen hat got into Fiona's enclosure by accident, after a visitor tossed it in the air and it caught on a ceiling fan that flung it through a small opening.&lt;/p&gt;
+&lt;p&gt;"We probably couldn't make [it] happen again if we tried," Curley said.&lt;/p&gt;
+&lt;p&gt;While Fiona showed no symptoms at first, her appetite started to decrease a few days later, and the zoo staff tried to encourage Fiona to eat to help push the hat through her digestive system to no avail.&lt;/p&gt;
+&lt;p&gt;Christina Gorsuch, The zoo's director of animal care, Christina Gorsuch, said on Friday that the other hippos - Bibi, Tucker and Fritz - were so far eating and behaving normally after Fiona's passing.&lt;/p&gt;
+&lt;p&gt;"It's difficult to know how they're feeling, but they appear to be their normal selves, Gorsuch said.&lt;/p&gt;
+&lt;p&gt;"We have received so much love from our community and beyond," said Cincinnati Zoo director Dave Jenike. "We were touched when we saw stadiums, bridges, and buildings lit in purple last night" in Fiona's [honour], he added.&lt;/p&gt;
+&lt;p&gt;The US Senate even adopted a resolution on Friday to honour the beloved hippo.&lt;/p&gt;
+&lt;p&gt;Fiona first rose to fame when she was born premature at Cincinnati Zoo in 2017 and at first struggled to survive. At birth, she weighed 13 kg (29 lbs), which the zoo said was about half the previous lowest recorded birth weight for her species.&lt;/p&gt;
+&lt;p&gt;"The support that we're feeling from all over the world reminds me of the time when everyone pulled together to root for her to survive," Jenike said. "She did, and she gave us almost a decade of smiles."&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 21 Nov 2026 01:15:40 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic shares fall after blockbuster opening as wider tech sell-off continues</title>
       <link>https://www.bbc.com/news/articles/c6808ym10vzgo</link>
