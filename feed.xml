@@ -5,9 +5,222 @@
     <link>https://www.bbc.com/news</link>
     <description>Stories discovered in BBC News' Most read list, retained after they leave. Unofficial feed.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Nov 2026 04:38:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 13:59:05 GMT</lastBuildDate>
     <ttl>15</ttl>
     <atom:link href="http://tiefenbacher.dev/bbc-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How gamers are using AI and leaked files to clone Grand Theft Auto 6</title>
+      <link>https://www.bbc.com/news/articles/c64gn8pe5eeqo</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c64gn8pe5eeqo</guid>
+      <description>&lt;p&gt;With an official PC version potentially still months away, fans are getting impatient.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Hot off its record-breaking console launch, the developer of Grand Theft Auto 6 is facing a problem – and it's one that is increasingly affecting the wider games industry.&lt;/p&gt;
+&lt;p&gt;Rockstar is yet to announce an official PC version of GTA 6, but with the emergence of powerful AI tools, coders and gamers have taken matters into their own hands.&lt;/p&gt;
+&lt;p&gt;The developer has typically released Grand Theft Auto on PC long after its initial console launch – 19 months later in the case of GTA 5.&lt;/p&gt;
+&lt;p&gt;This time it may not have that luxury – in part because of an apparent leak of files from an Xbox development build of the game, but also due to the rapid advance of AI coding platforms.&lt;/p&gt;
+&lt;p&gt;These tools are being used to recreate or adapt existing games, sometimes within days, taking away the control developers have over their products.&lt;/p&gt;
+&lt;p&gt;Barely a week after the release of GTA 6, efforts are already under way to get an unofficial version playable on PC, although some projects have faced takedown notices from the game's publisher.&lt;/p&gt;
+&lt;p&gt;For some gamers, it's an exciting prospect, despite the legal questions surrounding the process.&lt;/p&gt;
+&lt;p&gt;For developers, it may be a warning: if a game as big as GTA 6 can be recreated, what does that mean for everyone else?&lt;/p&gt;
+&lt;h2&gt;Like 'looking at a painting and making your own replica'&lt;/h2&gt;
+&lt;p&gt;The recent wave of AI-assisted game recreation has been widely linked to Anthropic's Opus 5.5 model, released in September, and to agentic tools such as Claude Code.&lt;/p&gt;
+&lt;p&gt;Mark Brown, creator of the YouTube channel Game Maker's Toolkit whose own game Word Play was recently recreated using AI, said cloning largely took two forms: replication and reverse engineering.&lt;/p&gt;
+&lt;p&gt;Replication is where someone asks an AI chatbot such as Claude or ChatGPT to build a new game based on an existing one, possibly using screenshots or a description.&lt;/p&gt;
+&lt;p&gt;This, he said, was similar to "looking at a painting and making your own replica" – something which is "a very close copy, but is ultimately a new painting".&lt;/p&gt;
+&lt;p&gt;It's a particular issue among smaller studios, many of whom worry that AI makes it easier for others to copy their work.&lt;/p&gt;
+&lt;p&gt;When indie developers Sodoj and Marco from the studio Robotonic noticed a version of their unreleased puzzle game 204Snake appear on the free games platform Yandex with the same name, they were "appalled".&lt;/p&gt;
+&lt;p&gt;"The game was essentially the exact same idea, the exact same mechanics as we had, but with the art looking a bit off," Marco &lt;a href="https://www.bbc.co.uk/sounds/play/w3ct8jyx"&gt;told the BBC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The duo were able to issue a copyright strike to Yandex and Google to get the copy taken down, but said it only felt like a "small victory".&lt;/p&gt;
+&lt;p&gt;The second approach – reverse engineering – involves working backwards from a finished game to understand how it was created.&lt;/p&gt;
+&lt;p&gt;One way of doing this is decompilation, which attempts to turn the game's final version into something closer to its original source code.&lt;/p&gt;
+&lt;p&gt;Brown compares the process to "taking a cake and somehow turning it back into the original recipe, with the exact quantities of flour, eggs, and milk used, so anyone can remake the same cake".&lt;/p&gt;
+&lt;p&gt;Reverse-engineering projects have helped bring games such as Halo: Combat Evolved and Grand Theft Auto: Vice City to web browsers.&lt;/p&gt;
+&lt;p&gt;A related technique, recompilation, can help adapt a game that has been reverse-engineered to run on different hardware. This is one of the methods being explored in efforts to get GTA 6 onto PC.&lt;/p&gt;
+&lt;p&gt;Coders wanting to attempt this with Rockstar's latest game face a difficult task because of its sheer size and complexity.&lt;/p&gt;
+&lt;p&gt;Earlier in November, Cyberleek – a hacker or group of hackers – released what they claimed to be a near-complete Xbox development build of the game. They later leaked what they claimed to be the missing .exe file needed to launch the game.&lt;/p&gt;
+&lt;p&gt;It gave those working on an unofficial PC version a crucial new starting point.&lt;/p&gt;
+&lt;p&gt;"Now people are using AI to try and decompile it, make a modified version that could run on PC, and compile a new version," said Brown.&lt;/p&gt;
+&lt;p&gt;Since the leak, several groups have posted claims of their progress on platforms such as X, ranging from getting the game to boot up to making it run at a stable rate.&lt;/p&gt;
+&lt;p&gt;One attempt seen by the BBC on X purported to have some of the game running nearly as smoothly as it does on console, albeit on a high-end PC.&lt;/p&gt;
+&lt;p&gt;Accounts and sites have even sprung up to track the various attempts, excitedly sharing clips of the latest milestone passed and scoring their efforts.&lt;/p&gt;
+&lt;p&gt;Rockstar and its parent company, Take-Two Interactive, have not confirmed the authenticity of the leaked build, and neither has responded to the BBC's request for a statement.&lt;/p&gt;
+&lt;p&gt;However, Take-Two has &lt;a href="https://github.com/github/dmca/blob/master/2026/11/2026-11-24-take-two.md"&gt;issued take&lt;/a&gt;&lt;a href="https://github.com/github/dmca/blob/master/2026/11/2026-11-24-take-two.md"&gt;down notices&lt;/a&gt; of public projects aiming to port the Xbox version to PC on platforms such as GitHub.&lt;/p&gt;
+&lt;p&gt;"There are no remedies available to rectify this clear attempt to facilitate copyright infringement based upon Take-Two's copyrighted property," one notice stated.&lt;/p&gt;
+&lt;p&gt;News of the leak has been celebrated by some gamers on Reddit, who resent having to wait for the PC release.&lt;/p&gt;
+&lt;p&gt;"Why should the PC players have to wait half a year if you can develop the game in weeks as shown so far!" &lt;a href="https://www.reddit.com/r/GTA/s/NedTY6zerq"&gt;wrote one gamer&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;"Will be funny when the decomp runs way better than whatever Rockstar can make," said another.&lt;/p&gt;
+&lt;p&gt;Christopher Dring, editor-in-chief and co-founder of The Game Business, said part of the reason why games are often released on PCs months after consoles is that PC versions are "complex" with "different hardware configurations", as opposed to the more standardised set-up of consoles.&lt;/p&gt;
+&lt;p&gt;He added there could also be a more commercial reason, as Rockstar can "have a second moment when the PC version is ready".&lt;/p&gt;
+&lt;p&gt;In an &lt;a href="https://www.youtube.com/watch?v=r7BWW8gvxRw"&gt;interview with The Wall Street Journal&lt;/a&gt;, the chief executive of Take-Two Interactive, Strauss Zelnick, said while piracy was a "fact of life" in the entertainment business, it had until now been "less of an issue" for video games due to their "file sizes and complexity".&lt;/p&gt;
+&lt;p&gt;However, Zelnick also reportedly told an investor Q&amp;amp;A that the company was "utterly focused on enhancing our technical defences and... legal activities appropriately".&lt;/p&gt;
+&lt;p&gt;When asked about the legality of reverse-engineering code, Dr Tommy Thompson, an AI consultant who presents the AI and Games YouTube channel, said the practice of decompilation exists in a "grey area" - until it "reaches a point where copyright and intellectual property [IP] are infringed upon".&lt;/p&gt;
+&lt;p&gt;He added that decompiling code could be legal within limits, such as for educational purposes, but "as soon as you attempt to use it to redistribute or repackage existing software", then this is "largely illegal".&lt;/p&gt;
+&lt;p&gt;"In most cases, decompiling or recompiling code is likely to involve unauthorised use of the game IP," said Aaron Trebble, a UK intellectual property lawyer for Lewis Silkin.&lt;/p&gt;
+&lt;p&gt;Anyone who releases or sells a clone "will almost certainly be infringing [on copyright]", Trebble added, though he said the law on AI companies' own responsibility is still evolving.&lt;/p&gt;
+&lt;p&gt;Anthropic has reportedly since &lt;a href="https://x.com/addyosmani/status/2116213240363729013?a=yehRaRTDnf7OhRo0_PA&amp;amp;s=20"&gt;told Claude Code to steer away from recreating specific existing games&lt;/a&gt;, saying this would breach its usage policy.&lt;/p&gt;
+&lt;p&gt;Despite this, people are continuing to work on an unofficial PC game, hoping to make it playable before Rockstar releases the official version.&lt;/p&gt;
+&lt;p&gt;"Seeing as this has already affected industry giants with very deep pockets, the proverbial bear has been poked," said Brown.&lt;/p&gt;
+&lt;p&gt;"We'll have to see how it reacts."&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.bbc.co.uk/newsletters/zxh6cxs"&gt;Sign up for our Tech Decoded newsletter&lt;/a&gt; to follow the world's top tech stories and trends. &lt;a href="https://cloud.email.bbc.com/techdecoded-newsletter-signup"&gt;Outside the UK? Sign up here&lt;/a&gt;.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 28 Nov 2026 13:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argentina's bid to stop Falklands oil drilling rejected</title>
+      <link>https://www.bbc.com/news/articles/c84gnq3qq9rno</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/c84gnq3qq9rno</guid>
+      <description>&lt;p&gt;A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Argentina's bid to block an oil exploration project near the Falkland Islands has been rejected by a UN-backed international tribunal.&lt;/p&gt;
+&lt;p&gt;The Argentinian government had called for the Sea Lion&lt;strong&gt; &lt;/strong&gt;venture to be halted as it claimed there was an ongoing dispute over the sovereignty of the Falklands, a British overseas territory. The UK has repeatedly rejected that claim.&lt;/p&gt;
+&lt;p&gt;Speaking on Saturday, the president of the International Tribunal for the Law of the Sea said it was the wrong court to rule on questions of sovereignty. The decision was upheld in a vote 18-3.&lt;/p&gt;
+&lt;p&gt;After the ruling, Argentina's President Javier Milei said "this decision is not the final word" and declared "the Falkland Islands are Argentine".&lt;/p&gt;
+&lt;p&gt;In a joint statement, UK Foreign Secretary Ed Miliband and Attorney General Ellie Reeves said that Buenos Aires must "respect the right of the Falkland Islanders to determine their own future".&lt;/p&gt;
+&lt;p&gt;"Argentina sought to stop the Falkland Islanders making their own sovereign decisions and failed in this attempt," they wrote, urging Argentina to "end its wider economic pressure" against the territory.&lt;/p&gt;
+&lt;p&gt;The case is the latest diplomatic row between the UK and Argentina, which fought a 74-day war over the islands in 1982.&lt;/p&gt;
+&lt;p&gt;Buenos Aires argued that while it believed there was a territorial dispute over the Falklands, nothing should be done that could change the situation - including the building of oil wells.&lt;/p&gt;
+&lt;p&gt;The UK responded that the Law of the Sea court had no jurisdiction over the issue, and that pausing the Sea Lion project could have huge economic consequences on the islands' local population and companies connected with the venture.&lt;/p&gt;
+&lt;p&gt;The tribunal's decision ultimately rested on its own powers - this was a territorial issue, and a maritime court was not the right place to hear the dispute.&lt;/p&gt;
+&lt;p&gt;Buenos Aires disagreed, writing in a statement after the decision that "Argentina did not ask the court to rule on sovereignty", but to apply the United Nations' sea laws to the UK over its "exploitation of our resources".&lt;/p&gt;
+&lt;p&gt;It also said that five individuals would face sanctions for their involvement in the oil drilling venture, &lt;a href="https://www.bbc.co.uk/news/articles/clyk18g1l8ko"&gt;something Milei had been threatening&lt;/a&gt;. The statement did not specify who the sanctions would be against.&lt;/p&gt;
+&lt;p&gt;"The message is clear: those who participate in the illegal exploitation of our resources will face the consequences," the statement said.&lt;/p&gt;
+&lt;p&gt;The Sea Lion oilfield, around 130 miles (209 km) from the Falkland Islands, contains an estimated 1.7 billion barrels of oil.&lt;/p&gt;
+&lt;p&gt;Two oil companies – Britain's Rockhopper Exploration and Israel's Navitas Petroleum – are due to begin extracting from the oilfield within two years, potentially generating huge revenues for the roughly 3,500 inhabitants of the islands.&lt;/p&gt;
+&lt;p&gt;But the Argentinian government claimed the marine environment of disputed maritime areas is protected by international law.&lt;/p&gt;
+&lt;p&gt;The 10-week war that was fought in 1982 started when Argentine forces landed on the Falklands to stake a territorial claim over the islands, as a British military task force fought to eject them.&lt;/p&gt;
+&lt;p&gt;The conflict led to the deaths of 255 British military personnel, three islanders and 649 Argentine military personnel.&lt;/p&gt;
+&lt;p&gt;Despite its defeat, Argentina has always maintained its right to the Falklands, and over the years, successive governments have pressed their claim with varying degrees of aggression and diplomacy.&lt;/p&gt;
+&lt;p&gt;The UK government has made clear that sovereignty remains with Britain and maintains that the island's population has a right to self-determination.&lt;/p&gt;
+&lt;p&gt;In a 2013 referendum, residents of the islands voted overwhelmingly to remain a British overseas territory - with 99.8% voting in favour and just three voting against.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 28 Nov 2026 13:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carly Rae Jepsen's viral hit proves what fans knew all along</title>
+      <link>https://www.bbc.com/news/articles/cq3dgp88p744o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cq3dgp88p744o</guid>
+      <description>&lt;p&gt;The Call Me Maybe star returns to the UK Top 40 as her single Run Away With Me gets a GTA VI boost.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;For years, Carly Rae Jepsen's fans have been &lt;a href="https://www.youtube.com/watch?v=qEw6FV11UYA"&gt;telling anyone&lt;/a&gt; who'll &lt;a href="https://x.com/shadowtodd/status/694229318768140289?a=taxe_SyH74xgBY6Vfuo&amp;amp;s=46"&gt;listen&lt;/a&gt; that she wrote the perfect pop song... and they don't mean Call Me Maybe.&lt;/p&gt;
+&lt;p&gt;No, it's Run Away With Me – three minutes of pure euphoria that captures the moment a crush snowballs into a full-blown love affair.&lt;/p&gt;
+&lt;p&gt;Released in 2015, it stalled at number 58 in the charts, but it has long been a highlight of Jepsen’s live shows. Then, last week, it made a surprise appearance in Grand Theft Auto VI.&lt;/p&gt;
+&lt;p&gt;It provides the soundtrack to a pivotal sequence where the game's protagonists get their first taste of the high life - zooming around on jet skis and shooting champagne bottles from the back of a yacht.&lt;/p&gt;
+&lt;p&gt;"Have I ever done that? I have not!" Jepsen laughs.&lt;/p&gt;
+&lt;p&gt;"My guilty admission is that I haven't even played the game yet, but I'm excited to try it. I'm gonna become a late-in-life gamer!"&lt;/p&gt;
+&lt;p&gt;The placement has given the song a new lease of life. Its daily streams rose from 20,000 to 281,000 overnight. On Friday, it &lt;a href="https://www.bbc.co.uk/news/articles/ckp80d8vz1ego"&gt;re-entered the UK charts&lt;/a&gt; at a new peak of 28.&lt;/p&gt;
+&lt;p&gt;"It's wild," says Jepsen from her home in Los Angeles. "I love a plot twist, and this was exactly that."&lt;/p&gt;
+&lt;h4&gt;Allow Google YouTube content?&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;‘accept and continue’&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In some ways, it’s a vindication for an under-appreciated classic.&lt;/p&gt;
+&lt;p&gt;"I've always been asked the question, 'When you were in the studio, did you know you had a hit song?'" says Jepsen. "And I always say, 'No. How can anyone know that?'&lt;/p&gt;
+&lt;p&gt;"However, I will say, with Run Away With Me, out of all the sessions I've ever done in my life, we all felt that thrill that people think you get. We were on our feet, going, 'Oh, this has something special to it'.&lt;/p&gt;
+&lt;p&gt;"But it never got eyes like it's getting right now, and that makes me believe in that special feeling that we had, when we made it."&lt;/p&gt;
+&lt;h2&gt;Touring as a new mum&lt;/h2&gt;
+&lt;p&gt;The success comes at an interesting juncture in Jepsen’s career.&lt;/p&gt;
+&lt;p&gt;Over the last decade, Run Away With Me and E•MO•TION, the album it featured on, have become cult classics, helping to establish Jepsen as a favourite among pop connoisseurs.&lt;/p&gt;
+&lt;p&gt;This year, she rewarded her dedicated fans with a 32-track double album, Day &amp;amp; Night, that spans everything from mellow folk-pop to Abba pastiches and darker, dancefloor-centric experimentation.&lt;/p&gt;
+&lt;p&gt;It was released as Jepsen, 41, welcomed her first child, Ilya, after falling in love with one of her co-writers, Cole Marsden Greif-Neill, during recording sessions.&lt;/p&gt;
+&lt;p&gt;She told us more about the music, and her plans for touring with a newborn.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;In 2015, E•MO•TION was considered a commercial disappointment – but now it's considered a landmark pop album. How do you look back at it now?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;At the time, I remember feeling the pressure of having a song like Call Me Maybe take off. I was nervous about people expecting the same on repeat, knowing that I wasn't capable of delivering that. So E•MO•TION, to me, was a statement of like, 'Here's the type of pop music I love, and here's what I have to offer beyond [Call Me Maybe].'&lt;/p&gt;
+&lt;p&gt;I'd set my expectations low. I'd taken a break and done Cinderella on Broadway. And when I finally put the album out, I was pretty sure everyone had forgotten what I did. So the fact anyone liked it was a victory.&lt;/p&gt;
+&lt;p&gt;But did I imagine that it would catapult this new career path for me? I had no insight of that and, looking back at it now, I feel like it was like accidentally strategic for my [type of] success, which is finding people who want something true and authentic and artful, versus Call Me Maybe 2.0.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;And that freedom led you to a place where you can release a double album.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Oh, absolutely! There are songs on this album that would normally be locked away in folders on my hard drive. On many songs, I felt like, 'Is this too weird?' But the mission statement with Day &amp;amp; Night was to stop asking that question.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;I notice you singing in new ways. You're almost whispering on After All, then That's Just Me is a classic torch song.&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Yes, it was actually really fun. My uncle and aunt were visiting from Canada, and they were like, 'Can we hear some demos?' And I played them some stuff, and they were like, 'I would not know this was you'.&lt;/p&gt;
+&lt;p&gt;I felt like that was such a feat in its own right, to put out something fresh after so many years in the business.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;How did you decide what was a 'Day' song and what was a 'Night' one?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;The Day songs are more organic. Folky, psychedelic pop is where I would land with it. At night, we go a little bit more synth-based, like a dance party in my house.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;The first track you wrote was a 'Night' song: No Labels, I Love You&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Yes, with my partner, Cole, who's now my husband.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Was that session the first time you met?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;It was, yeah, in the parking lot at Henson Studios. We were friends for a whole year before we started dating, but there was definitely some chemistry and excitement there.&lt;/p&gt;
+&lt;p&gt;After that session, I was trying to save his contact details, and because the song we'd written was No Labels, I Love You, I wrote, '&lt;i&gt;Cole I Love You&lt;/i&gt;' in my phone. &lt;/p&gt;
+&lt;p&gt;Turns out the joke's on me! I kept the contact in my phone that way forever.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;One of my favourite songs is Blue Skies, and the opening lyric is, 'I said I love you first'. Is that autobiographical?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;No, the funny thing is, we had a trip to Japan, and I had this big idea that I was going to tell him I loved him on top of the Tokyo Tower. I felt like doing something cinematic and ridiculous... but he beat me to it. He told me three days before when we were in Hakone, in the spa!&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;So if the relationship was developing as the album was being written, has it become a document of that romance?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;I mean, there's a heck of a lot of songs that are dedicated to Cole, but there's other moments where I'm literally writing with him, and we're talking about something from my past, and those songs are threaded in there, too.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Well, congratulations to you both. And congratulations on becoming parents, too! Your son's name is Ilya, right?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;Yes, Ilya. Weirdly, he is getting cuter every day, which is saying something because he started off cute.&lt;/p&gt;
+&lt;p&gt;Every day, I'm seeing a new facial expression, like a new little nose scrunch or something. It's wild.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Have you spoken to any other musicians for advice on touring with a toddler?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;I can get so much advice from my mom and my girlfriends about raising kids, but none of them have been on tour – so I spoke to Sarah McLachlan, who gave me loads of tips. But what's really in my corner is the amount of people, and women who have kids specifically, on this tour with me.&lt;/p&gt;
+&lt;p&gt;So the way we've planned for time off, and even the buses we're picking are very suited for children. I'm not in it alone.&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;How do you make a tour bus suitable for children?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;You need to have a place for the pack'n'play [travel cot]. You have to change how the bathroom is. But we're also looking at how we handle the long drives.&lt;/p&gt;
+&lt;p&gt;I'm quite cockily talking about it with confidence before I've done a run. Catch me on the flip side and I might be like, 'Don't ever do it!'&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;With 32 new songs, how will you plan the setlist? &lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;I know, right? We'll be like Bruce Springsteen, playing late into the night.&lt;/p&gt;
+&lt;p&gt;I mean, we'll see how long my voice lasts...&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;On top of everything else, you're also working on the musical version of 10 Things I Hate About You. How's that going?&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;This is year six of working on that show, isn't that crazy?&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Musicals take a long time…&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;They take a hot minute, but now we've had workshops in New York with actors and choreography and staging.&lt;/p&gt;
+&lt;p&gt;What we're trying to do is honour how hilarious the story is. Because when I go to a show I want to cry, I want to laugh, and I want to leave 10 pounds lighter, feeling great about the world.&lt;/p&gt;
+&lt;p&gt;If it can have all those things, it'll be a success in my eyes.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 28 Nov 2026 13:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Actor and comedian PJ Gallagher dies aged 51</title>
+      <link>https://www.bbc.com/news/articles/cwp83j2k31g3o</link>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cwp83j2k31g3o</guid>
+      <description>&lt;p&gt;PJ Gallagher appeared on Irish television for more than two decades with shows including Naked Camera and The Young Offenders.&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Taoiseach (Irish prime minster) Micheál Martin has led tributes to comedian and broadcaster PJ Gallagher, who has died at the age of 51.&lt;/p&gt;
+&lt;p&gt;Born in Cork and adopted and raised in Dublin, Gallagher was a familiar presence on television for more than two decades, appearing in numerous programmes, including BBC's The Young Offenders.&lt;/p&gt;
+&lt;p&gt;He first came to prominence in 2005, co-creating the RTÉ hidden-camera series Naked Camera, which established him as one of Ireland's best-known comedy performers.&lt;/p&gt;
+&lt;p&gt;As well as his work in stand-up comedy and acting, Gallagher presented television documentaries and was a member of the breakfast show team on Radio Nova.&lt;/p&gt;
+&lt;p&gt;Posting on social media, Martin described Gallagher as a "gifted comedian, actor and broadcaster" who brought "immense warmth and laughter to so many across Ireland".&lt;/p&gt;
+&lt;h4&gt;Allow X content?&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;‘accept and continue’&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Gallagher's agency LR Comedy confirmed his death in a statement on Friday evening, saying his family and friends were "devastated" and asked that they be given privacy and time to come to terms with their loss.&lt;/p&gt;
+&lt;p&gt;The statement also highlighted how Gallagher spoke with "remarkable candour about his experiences of mental illness", wanting people to "talk about what they were going through without shame".&lt;/p&gt;
+&lt;p&gt;He published a memoir in 2023 titled Madhouse: The naked truth about my chaotic childhood, losing my mind and finding a place to call home.&lt;/p&gt;
+&lt;p&gt;Following this he made a documentary called Changing My Mind, which explored mental health issues.&lt;/p&gt;
+&lt;p&gt;More recently Gallagher headed the RTÉ One series The Random Driving Test, after participating earlier in the year in the second season of Uncharted with Ray Goggins, where he joined actor Liam Cunningham, and Goggins on a motorbike expedition across the Himalayas.&lt;/p&gt;
+&lt;h2&gt;'The sweetest soul'&lt;/h2&gt;
+&lt;p&gt;Gallagher's The Young Offenders co-star Alex Murphy said his heart was "broken" after learning of his death.&lt;/p&gt;
+&lt;p&gt;"I can't believe it. The relentlessly funny PJ Gallagher will be missed beyond belief," he posted on Instagram.&lt;/p&gt;
+&lt;p&gt;Hilary Rose, who plays Murphy's on-screen mother on the show, said it was difficult to "wrap her head" around Gallagher's death.&lt;/p&gt;
+&lt;p&gt;"Days were better with PJ around," she added.&lt;/p&gt;
+&lt;p&gt;Writing on Bluesky, comedian Dara Ó Briain said Gallagher was "the sweetest soul; and a warm, instinctive, funny-bones performer".&lt;/p&gt;
+&lt;p&gt;Podcaster Blindboy Boatclub echoed Ó Briain's comments, describing Gallagher as an "incredibly sweet and kind person".&lt;/p&gt;
+&lt;p&gt;Liverpool comedian John Bishop also paid tribute, describing Gallagher as "funny, kind, caring, humble and vulnerable.&lt;/p&gt;
+&lt;p&gt;"My thoughts go out to his close friends and family and he will be in my mind whenever I get on my bike to clear my head."&lt;/p&gt;
+&lt;p&gt;Radio Nova, where Gallagher hosted the Morning Glory breakfast show with Jim McCabe, said he "will be so dearly missed by all who had the privilege to cross his path".&lt;/p&gt;
+&lt;p&gt;Steve Carson, Irish broadcaster RTÉ's Director of Video, said that Gallagher had "brought his extraordinary wit, warmth, empathy and energy to everything he did".&lt;/p&gt;
+&lt;p&gt;"We are saddened to hear of the passing of PJ Gallagher," said Chris Sussman, Director of BBC Comedy.&lt;/p&gt;
+&lt;p&gt;Sussman added he "will be fondly remembered for his role" in the BBC Three series The Young Offenders.&lt;/p&gt;
+&lt;p&gt;Tánaiste (Irish deputy prime minster) Simon Harris said he was "deeply saddened" by the news, describing Gallagher as a "true treasure of Irish broadcasting and comedy".&lt;/p&gt;
+&lt;p&gt;Sinn Féin President Mary Lou McDonald said she was heartbroken for Gallagher's family, describing him as "down-to-Earth and warm".&lt;/p&gt;
+&lt;p&gt;"A true blue-Dub, proud northsider, a passionate supporter of Dublin GAA and Bohemians. He loved this place. PJ had so much to give and he gave it with such spirit, generosity and glint in his eye," she said.&lt;/p&gt;
+&lt;p&gt;"What do you say when words are not enough? RIP, PJ", said Dublin club Bohemians FC, of which Gallagher was a lifelong fan.&lt;/p&gt;</content:encoded>
+      <pubDate>Sat, 28 Nov 2026 13:59:05 GMT</pubDate>
+    </item>
     <item>
       <title>Catherine's emotional cancer documentary strips away the stiff upper lip</title>
       <link>https://www.bbc.com/news/articles/c6zxvy9j0wpjo</link>
